@@ -12,7 +12,21 @@
 - **Pro (£199)**: AI narratives + bundle.
 - **Pro+ (£299)**: + Partner solicitor review.
 
+## Additional Services
+- **Update/Refresh (£49)**: For returning users who need to update their Form E (e.g., mediation → court, or circumstances changed). All previous data retained — just update the figures.
+
 **Not legal advice – solicitor check required.**
+
+## When Form E is Needed
+
+| Route | Form E Required? | Timing |
+|-------|------------------|--------|
+| **Court (financial remedy)** | Mandatory | 35 days before First Appointment |
+| **Mediation** | Often requested | Early in process |
+| **Solicitor negotiation** | Frequently used | Any time |
+| **DIY consent order** | Recommended | Before drafting |
+
+Form E may be needed more than once during a divorce — initial version for mediation, updated version for court if mediation fails, or refreshed if circumstances change.
 
 ## Delivery
 Digital download within minutes. Save/resume anytime.

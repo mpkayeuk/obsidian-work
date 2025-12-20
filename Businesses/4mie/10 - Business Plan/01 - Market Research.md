@@ -12,7 +12,8 @@ The UK market is ripe: ~110,000 divorces annually, with ~40-50% involving financ
 ## 1. Market Analysis
 ### Size & Growth
 - **UK Divorces**: 113,505 in 2022 (ONS); projected 110k/year. No-fault divorce (2022) increased accessibility.
-- **Financial Disputes**: 40-50% require financial remedy proceedings (Form E mandatory). Est. 45k-55k Form E/year.
+- **Financial Disputes**: 40-50% require financial remedy proceedings (Form E mandatory). Est. 45k-55k Form E/year for court.
+- **Mediation & Voluntary Use**: Form E is frequently used outside court — mediators often request it (or equivalent) for "full and frank disclosure." Solicitor negotiations also use it voluntarily. This expands addressable market beyond court filers to nearly all divorces with assets to divide.
 - **Family Law Market**: £2.5B total (solicitors fees). Self-rep rising: 30% litigants in person (MoJ).
 - **LegalTech Submarket**: UK £1.2B (2023), CAGR 12-15% to £2B+ by 2028. Document automation/AI ~20% share.
 - **Divorce Tech Niche**: Global divorce software ~$1.2B (2023), UK ~£100-150M. Growth fueled by AI (e.g., chatbots for forms).
@@ -22,6 +23,15 @@ The UK market is ripe: ~110,000 divorces annually, with ~40-50% involving financ
 - **AI in Legal**: Tools like Harvey.ai, Casetext for docs. Family law lag but catching up (e.g., AI mediators).
 - **Pain Points**: Form E (80+ pages, detailed disclosures) takes 20-50 hours; errors delay cases.
 - **Regulation**: SRA allows AI if supervised; FCA for finance? GDPR critical for sensitive data.
+
+### Timing & Repeat Usage
+- **January Spike**: "Divorce Day" (first Monday of January) sees highest enquiry volumes. Q1 is peak season for divorce-related searches.
+- **Form E Needed Early**: Unlike court filing (which can take months), Form E is needed almost immediately when mediation begins. January enquiries → February/March mediation → Form E needed within weeks.
+- **Repeat Usage Opportunity**: Form E may be completed multiple times per divorce:
+  - Initial version for mediation (informal disclosure)
+  - Updated/formal version if mediation fails and court proceedings begin
+  - Refreshed version if circumstances change during lengthy proceedings
+- **Implication**: Users may return to update figures — supports "Update/Refresh" pricing tier at lower cost (data already captured).
 
 ### Competitors
 | Competitor | Description | Pricing | Strengths | Weaknesses |
@@ -49,7 +59,7 @@ SaaS fits perfectly (recurring need during 6-12 mo process).
 
 ## 3. 5-Year Revenue Projections
 **Assumptions**:
-- Market: 50k addressable Form E/year.
+- Market: 50k court-based Form E/year + estimated 20-30k mediation/voluntary use = 70-80k addressable Form E/year. Conservative estimate: 60k.
 - Pricing: Avg £199/user (Pro).
 - Adoption: Y1 0.9% share (450 users, marketing-driven); 50% YoY growth via SEO/partners/word-of-mouth.
 - CAC: £50 Y1 → £30 Y5 (content/affiliates).
