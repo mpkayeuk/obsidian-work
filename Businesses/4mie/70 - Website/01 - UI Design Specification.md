@@ -68,27 +68,27 @@ Not a solicitor (too formal), not a chatbot (too impersonal), but a knowledgeabl
 │ PRIMARY COLOURS                                             │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  ████████  Primary         #2D7D9A   Calm teal             │
-│  ████████  Primary Dark    #1E5A6E   Hover states          │
-│  ████████  Primary Light   #E8F4F7   Backgrounds           │
+│  ████████  Primary         #2D7D9A   Calm teal              │
+│  ████████  Primary Dark    #1E5A6E   Hover states           │
+│  ████████  Primary Light   #E8F4F7   Backgrounds            │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
 │ SECONDARY COLOURS                                           │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  ████████  Success         #5BA88B   Complete, positive    │
-│  ████████  Warning         #E8B44F   Attention needed      │
-│  ████████  Error           #D66853   Problems (use rarely) │
+│  ████████  Success         #5BA88B   Complete, positive     │
+│  ████████  Warning         #E8B44F   Attention needed       │
+│  ████████  Error           #D66853   Problems (use rarely)  │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
 │ NEUTRALS                                                    │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  ████████  Text Primary    #1A1A1A   Main text             │
-│  ████████  Text Secondary  #6B7280   Supporting text       │
-│  ████████  Border          #E5E7EB   Dividers, borders     │
-│  ████████  Background      #F8F9FA   Page background       │
-│  ████████  Surface         #FFFFFF   Cards, inputs         │
+│  ████████  Text Primary    #1A1A1A   Main text              │
+│  ████████  Text Secondary  #6B7280   Supporting text        │
+│  ████████  Border          #E5E7EB   Dividers, borders      │
+│  ████████  Background      #F8F9FA   Page background        │
+│  ████████  Surface         #FFFFFF   Cards, inputs          │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -953,7 +953,7 @@ SECTION STATUS
 ```
 AI MESSAGE
 ┌───────────────────────────────────────┐
-│ 🤖                                    │
+│ 🤖                                     │
 │                                       │
 │ Message content from the AI goes      │
 │ here. Can include:                    │
@@ -1023,13 +1023,13 @@ Please enter a valid amount (e.g., £50,000)
 
 SYSTEM ERROR (toast)
 ┌─────────────────────────────────────────┐
-│ ⚠️ Couldn't save. Retrying...          │
+│ ⚠️ Couldn't save. Retrying...           │
 └─────────────────────────────────────────┘
 (Auto-retry, then show "Contact support" if persists)
 
 CONNECTION LOST (banner)
 ┌─────────────────────────────────────────────────────────────┐
-│ 📡 Connection lost. Your work is saved locally.   [Retry]  │
+│ 📡 Connection lost. Your work is saved locally.   [Retry]   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -1044,9 +1044,9 @@ BUTTON LOADING
 CONTENT LOADING
 ┌─────────────────────────────────────────┐
 │                                         │
-│  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         │
-│  ░░░░░░░░░░░░░░░░░░░                   │
-│  ░░░░░░░░░░░░░░░░░░░░░░░░░             │
+│  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░          │
+│  ░░░░░░░░░░░░░░░░░░░                    │
+│  ░░░░░░░░░░░░░░░░░░░░░░░░░              │
 │                                         │
 └─────────────────────────────────────────┘
 (Skeleton loading with subtle animation)
