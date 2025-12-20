@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "4533edbf7081b86f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0f82f1a65ba1c73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6731f52bf03aae33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Businesses/00 - Inbox/Business Focus Recommendation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business Focus Recommendation"
+            }
+          },
+          {
+            "id": "b61be454d6259220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Businesses/4mie/70 - Website/01 - UI Design Specification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - UI Design Specification"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d43e2ebad01ccf15",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c15cf5ef1b9c972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "525fc7e74f26b50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24d22e5728e9443a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e0258602e3aee15f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53e651b753594388",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b7753fbea007c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec288ba127b24470",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "7d58e888f9ffc1c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "8d143e3834917f58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bff85759c005e1d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b61be454d6259220",
+  "lastOpenFiles": [
+    "Businesses/4mie/40 - Operations/02 - Prompt Engineering Guide.md",
+    "Businesses/4mie/70 - Website/01 - UI Design Specification.md",
+    "Businesses/4mie/80 - Resources/01 - Form E Comprehensive Guidance.md",
+    "Businesses/4mie/20 - Services/01 - Form E Data Model.md",
+    "Businesses/4mie/80 - Resources/00 - Form E Template and Links.md",
+    "Businesses/4mie/_index.md",
+    "Businesses/4mie/10 - Business Plan/01 - Market Research.md",
+    "Businesses/4mie/10 - Business Plan/02 - Financial Projections.md",
+    "Businesses/4mie/00 - Inbox/Comprehensive Market Research.md",
+    "Businesses/4mie/40 - Operations/01 - AI LLM Strategy.md",
+    "Businesses/4mie/40 - Operations/00 - Tech Stack and MVP Build Plan.md",
+    "Businesses/4mie/30 - Marketing and Sales/00 - Launch Strategy.md",
+    "Businesses/4mie/50 - Legal and Finance/00 - Disclaimers and Terms.md",
+    "Businesses/4mie/60 - Pitches/00 - Investor Pitch Outline.md",
+    "Businesses/4mie/70 - Website/00 - Landing Page Content.md",
+    "Businesses/4mie/10 - Business Plan/01 - MVP Roadmap and Financials.md",
+    "Businesses/4mie/20 - Services/00 - Form E Guidance Service.md",
+    "Businesses/4mie/10 - Business Plan/00 - Mission and Vision.md",
+    "Businesses/CIOJoy/00 - Inbox/CIOJoy Business Assessment - Pricing, Offering, and Pitch Analysis.md",
+    "clarify_config_format.md",
+    "Businesses/00 - Inbox/Business Focus Recommendation.md",
+    "explanation_for_mcp_config.md",
+    "Businesses/CIOJoy/00 - Inbox/CIOJoy To-Do List.md",
+    "Businesses/00 - Inbox",
+    "Businesses/CIOJoy/30 - Marketing and Sales/00 - Target Market.md",
+    "Businesses/CIOJoy/00 - Inbox/Financial Projections and Exit Value.md",
+    "Businesses/CIOJoy/00 - Inbox/COS Explanation.md",
+    "Businesses/BikeFuel Pro/80 - Resources",
+    "Businesses/BikeFuel Pro/70 - Website",
+    "Businesses/BikeFuel Pro/60 - Pitches",
+    "Businesses/BikeFuel Pro/50 - Legal and Finance",
+    "Businesses/BikeFuel Pro/40 - Operations",
+    "Businesses/BikeFuel Pro/30 - Marketing and Sales",
+    "Businesses/BikeFuel Pro/20 - Services",
+    "Businesses/BikeFuel Pro/10 - Business Plan",
+    "Businesses/BikeFuel Pro/00 - Inbox"
+  ]
+}
