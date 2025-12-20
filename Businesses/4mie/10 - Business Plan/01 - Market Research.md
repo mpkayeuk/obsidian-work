@@ -51,7 +51,7 @@ SaaS fits perfectly (recurring need during 6-12 mo process).
 |-------|-------------|------|------|-------------|
 | **Freemium** | Free basic draft; paid tiers for full features | Low barrier, viral | Free users drain resources | High – acquire via free trial |
 | **Tiered Subscription** | Monthly recurring at various levels | Recurring revenue | Churn post-divorce | Medium – short lifecycle |
-| **One-Time Fee (Adopted)** | Basic £99, Pro £199, Pro+ £299 (w/ solicitor review) | Simple, matches one-off need | Misses some upsells | **Best** – matches divorce lifecycle |
+| **One-Time Fee (Adopted)** | Basic £99, Pro £249 (unlimited updates), Solicitor Review +£299 add-on | Simple, matches one-off need | Misses some upsells | **Best** – matches divorce lifecycle |
 | **Pay-Per-Use** | Per-question or per-form pricing | Flexible | Unpredictable | Low |
 | **Hybrid** | One-time + optional add-ons (forensic analysis, premium support) | Balances acquisition/upsell | More complex | Good complement to one-time |
 
@@ -60,7 +60,7 @@ SaaS fits perfectly (recurring need during 6-12 mo process).
 ## 3. 5-Year Revenue Projections
 **Assumptions**:
 - Market: 50k court-based Form E/year + estimated 20-30k mediation/voluntary use = 70-80k addressable Form E/year. Conservative estimate: 60k.
-- Pricing: Avg £199/user (Pro).
+- Pricing: Avg £249/user (Pro tier). With ~20% adding Solicitor Review (+£299), effective average ~£310/user.
 - Adoption: Y1 0.9% share (450 users, marketing-driven); 50% YoY growth via SEO/partners/word-of-mouth.
 - CAC: £50 Y1 → £30 Y5 (content/affiliates).
 - Churn: Low (one-off).
@@ -68,13 +68,13 @@ SaaS fits perfectly (recurring need during 6-12 mo process).
 
 | Year | Users | Revenue | Expenses | Profit |
 |------|-------|---------|----------|--------|
-| 1 | 450 | £89,550 | £60k | £29k |
-| 2 | 675 | £134k | £80k | £54k |
-| 3 | 1,012 | £201k | £100k | £101k |
-| 4 | 1,518 | £302k | £130k | £172k |
-| 5 | 2,277 | £453k | £160k | £293k |
+| 1 | 450 | £140k | £70k | £70k |
+| 2 | 675 | £209k | £95k | £114k |
+| 3 | 1,012 | £314k | £130k | £184k |
+| 4 | 1,518 | £471k | £175k | £296k |
+| 5 | 2,277 | £706k | £230k | £476k |
 
-**Total 5Y Revenue**: £1.18M. Upside: 2x with lawyer partnerships.
+**Total 5Y Revenue**: £1.84M. Note: Expenses increased to account for solicitor partner payouts (~£60/user for those adding review).
 
 ## 4. SWOT Analysis
 ### Strengths

@@ -3,7 +3,7 @@
 ## Disclaimer (Prominent on all pages)
 **4mie is not a law firm and does not provide legal advice. The tools and outputs are for guidance only, based on your input. Form E and all documents must be reviewed and approved by a qualified solicitor before submission to the court or your ex-partner.**
 
-**We recommend using our partner solicitors for a fixed-fee review (£199 - £499 depending on complexity). We earn a referral fee from partners.**
+**We recommend adding our Solicitor Review (+£299) for professional oversight. We earn a referral fee from partners.**
 
 ## Terms of Service (ToS)
 1. **User Responsibility**: You must provide truthful information. 4mie AI optimizes presentation but does not alter facts.
@@ -18,7 +18,7 @@
 - Sharing: Partners only with consent.
 
 ## Solicitor Partners
-- Partner 1: Fixed £299 review.
+- Partner 1: Fixed £299 add-on (we pay partner ~£175, retain ~£124).
 - [List 3-5 SRA-regulated firms]
 
 **Template for Website Footer & Popups.**

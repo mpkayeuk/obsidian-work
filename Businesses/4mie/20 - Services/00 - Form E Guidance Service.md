@@ -8,12 +8,20 @@
 5. **Solicitor Ready**: Formatted for easy review.
 
 ## Pricing Tiers (MVP)
-- **Basic (£99)**: Draft Form E PDF.
-- **Pro (£199)**: AI narratives + bundle.
-- **Pro+ (£299)**: + Partner solicitor review.
+- **Basic (£99)**: Draft Form E PDF. Updates £49 each.
+- **Pro (£249)**: AI-optimised narratives + evidence bundle + **unlimited updates until Final Order**.
 
-## Additional Services
-- **Update/Refresh (£49)**: For returning users who need to update their Form E (e.g., mediation → court, or circumstances changed). All previous data retained — just update the figures.
+## Add-ons
+- **Solicitor Review (+£299)**: Partner solicitor reviews your Form E. Can add to any tier. Fixed fee, no hourly billing surprises.
+
+## Update Pricing Rationale
+Form E is rarely one-and-done. Real-world usage shows 2-3+ versions are common:
+- Initial submission on deadline
+- Corrections/additional disclosure
+- Updated version with questionnaire responses
+- Further updates if proceedings continue to FDR/Final Hearing
+
+Pro tier includes unlimited updates because corrections are normal, not exceptional. Basic tier suits simple, uncontested cases where one version suffices.
 
 **Not legal advice – solicitor check required.**
 

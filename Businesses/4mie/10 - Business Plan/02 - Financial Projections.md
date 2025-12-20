@@ -10,23 +10,24 @@
 | **Total** | **£3,500** |
 
 ## Break-even Analysis
-- Average revenue per user: £199 (Pro tier)
+- Average revenue per user: £310 (Pro £249 + ~20% adding Solicitor Review £299)
 - Estimated cost per form (AI + infra): £5
-- Gross margin: ~97%
-- **Break-even: ~20 Pro users/month**
+- Solicitor payout (for ~20% adding review): ~£35/user avg across all users
+- Gross margin: ~87%
+- **Break-even: ~18 Pro users/month**
 
 ## 5-Year Projections
 See [[01 - Market Research#3. 5-Year Revenue Projections|Market Research]] for detailed analysis.
 
 | Year | Users | Revenue | Profit |
 |------|-------|---------|--------|
-| 1 | 450 | £90k | £29k |
-| 2 | 675 | £134k | £54k |
-| 3 | 1,012 | £201k | £101k |
-| 4 | 1,518 | £302k | £172k |
-| 5 | 2,277 | £453k | £293k |
+| 1 | 450 | £140k | £70k |
+| 2 | 675 | £209k | £114k |
+| 3 | 1,012 | £314k | £184k |
+| 4 | 1,518 | £471k | £296k |
+| 5 | 2,277 | £706k | £476k |
 
-**5-Year Total Revenue**: £1.18M
+**5-Year Total Revenue**: £1.84M
 
 ## MVP Timeline
 See [[40 - Operations/00 - Tech Stack and MVP Build Plan|Tech Stack]] for build details.

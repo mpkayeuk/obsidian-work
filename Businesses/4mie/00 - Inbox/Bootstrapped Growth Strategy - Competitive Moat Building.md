@@ -187,7 +187,7 @@ The phrase you're thinking of: **"Social proof"** — testimonials, reviews, cas
 #### Offer 1: "First 10 Free" (Founding Users)
 
 **The deal:**
-> "First 10 customers get 4mie Pro (£199 value) completely free in exchange for:
+> "First 10 customers get 4mie Pro (£249 value) completely free in exchange for:
 > - A short video testimonial (30-60 seconds, phone quality fine)
 > - Permission to use your story anonymously in marketing
 > - Honest feedback during and after"
@@ -206,7 +206,7 @@ The phrase you're thinking of: **"Social proof"** — testimonials, reviews, cas
 #### Offer 2: "Beta Testers" (Next 50)
 
 **The deal:**
-> "50% off (£99 instead of £199) for the next 50 users who:
+> "50% off (£125 instead of £249) for the next 50 users who:
 > - Complete a 10-minute feedback call
 > - Leave an honest review on Trustpilot/Google
 > - Share their experience on one social platform"
@@ -290,7 +290,7 @@ Target: 20+ reviews in first month. This dominates search results.
 #### Limited "Lifetime Access" Offer
 
 For launch week only:
-> "£299 once = lifetime access to all future features"
+> "£349 once = lifetime access to Pro + all future features"
 
 **Why it works:**
 - Generates cash upfront
@@ -328,7 +328,7 @@ Genuine good + PR angle + builds goodwill in support communities.
 | Week 0 | Founding Members (free) | 10 | Video testimonials |
 | Week 0-1 | Beta Testers (50% off) | 50 | Reviews + feedback |
 | Week 1 | Pay What You Want | Unlimited | Volume + buzz |
-| Week 2+ | Lifetime Access (£299) | 50 max | Cash + superfans |
+| Week 2+ | Lifetime Access (£349) | 50 max | Cash + superfans |
 | Ongoing | Referral programme | Unlimited | Viral growth |
 
 ---

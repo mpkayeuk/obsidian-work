@@ -15,7 +15,25 @@
 4. **Partner Reviews**: Fixed-fee solicitor check.
 
 ## Pricing
-Same as services.
+
+### Basic — £99
+- Complete Form E PDF
+- Save and resume anytime
+- Updates £49 each
+
+### Pro — £249 ⭐ RECOMMENDED
+- Everything in Basic
+- AI-optimised narratives (clear, court-appropriate language)
+- Evidence bundle (paginated, indexed, PD27A compliant)
+- **Unlimited updates until Final Order**
+
+### Solicitor Review — +£299
+- Add to any tier
+- Partner solicitor reviews your complete Form E
+- Written feedback + 30-minute call
+- Fixed fee — no hourly billing surprises
+
+*Most users choose Pro. If your case is complex or contested, add Solicitor Review for peace of mind.*
 
 ## Footer
 Disclaimers, Privacy, Terms | 4mie – Form E, For Me.

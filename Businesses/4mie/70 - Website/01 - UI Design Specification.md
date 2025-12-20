@@ -273,7 +273,7 @@ lg:   0 10px 15px rgba(0,0,0,0.1)     Modals, dropdowns
 │    ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐            │
 │    │     Basic       │  │      Pro        │  │     Pro+        │            │
 │    │                 │  │   POPULAR       │  │                 │            │
-│    │     £99         │  │     £199        │  │     £299        │            │
+│    │     £99         │  │     £249        │  │    +£299        │            │
 │    │                 │  │                 │  │                 │            │
 │    │ • Form E PDF    │  │ • Everything in │  │ • Everything in │            │
 │    │ • Basic         │  │   Basic         │  │   Pro           │            │
@@ -505,7 +505,7 @@ lg:   0 10px 15px rgba(0,0,0,0.1)     Modals, dropdowns
 │     │  ┌─────────────────────────────────────────────────────────────┐  │   │
 │     │  │                                                             │  │   │
 │     │  │   Get a solicitor review                                    │  │   │
-│     │  │   Fixed fee: £199                                           │  │   │
+│     │  │   Fixed fee: £299                                           │  │   │
 │     │  │                                                             │  │   │
 │     │  │   ✓ Review of your complete Form E                          │  │   │
 │     │  │   ✓ Advice on complex areas                                 │  │   │
@@ -675,7 +675,7 @@ lg:   0 10px 15px rgba(0,0,0,0.1)     Modals, dropdowns
 │   │                                                                     │   │
 │   │   ┌─────────────────────────────────────────────────────────────┐   │   │
 │   │   │                                                             │   │   │
-│   │   │   📞  Get solicitor review - £199                           │   │   │
+│   │   │   📞  Get solicitor review - £299                           │   │   │
 │   │   │                                                             │   │   │
 │   │   │   A qualified family solicitor will:                        │   │   │
 │   │   │   ✓ Review your complete Form E                             │   │   │
