@@ -178,7 +178,192 @@ If you're comfortable on camera:
 
 ---
 
-## Tier 5: Launch Amplification
+## Tier 5: Launch Offers & Early Adopter Promotions
+
+The phrase you're thinking of: **"Social proof"** — testimonials, reviews, case studies.
+
+### The Founding Members Strategy
+
+#### Offer 1: "First 10 Free" (Founding Users)
+
+**The deal:**
+> "First 10 customers get 4mie Pro (£199 value) completely free in exchange for:
+> - A short video testimonial (30-60 seconds, phone quality fine)
+> - Permission to use your story anonymously in marketing
+> - Honest feedback during and after"
+
+**Why it works:**
+- 10 testimonials = more valuable than £1,990 revenue
+- Video testimonials convert 2-3x better than text
+- Creates urgency ("only 10 spots")
+- These users become evangelists
+
+**How to frame it:**
+- "Founding Member" status (exclusive, not desperate)
+- Waitlist gets first access
+- Announce on X: "Looking for 10 people currently filling out Form E to try 4mie free"
+
+#### Offer 2: "Beta Testers" (Next 50)
+
+**The deal:**
+> "50% off (£99 instead of £199) for the next 50 users who:
+> - Complete a 10-minute feedback call
+> - Leave an honest review on Trustpilot/Google
+> - Share their experience on one social platform"
+
+**Why it works:**
+- Still captures revenue (£4,950 vs £9,950)
+- Builds review count fast (critical for trust)
+- Social shares = free distribution
+
+#### Offer 3: "Pay What You Want" Week
+
+After founding members, run a 7-day PWYW launch:
+> "Launch week: Pay what you think it's worth. Suggested: £99-199."
+
+**Psychology:**
+- Reduces friction to zero
+- Most people pay fairly (often more than minimum)
+- Generates volume for testimonials and word-of-mouth
+- Creates urgency (ends Sunday)
+
+---
+
+### More Promotional Tactics
+
+#### Referral Programme
+
+**Simple structure:**
+- Give £20, Get £20
+- Referrer gets £20 credit (or cash) when friend pays
+- Friend gets £20 off first purchase
+
+**For early stage:**
+- "Refer a friend, you both get 50% off"
+- Or: "Refer 3 friends, get Pro+ free"
+
+#### Divorce Professional Seeding
+
+Give free access to 20-30:
+- Divorce coaches
+- Mediators
+- McKenzie Friends
+- Family law bloggers/influencers
+
+**Ask in return:**
+- Mention in their newsletter
+- Social post
+- Recommend to clients
+
+One mediator seeing 10 clients/month = 120 potential referrals/year.
+
+#### "Form E Horror Story" Campaign
+
+Run on X/Reddit/Mumsnet:
+> "Share your Form E horror story. Worst 3 win free 4mie Pro."
+
+**Gets you:**
+- Engagement and shares
+- Real pain points for marketing copy
+- Content for blog posts
+- Email addresses from participants
+
+#### Countdown Launch
+
+Build anticipation:
+- "Launching in 7 days. First 10 free. Waitlist open."
+- Daily countdown posts
+- Behind-the-scenes content
+- "Tomorrow: 4mie goes live"
+
+Creates FOMO and urgency.
+
+#### Trustpilot/Google Review Blitz
+
+After first 20 customers:
+- Personal email asking for review
+- Make it easy (direct link)
+- Offer: "Leave a review, get our Form E checklist PDF free"
+
+Target: 20+ reviews in first month. This dominates search results.
+
+#### Limited "Lifetime Access" Offer
+
+For launch week only:
+> "£299 once = lifetime access to all future features"
+
+**Why it works:**
+- Generates cash upfront
+- Creates superfans invested in your success
+- Only 20-50 spots (scarcity)
+- Funds further development
+
+**Risk:** Don't oversell — 50 max.
+
+#### Partner Launch Bundles
+
+Approach divorce coaches:
+> "Let's do a joint offer: Your coaching + 4mie Pro for £X. We split revenue."
+
+They promote to their audience. You both win.
+
+#### Charity/Hardship Fund
+
+Set aside 5 free spots/month for:
+- Domestic abuse survivors
+- Those on benefits
+- Referred by Citizens Advice
+
+**Marketing angle:** "4mie believes everyone deserves proper legal disclosure, regardless of income."
+
+Genuine good + PR angle + builds goodwill in support communities.
+
+---
+
+### Launch Offer Timeline
+
+| Phase | Offer | Volume | Goal |
+|-------|-------|--------|------|
+| Week -2 | Waitlist open | Unlimited | Build email list |
+| Week 0 | Founding Members (free) | 10 | Video testimonials |
+| Week 0-1 | Beta Testers (50% off) | 50 | Reviews + feedback |
+| Week 1 | Pay What You Want | Unlimited | Volume + buzz |
+| Week 2+ | Lifetime Access (£299) | 50 max | Cash + superfans |
+| Ongoing | Referral programme | Unlimited | Viral growth |
+
+---
+
+### Social Proof Assets to Collect
+
+From every early user, try to get:
+
+1. **Video testimonial** (30-60 sec, phone fine)
+   - "What was Form E like before 4mie?"
+   - "How did 4mie help?"
+   - "Would you recommend it?"
+
+2. **Written testimonial** (2-3 sentences)
+   - For landing page
+   - For social ads later
+
+3. **Star rating** (Trustpilot, Google)
+   - Builds search credibility
+
+4. **Before/after story**
+   - "I spent 3 weeks struggling vs. done in 2 hours"
+   - Powerful for case studies
+
+5. **Social share**
+   - Screenshot their tweet/post
+   - Repost with permission
+
+6. **Outcome data** (anonymised)
+   - "Average completion time: 47 minutes"
+   - "98% accepted by court first time"
+
+---
+
+## Tier 6: Launch Amplification
 
 ### 1. Product Hunt Launch
 
