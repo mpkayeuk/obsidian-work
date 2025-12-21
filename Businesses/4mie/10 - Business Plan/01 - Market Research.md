@@ -12,8 +12,27 @@ The UK market is ripe: ~110,000 divorces annually, with ~40-50% involving financ
 ## 1. Market Analysis
 ### Size & Growth
 - **UK Divorces**: 113,505 in 2022 (ONS); projected 110k/year. No-fault divorce (2022) increased accessibility.
-- **Financial Disputes**: 40-50% require financial remedy proceedings (Form E mandatory). Est. 45k-55k Form E/year for court.
-- **Mediation & Voluntary Use**: Form E is frequently used outside court — mediators often request it (or equivalent) for "full and frank disclosure." Solicitor negotiations also use it voluntarily. This expands addressable market beyond court filers to nearly all divorces with assets to divide.
+- **Financial Disputes**: 40-50% require financial remedy proceedings (Form E mandatory). Est. 47k Form E applications/year for court (Q1 2025 data × 4).
+- **Mediation & Voluntary Use**: Form E is frequently used outside court — mediators often request it (or equivalent) for "full and frank disclosure." Solicitor negotiations also use it voluntarily. This expands addressable market beyond court filers.
+- **LIP Form Es**: With 38% of financial remedy cases having neither party represented + ~43% mixed representation, approximately **55,000 LIP Form Es** are needed annually.
+
+### LIP Demographics & Willingness to Pay
+- **Why self-represented**: ~75% can't get legal aid AND can't afford private solicitors (post-2013 LASPO cuts).
+- **Income profile**: LIPs tend to be younger, lower income, lower education than represented parties.
+- **Exception**: Some have substantial assets but no access to liquid funds for legal fees.
+- **Growth**: 96% increase in family LIPs since 2016; representation dropped from 59% (2012) to 28% (2025).
+
+**Market Segmentation by Price Tolerance:**
+
+| Segment | Price Range | % of LIPs | 4mie Fit |
+|---------|-------------|-----------|----------|
+| Can't pay anything | £0-100 | ~20% | Not addressable |
+| Budget DIY | £100-300 | ~35% | Basic tier (£99) |
+| Supported DIY | £300-700 | ~30% | Pro tier (£399) |
+| Light-touch professional | £700-1,500 | ~10% | Pro + Solicitor (£698) |
+| Wants full service | £1,500+ | ~5% | Will use solicitor |
+
+**Realistic addressable market**: ~75% of 55,000 = **~41,000 LIP Form Es annually**
 - **Family Law Market**: £2.5B total (solicitors fees). Self-rep rising: 30% litigants in person (MoJ).
 - **LegalTech Submarket**: UK £1.2B (2023), CAGR 12-15% to £2B+ by 2028. Document automation/AI ~20% share.
 - **Divorce Tech Niche**: Global divorce software ~$1.2B (2023), UK ~£100-150M. Growth fueled by AI (e.g., chatbots for forms).
@@ -51,30 +70,49 @@ SaaS fits perfectly (recurring need during 6-12 mo process).
 |-------|-------------|------|------|-------------|
 | **Freemium** | Free basic draft; paid tiers for full features | Low barrier, viral | Free users drain resources | High – acquire via free trial |
 | **Tiered Subscription** | Monthly recurring at various levels | Recurring revenue | Churn post-divorce | Medium – short lifecycle |
-| **One-Time Fee (Adopted)** | Basic £99, Pro £249 (unlimited updates), Solicitor Review +£299 add-on | Simple, matches one-off need | Misses some upsells | **Best** – matches divorce lifecycle |
+| **One-Time Fee (Adopted)** | Basic £99, Pro £399 (unlimited updates + ES2), Solicitor Review +£299 add-on | Simple, matches one-off need | Misses some upsells | **Best** – matches divorce lifecycle |
 | **Pay-Per-Use** | Per-question or per-form pricing | Flexible | Unpredictable | Low |
 | **Hybrid** | One-time + optional add-ons (forensic analysis, premium support) | Balances acquisition/upsell | More complex | Good complement to one-time |
 
 **Monetization Add-ons**: Lawyer referral (20% comm), premium templates (£49), storage (£5/mo).
 
 ## 3. 5-Year Revenue Projections
-**Assumptions**:
-- Market: 50k court-based Form E/year + estimated 20-30k mediation/voluntary use = 70-80k addressable Form E/year. Conservative estimate: 60k.
-- Pricing: Avg £249/user (Pro tier). With ~20% adding Solicitor Review (+£299), effective average ~£310/user.
-- Adoption: Y1 0.9% share (450 users, marketing-driven); 50% YoY growth via SEO/partners/word-of-mouth.
-- CAC: £50 Y1 → £30 Y5 (content/affiliates).
-- Churn: Low (one-off).
-- Costs: 40% COGS (AI/cloud), 30% marketing, 20% ops.
 
-| Year | Users | Revenue | Expenses | Profit |
-|------|-------|---------|----------|--------|
-| 1 | 450 | £140k | £70k | £70k |
-| 2 | 675 | £209k | £95k | £114k |
-| 3 | 1,012 | £314k | £130k | £184k |
-| 4 | 1,518 | £471k | £175k | £296k |
-| 5 | 2,277 | £706k | £230k | £476k |
+**Market Assumptions**:
+- Total LIP Form Es annually: ~55,000
+- Addressable (can afford £99+): ~41,000 (75% of total)
+- Pricing: Basic £99, Pro £399, Solicitor Review +£299
 
-**Total 5Y Revenue**: £1.84M. Note: Expenses increased to account for solicitor partner payouts (~£60/user for those adding review).
+**Pricing Mix (based on LIP income research)**:
+- Basic (£99): 15% of users
+- Pro only (£399): 55% of users
+- Pro + Solicitor (£698): 30% of users
+- **Weighted average revenue: ~£410-450/user**
+
+**Market Capture Rates**:
+
+| Year | Share | Rationale |
+|------|-------|-----------|
+| 1 | 1.5% | Building awareness, SEO nascent, community starting |
+| 2 | 2.5% | SEO traction, referrals starting, some partnerships |
+| 3 | 4% | Established presence, word-of-mouth, strong reviews |
+| 4 | 5.5% | Market recognition, partnership network mature |
+| 5 | 7% | Category leader in LIP Form E niche |
+
+**Revenue Projections**:
+
+| Year | Share | Users | Avg Rev | Revenue | Expenses | Profit |
+|------|-------|-------|---------|---------|----------|--------|
+| 1 | 1.5% | 620 | £410 | £254k | £100k | £154k |
+| 2 | 2.5% | 1,030 | £420 | £433k | £160k | £273k |
+| 3 | 4% | 1,650 | £430 | £710k | £250k | £460k |
+| 4 | 5.5% | 2,270 | £440 | £999k | £350k | £649k |
+| 5 | 7% | 2,890 | £450 | £1.30M | £450k | £850k |
+
+**5-Year Total Revenue**: £3.7M
+**5-Year Total Profit**: £2.4M
+
+**Expense breakdown**: AI/infrastructure (~15%), marketing (~25%), solicitor payouts (~12% — only for ~30% of users), operations/support (~8%), margin (~40%).
 
 ## 4. SWOT Analysis
 ### Strengths

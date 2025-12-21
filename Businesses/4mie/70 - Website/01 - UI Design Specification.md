@@ -273,7 +273,7 @@ lg:   0 10px 15px rgba(0,0,0,0.1)     Modals, dropdowns
 │    ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐            │
 │    │     Basic       │  │      Pro        │  │     Pro+        │            │
 │    │                 │  │   POPULAR       │  │                 │            │
-│    │     £99         │  │     £249        │  │    +£299        │            │
+│    │     £99         │  │     £399        │  │    +£299        │            │
 │    │                 │  │                 │  │                 │            │
 │    │ • Form E PDF    │  │ • Everything in │  │ • Everything in │            │
 │    │ • Basic         │  │   Basic         │  │   Pro           │            │

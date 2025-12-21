@@ -187,7 +187,7 @@ The phrase you're thinking of: **"Social proof"** — testimonials, reviews, cas
 #### Offer 1: "First 10 Free" (Founding Users)
 
 **The deal:**
-> "First 10 customers get 4mie Pro (£249 value) completely free in exchange for:
+> "First 10 customers get 4mie Pro (£399 value) completely free in exchange for:
 > - A short video testimonial (30-60 seconds, phone quality fine)
 > - Permission to use your story anonymously in marketing
 > - Honest feedback during and after"
@@ -206,7 +206,7 @@ The phrase you're thinking of: **"Social proof"** — testimonials, reviews, cas
 #### Offer 2: "Beta Testers" (Next 50)
 
 **The deal:**
-> "50% off (£125 instead of £249) for the next 50 users who:
+> "50% off (£199 instead of £399) for the next 50 users who:
 > - Complete a 10-minute feedback call
 > - Leave an honest review on Trustpilot/Google
 > - Share their experience on one social platform"

@@ -11,13 +11,13 @@ AI-powered SaaS platform helping UK individuals complete Form E (divorce financi
 |--------|--------|
 | MVP Timeline | 7 weeks |
 | Startup Cost | £3,500 |
-| Break-even | 20 Pro users/month |
-| Y1 Revenue Target | £140k |
-| Y5 Revenue Target | £706k |
+| Break-even | 15 Pro users/month |
+| Y1 Revenue Target | £254k |
+| Y5 Revenue Target | £1.30M |
 
 ## Pricing (Canonical)
-- **Basic** - £99: Draft Form E PDF (updates £49 each)
-- **Pro** - £249: AI-optimised narratives + evidence bundle + unlimited updates until Final Order
+- **Basic** - £99: Draft Form E PDF (updates £49 each, ES2 add-on £79)
+- **Pro** - £399: AI-optimised narratives + evidence bundle + ES2 + unlimited updates until Final Order
 - **Solicitor Review Add-on** - +£299: Partner solicitor review (can add to any tier)
 
 ## Key Links
