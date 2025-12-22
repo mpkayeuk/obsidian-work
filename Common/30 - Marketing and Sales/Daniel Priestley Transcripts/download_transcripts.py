@@ -58,11 +58,19 @@ def convert_vtt_to_txt(vtt_file_path):
         # Remove VTT formatting tags
         content = re.sub(r'<[^>]+>', '', content)
 
-        # Remove duplicate lines and extra whitespace
+        # Split into lines and remove empty ones
         lines = [line.strip() for line in content.split('\n') if line.strip()]
 
-        # Join lines into paragraphs (every sentence on new line, but group similar content)
-        text = '\n'.join(lines)
+        # Remove consecutive duplicate lines (VTT often has duplicates for captions)
+        deduplicated_lines = []
+        prev_line = None
+        for line in lines:
+            if line != prev_line:
+                deduplicated_lines.append(line)
+                prev_line = line
+
+        # Join lines with space to form continuous text
+        text = ' '.join(deduplicated_lines)
 
         # Save as txt file
         txt_file_path = vtt_file_path.replace('.vtt', '.txt')
