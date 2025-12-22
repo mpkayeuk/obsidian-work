@@ -81,7 +81,7 @@ Format your response as structured JSON:
         request = {
             "custom_id": video_data['video_id'],
             "params": {
-                "model": "claude-3-5-sonnet-20240620",
+                "model": "claude-sonnet-4-5-20250929",
                 "max_tokens": 2500,
                 "messages": [
                     {"role": "user", "content": prompt}
