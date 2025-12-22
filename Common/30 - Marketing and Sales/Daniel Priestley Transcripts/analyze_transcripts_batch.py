@@ -81,7 +81,7 @@ Format your response as structured JSON:
         request = {
             "custom_id": video_data['video_id'],
             "params": {
-                "model": "claude-3-5-sonnet-20241022",
+                "model": "claude-3-5-sonnet-20240620",
                 "max_tokens": 2500,
                 "messages": [
                     {"role": "user", "content": prompt}
@@ -98,22 +98,16 @@ Format your response as structured JSON:
 
 def submit_batch(client, requests):
     """Submit batch requests to Anthropic"""
-    # Save requests to JSONL file
-    batch_file = Path(__file__).parent / "batch_requests.jsonl"
+    print(f"Submitting batch with {len(requests)} requests to Anthropic API...")
 
-    with open(batch_file, 'w') as f:
-        for item in requests:
-            f.write(json.dumps(item['request']) + '\n')
-
-    print(f"Created batch file with {len(requests)} requests")
-    print(f"Submitting batch to Anthropic API...")
+    # Prepare batch requests
+    batch_requests = [item['request'] for item in requests]
 
     # Create message batch
     try:
-        with open(batch_file, 'rb') as f:
-            message_batch = client.messages.batches.create(
-                requests=f
-            )
+        message_batch = client.messages.batches.create(
+            requests=batch_requests
+        )
 
         print(f"✓ Batch submitted successfully!")
         print(f"  Batch ID: {message_batch.id}")
@@ -123,6 +117,8 @@ def submit_batch(client, requests):
 
     except Exception as e:
         print(f"✗ Error submitting batch: {e}")
+        import traceback
+        traceback.print_exc()
         return None
 
 def poll_batch_status(client, batch_id, poll_interval=10):
@@ -296,7 +292,7 @@ def main():
     print("=" * 60)
 
     # Find all JSON files (exclude summary files)
-    json_files = sorted([f for f in script_dir.glob('*.json') if 'summary' not in f.name.lower()])
+    json_files = sorted([f for f in script_dir.glob('*.json') if 'summar' not in f.name.lower()])
 
     if not json_files:
         print("No JSON transcript files found")
