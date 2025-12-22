@@ -1,0 +1,1432 @@
+[00:00:00.320] I'm going to be honest. I'm pissed off.
+[00:00:01.680] I'm going to be honest. I'm pissed off. I'm annoyed that nobody told me what I'm
+[00:00:03.669] I'm annoyed that nobody told me what I'm
+[00:00:03.679] I'm annoyed that nobody told me what I'm about to tell you earlier in my career.
+[00:00:05.590] about to tell you earlier in my career.
+[00:00:05.600] about to tell you earlier in my career. And it all makes sense now. It makes
+[00:00:07.190] And it all makes sense now. It makes
+[00:00:07.200] And it all makes sense now. It makes sense as to why some people through
+[00:00:08.710] sense as to why some people through
+[00:00:08.720] sense as to why some people through history have been so unbelievably
+[00:00:10.470] history have been so unbelievably
+[00:00:10.480] history have been so unbelievably productive while other people don't seem
+[00:00:13.030] productive while other people don't seem
+[00:00:13.040] productive while other people don't seem to make much progress at all. And it
+[00:00:15.669] to make much progress at all. And it
+[00:00:15.679] to make much progress at all. And it comes down to this idea that I'm about
+[00:00:17.430] comes down to this idea that I'm about
+[00:00:17.440] comes down to this idea that I'm about to tell you, which is called signal
+[00:00:19.670] to tell you, which is called signal
+[00:00:19.680] to tell you, which is called signal versus noise. And I'm going to show you
+[00:00:22.310] versus noise. And I'm going to show you
+[00:00:22.320] versus noise. And I'm going to show you how to implement it into your life. Oh,
+[00:00:24.870] how to implement it into your life. Oh,
+[00:00:24.880] how to implement it into your life. Oh, and also there's this essay that I read
+[00:00:26.630] and also there's this essay that I read
+[00:00:26.640] and also there's this essay that I read called Do Things That Don't Scale. I
+[00:00:28.070] called Do Things That Don't Scale. I
+[00:00:28.080] called Do Things That Don't Scale. I read it like a decade ago and it's
+[00:00:29.269] read it like a decade ago and it's
+[00:00:29.279] read it like a decade ago and it's changed my life so much. So many of you
+[00:00:30.950] changed my life so much. So many of you
+[00:00:30.960] changed my life so much. So many of you are building things and you need to know
+[00:00:33.430] are building things and you need to know
+[00:00:33.440] are building things and you need to know this essay. So stay with me. Stay with
+[00:00:34.870] this essay. So stay with me. Stay with
+[00:00:34.880] this essay. So stay with me. Stay with me guys. Okay? We can do this. Just give
+[00:00:36.549] me guys. Okay? We can do this. Just give
+[00:00:36.559] me guys. Okay? We can do this. Just give me 10 minutes of your time max. Okay.
+[00:00:41.360] Okay. I have to tell you this probably
+[00:00:43.360] Okay. I have to tell you this probably to share it with you but also probably
+[00:00:45.030] to share it with you but also probably
+[00:00:45.040] to share it with you but also probably because I've just learned something
+[00:00:46.630] because I've just learned something
+[00:00:46.640] because I've just learned something about productivity, entrepreneurship,
+[00:00:48.709] about productivity, entrepreneurship,
+[00:00:48.719] about productivity, entrepreneurship, building success which I can't get out
+[00:00:50.950] building success which I can't get out
+[00:00:50.960] building success which I can't get out of my head. I just had Kevin Olirri on
+[00:00:52.790] of my head. I just had Kevin Olirri on
+[00:00:52.800] of my head. I just had Kevin Olirri on the podcast who's a shark from Shark
+[00:00:54.549] the podcast who's a shark from Shark
+[00:00:54.559] the podcast who's a shark from Shark Tank USA and he punched me in the face
+[00:00:57.110] Tank USA and he punched me in the face
+[00:00:57.120] Tank USA and he punched me in the face with a point that he made about his
+[00:00:59.189] with a point that he made about his
+[00:00:59.199] with a point that he made about his experience with Steve Jobs and how Steve
+[00:01:01.590] experience with Steve Jobs and how Steve
+[00:01:01.600] experience with Steve Jobs and how Steve Jobs has this ability to understand what
+[00:01:04.070] Jobs has this ability to understand what
+[00:01:04.080] Jobs has this ability to understand what the signal is versus the noise.
+[00:01:06.390] the signal is versus the noise.
+[00:01:06.400] the signal is versus the noise. &gt;&gt; I used to work for Steve Jobs in the
+[00:01:08.789] &gt;&gt; I used to work for Steve Jobs in the
+[00:01:08.799] &gt;&gt; I used to work for Steve Jobs in the early '90s making all of his educational
+[00:01:11.030] early '90s making all of his educational
+[00:01:11.040] early '90s making all of his educational software. There's a concept that he
+[00:01:12.789] software. There's a concept that he
+[00:01:12.799] software. There's a concept that he understood that very few people focused
+[00:01:15.510] understood that very few people focused
+[00:01:15.520] understood that very few people focused on back then in the early '90s of signal
+[00:01:17.910] on back then in the early '90s of signal
+[00:01:17.920] on back then in the early '90s of signal to noise ratio. His vision of signal was
+[00:01:21.910] to noise ratio. His vision of signal was
+[00:01:21.920] to noise ratio. His vision of signal was the top three to five things you have to
+[00:01:23.749] the top three to five things you have to
+[00:01:23.759] the top three to five things you have to get done in the next 18 hours. You're
+[00:01:26.789] get done in the next 18 hours. You're
+[00:01:26.799] get done in the next 18 hours. You're going to get those three things or five
+[00:01:29.030] going to get those three things or five
+[00:01:29.040] going to get those three things or five things done that you have deemed
+[00:01:30.550] things done that you have deemed
+[00:01:30.560] things done that you have deemed critical for your mission. They must get
+[00:01:33.109] critical for your mission. They must get
+[00:01:33.119] critical for your mission. They must get done today. Anything that stops you from
+[00:01:35.830] done today. Anything that stops you from
+[00:01:35.840] done today. Anything that stops you from doing that is the noise.
+[00:01:38.469] doing that is the noise.
+[00:01:38.479] doing that is the noise. So this signal to noise ratio to be
+[00:01:40.630] So this signal to noise ratio to be
+[00:01:40.640] So this signal to noise ratio to be successful for Steve Jobs was 8020. 80
+[00:01:44.550] successful for Steve Jobs was 8020. 80
+[00:01:44.560] successful for Steve Jobs was 8020. 80 signal 20 noise. And as he was saying
+[00:01:47.830] signal 20 noise. And as he was saying
+[00:01:47.840] signal 20 noise. And as he was saying it, I realized that it's like very much
+[00:01:49.350] it, I realized that it's like very much
+[00:01:49.360] it, I realized that it's like very much the missing piece in my life at the
+[00:01:50.710] the missing piece in my life at the
+[00:01:50.720] the missing piece in my life at the moment. Because as a creative and as
+[00:01:53.030] moment. Because as a creative and as
+[00:01:53.040] moment. Because as a creative and as someone who has so many ideas, sometimes
+[00:01:55.429] someone who has so many ideas, sometimes
+[00:01:55.439] someone who has so many ideas, sometimes I think I waste my energy pursuing
+[00:01:58.709] I think I waste my energy pursuing
+[00:01:58.719] I think I waste my energy pursuing things that are not the signal are not
+[00:02:01.749] things that are not the signal are not
+[00:02:01.759] things that are not the signal are not the most important thing to get done
+[00:02:03.109] the most important thing to get done
+[00:02:03.119] the most important thing to get done today. And I think we can probably all
+[00:02:04.630] today. And I think we can probably all
+[00:02:04.640] today. And I think we can probably all relate to the fact that sometimes we
+[00:02:05.910] relate to the fact that sometimes we
+[00:02:05.920] relate to the fact that sometimes we wake up in the morning with one
+[00:02:06.870] wake up in the morning with one
+[00:02:06.880] wake up in the morning with one particular plan and then our emails
+[00:02:08.389] particular plan and then our emails
+[00:02:08.399] particular plan and then our emails happen and WhatsApp happens and we end
+[00:02:09.749] happen and WhatsApp happens and we end
+[00:02:09.759] happen and WhatsApp happens and we end up drifting off into the noise and we've
+[00:02:11.350] up drifting off into the noise and we've
+[00:02:11.360] up drifting off into the noise and we've lost a day which is taken away from the
+[00:02:13.990] lost a day which is taken away from the
+[00:02:14.000] lost a day which is taken away from the signal because life is a zero- sum game.
+[00:02:15.910] signal because life is a zero- sum game.
+[00:02:15.920] signal because life is a zero- sum game. there is a finite amount of things that
+[00:02:17.910] there is a finite amount of things that
+[00:02:17.920] there is a finite amount of things that we can be doing. And it just made me
+[00:02:19.510] we can be doing. And it just made me
+[00:02:19.520] we can be doing. And it just made me think, [&nbsp;__&nbsp;] do you know what I should
+[00:02:20.710] think, [&nbsp;__&nbsp;] do you know what I should
+[00:02:20.720] think, [&nbsp;__&nbsp;] do you know what I should do? What I should do is I should
+[00:02:22.550] do? What I should do is I should
+[00:02:22.560] do? What I should do is I should organize everything that I have to do
+[00:02:24.150] organize everything that I have to do
+[00:02:24.160] organize everything that I have to do today, every task that comes in into one
+[00:02:26.150] today, every task that comes in into one
+[00:02:26.160] today, every task that comes in into one of two columns. The signal column, which
+[00:02:28.309] of two columns. The signal column, which
+[00:02:28.319] of two columns. The signal column, which is the most important things, the things
+[00:02:29.990] is the most important things, the things
+[00:02:30.000] is the most important things, the things that I woke up this morning focused on,
+[00:02:32.150] that I woke up this morning focused on,
+[00:02:32.160] that I woke up this morning focused on, and a noise column. And so that's what
+[00:02:33.830] and a noise column. And so that's what
+[00:02:33.840] and a noise column. And so that's what I've done. I've just, as you can see
+[00:02:35.030] I've done. I've just, as you can see
+[00:02:35.040] I've done. I've just, as you can see over there on my laptop, I've basically
+[00:02:36.949] over there on my laptop, I've basically
+[00:02:36.959] over there on my laptop, I've basically organized my tasks today into one of two
+[00:02:40.949] organized my tasks today into one of two
+[00:02:40.959] organized my tasks today into one of two columns. There's a signal column and
+[00:02:42.710] columns. There's a signal column and
+[00:02:42.720] columns. There's a signal column and there's a noise column. And everything
+[00:02:44.550] there's a noise column. And everything
+[00:02:44.560] there's a noise column. And everything that comes onto my desk today and all
+[00:02:46.309] that comes onto my desk today and all
+[00:02:46.319] that comes onto my desk today and all the things that I have buzzing around in
+[00:02:47.830] the things that I have buzzing around in
+[00:02:47.840] the things that I have buzzing around in my head and on my to-do list are now
+[00:02:49.589] my head and on my to-do list are now
+[00:02:49.599] my head and on my to-do list are now going to fall into one of those two
+[00:02:50.790] going to fall into one of those two
+[00:02:50.800] going to fall into one of those two columns. Things that I have to do,
+[00:02:52.070] columns. Things that I have to do,
+[00:02:52.080] columns. Things that I have to do, things that I have to get done today
+[00:02:53.270] things that I have to get done today
+[00:02:53.280] things that I have to get done today because they're the most important stuff
+[00:02:54.390] because they're the most important stuff
+[00:02:54.400] because they're the most important stuff to move me towards my goals, and things
+[00:02:56.229] to move me towards my goals, and things
+[00:02:56.239] to move me towards my goals, and things that are noise. And the noise column are
+[00:02:58.150] that are noise. And the noise column are
+[00:02:58.160] that are noise. And the noise column are things that I'm going to delegate to
+[00:02:59.430] things that I'm going to delegate to
+[00:02:59.440] things that I'm going to delegate to other people. I've actually used this
+[00:03:01.270] other people. I've actually used this
+[00:03:01.280] other people. I've actually used this clip that I'm about to show you of
+[00:03:02.630] clip that I'm about to show you of
+[00:03:02.640] clip that I'm about to show you of Johnny Ives saying this over and over
+[00:03:04.710] Johnny Ives saying this over and over
+[00:03:04.720] Johnny Ives saying this over and over and over and over again. Run the clip.
+[00:03:07.270] and over and over again. Run the clip.
+[00:03:07.280] and over and over again. Run the clip. &gt;&gt; You can achieve so much when you truly
+[00:03:09.750] &gt;&gt; You can achieve so much when you truly
+[00:03:09.760] &gt;&gt; You can achieve so much when you truly focus. And one of the things that Steve
+[00:03:12.470] focus. And one of the things that Steve
+[00:03:12.480] focus. And one of the things that Steve would say, um, because I think he was
+[00:03:15.430] would say, um, because I think he was
+[00:03:15.440] would say, um, because I think he was concerned that I wasn't, um, he would
+[00:03:18.710] concerned that I wasn't, um, he would
+[00:03:18.720] concerned that I wasn't, um, he would say, um, how many things have you said
+[00:03:21.190] say, um, how many things have you said
+[00:03:21.200] say, um, how many things have you said no to? And I would, honestly, I I would
+[00:03:24.630] no to? And I would, honestly, I I would
+[00:03:24.640] no to? And I would, honestly, I I would have these sacrificial things cuz I I
+[00:03:27.110] have these sacrificial things cuz I I
+[00:03:27.120] have these sacrificial things cuz I I mean, wanted to be very honest about it.
+[00:03:29.589] mean, wanted to be very honest about it.
+[00:03:29.599] mean, wanted to be very honest about it. And so I say, oh, I said no to this and
+[00:03:32.630] And so I say, oh, I said no to this and
+[00:03:32.640] And so I say, oh, I said no to this and no to that. and um he but he he knew
+[00:03:37.830] no to that. and um he but he he knew
+[00:03:37.840] no to that. and um he but he he knew that I wasn't vaguely interested in
+[00:03:39.509] that I wasn't vaguely interested in
+[00:03:39.519] that I wasn't vaguely interested in doing those things anyway. Um so there
+[00:03:41.990] doing those things anyway. Um so there
+[00:03:42.000] doing those things anyway. Um so there was no real sacrifice. What what focus
+[00:03:44.630] was no real sacrifice. What what focus
+[00:03:44.640] was no real sacrifice. What what focus means is saying no to something that you
+[00:03:47.430] means is saying no to something that you
+[00:03:47.440] means is saying no to something that you with every bone in your body you think
+[00:03:50.070] with every bone in your body you think
+[00:03:50.080] with every bone in your body you think is a phenomenal idea
+[00:03:52.949] is a phenomenal idea
+[00:03:52.959] is a phenomenal idea and you wake up thinking about it but
+[00:03:55.670] and you wake up thinking about it but
+[00:03:55.680] and you wake up thinking about it but you say no to it because you're focusing
+[00:03:58.070] you say no to it because you're focusing
+[00:03:58.080] you say no to it because you're focusing on something else. in my calendar. I'm
+[00:04:00.630] on something else. in my calendar. I'm
+[00:04:00.640] on something else. in my calendar. I'm going to have a signal and noise session
+[00:04:02.390] going to have a signal and noise session
+[00:04:02.400] going to have a signal and noise session every morning to figure out what the
+[00:04:04.309] every morning to figure out what the
+[00:04:04.319] every morning to figure out what the most important things to accomplish
+[00:04:05.429] most important things to accomplish
+[00:04:05.439] most important things to accomplish today are. Let's try this together and
+[00:04:07.429] today are. Let's try this together and
+[00:04:07.439] today are. Let's try this together and let's um stay in touch via via the
+[00:04:09.190] let's um stay in touch via via the
+[00:04:09.200] let's um stay in touch via via the comment section. When you wake up
+[00:04:10.630] comment section. When you wake up
+[00:04:10.640] comment section. When you wake up tomorrow, first thing you do when you
+[00:04:12.149] tomorrow, first thing you do when you
+[00:04:12.159] tomorrow, first thing you do when you wake up tomorrow morning is create two
+[00:04:13.830] wake up tomorrow morning is create two
+[00:04:13.840] wake up tomorrow morning is create two columns on a piece of paper or on
+[00:04:15.429] columns on a piece of paper or on
+[00:04:15.439] columns on a piece of paper or on whatever tool you use and put the most
+[00:04:18.069] whatever tool you use and put the most
+[00:04:18.079] whatever tool you use and put the most important things you want to accomplish
+[00:04:19.189] important things you want to accomplish
+[00:04:19.199] important things you want to accomplish that day into the signal column and then
+[00:04:20.949] that day into the signal column and then
+[00:04:20.959] that day into the signal column and then everything else into the noise column.
+[00:04:22.390] everything else into the noise column.
+[00:04:22.400] everything else into the noise column. Let's see how we get on.
+[00:04:24.900] Let's see how we get on.
+[00:04:24.910] Let's see how we get on. [Music]
+[00:04:27.189] [Music]
+[00:04:27.199] [Music] I was just saying to Jamaima in there
+[00:04:28.629] I was just saying to Jamaima in there
+[00:04:28.639] I was just saying to Jamaima in there that I have this new idea for us to
+[00:04:30.150] that I have this new idea for us to
+[00:04:30.160] that I have this new idea for us to figure out how to make a really really
+[00:04:31.749] figure out how to make a really really
+[00:04:31.759] figure out how to make a really really retentive podcast episode. We take the
+[00:04:34.629] retentive podcast episode. We take the
+[00:04:34.639] retentive podcast episode. We take the episode unlisted link, we put it in
+[00:04:36.870] episode unlisted link, we put it in
+[00:04:36.880] episode unlisted link, we put it in directio circle and from that we're
+[00:04:38.629] directio circle and from that we're
+[00:04:38.639] directio circle and from that we're going to get the retention graph back
+[00:04:40.150] going to get the retention graph back
+[00:04:40.160] going to get the retention graph back and then we're going to do the edit
+[00:04:41.909] and then we're going to do the edit
+[00:04:41.919] and then we're going to do the edit based on that. And this this is the
+[00:04:43.510] based on that. And this this is the
+[00:04:43.520] based on that. And this this is the first episode where we really like we
+[00:04:45.830] first episode where we really like we
+[00:04:45.840] first episode where we really like we really do it that way. And the reason I
+[00:04:48.230] really do it that way. And the reason I
+[00:04:48.240] really do it that way. And the reason I say this is because going forward in the
+[00:04:49.749] say this is because going forward in the
+[00:04:49.759] say this is because going forward in the future, if we find this to be useful, we
+[00:04:52.710] future, if we find this to be useful, we
+[00:04:52.720] future, if we find this to be useful, we can we'll we'll we can change our
+[00:04:54.230] can we'll we'll we can change our
+[00:04:54.240] can we'll we'll we can change our processes. You see what I'm saying? And
+[00:04:56.390] processes. You see what I'm saying? And
+[00:04:56.400] processes. You see what I'm saying? And Jamaima's response to me was I could see
+[00:04:58.310] Jamaima's response to me was I could see
+[00:04:58.320] Jamaima's response to me was I could see in her face there was concern that it
+[00:05:00.310] in her face there was concern that it
+[00:05:00.320] in her face there was concern that it would take too long and it would be too
+[00:05:01.990] would take too long and it would be too
+[00:05:02.000] would take too long and it would be too manual based on our current process
+[00:05:04.150] manual based on our current process
+[00:05:04.160] manual based on our current process because our current process runs like a
+[00:05:05.909] because our current process runs like a
+[00:05:05.919] because our current process runs like a military operation. So adding something
+[00:05:07.830] military operation. So adding something
+[00:05:07.840] military operation. So adding something into that process that would be a bit
+[00:05:09.510] into that process that would be a bit
+[00:05:09.520] into that process that would be a bit clunky, a bit manual, and that we
+[00:05:11.430] clunky, a bit manual, and that we
+[00:05:11.440] clunky, a bit manual, and that we haven't figured out, I could see was a
+[00:05:12.710] haven't figured out, I could see was a
+[00:05:12.720] haven't figured out, I could see was a bit of a concern. As I saw that concern
+[00:05:14.629] bit of a concern. As I saw that concern
+[00:05:14.639] bit of a concern. As I saw that concern in her face, Paul Graham's 2013 essay
+[00:05:17.670] in her face, Paul Graham's 2013 essay
+[00:05:17.680] in her face, Paul Graham's 2013 essay sprung to mind and it's called do things
+[00:05:19.510] sprung to mind and it's called do things
+[00:05:19.520] sprung to mind and it's called do things that don't scale.
+[00:05:20.629] that don't scale.
+[00:05:20.639] that don't scale. &gt;&gt; What do things that don't scale means
+[00:05:22.870] &gt;&gt; What do things that don't scale means
+[00:05:22.880] &gt;&gt; What do things that don't scale means doing things very manually for your
+[00:05:24.629] doing things very manually for your
+[00:05:24.639] doing things very manually for your early customers.
+[00:05:25.590] early customers.
+[00:05:25.600] early customers. &gt;&gt; So, let me give you an example. When
+[00:05:27.189] &gt;&gt; So, let me give you an example. When
+[00:05:27.199] &gt;&gt; So, let me give you an example. When Airbnb, the founders of Airbnb, and I've
+[00:05:29.350] Airbnb, the founders of Airbnb, and I've
+[00:05:29.360] Airbnb, the founders of Airbnb, and I've interviewed uh Brian Chesy from Airbnb
+[00:05:31.510] interviewed uh Brian Chesy from Airbnb
+[00:05:31.520] interviewed uh Brian Chesy from Airbnb launched Airbnb, they noticed that their
+[00:05:33.510] launched Airbnb, they noticed that their
+[00:05:33.520] launched Airbnb, they noticed that their users were uploading really, really bad
+[00:05:35.510] users were uploading really, really bad
+[00:05:35.520] users were uploading really, really bad images of their Airbnbs to the website
+[00:05:37.510] images of their Airbnbs to the website
+[00:05:37.520] images of their Airbnbs to the website and that was impacting the customer's
+[00:05:39.189] and that was impacting the customer's
+[00:05:39.199] and that was impacting the customer's experience. So to figure out if this was
+[00:05:41.670] experience. So to figure out if this was
+[00:05:41.680] experience. So to figure out if this was an important part of the customer
+[00:05:43.029] an important part of the customer
+[00:05:43.039] an important part of the customer experience, the founders of Airbnb
+[00:05:45.909] experience, the founders of Airbnb
+[00:05:45.919] experience, the founders of Airbnb manually went knocking on doors of their
+[00:05:48.230] manually went knocking on doors of their
+[00:05:48.240] manually went knocking on doors of their users when they only had a couple of
+[00:05:49.830] users when they only had a couple of
+[00:05:49.840] users when they only had a couple of users. And they said to those users,
+[00:05:51.830] users. And they said to those users,
+[00:05:51.840] users. And they said to those users, "Can we come in and take professional
+[00:05:53.909] "Can we come in and take professional
+[00:05:53.919] "Can we come in and take professional photos for you?"
+[00:05:55.350] photos for you?"
+[00:05:55.360] photos for you?" &gt;&gt; I would go there and I'd be like, "Wow,
+[00:05:56.629] &gt;&gt; I would go there and I'd be like, "Wow,
+[00:05:56.639] &gt;&gt; I would go there and I'd be like, "Wow, the photos are terrible. This is
+[00:05:57.749] the photos are terrible. This is
+[00:05:57.759] the photos are terrible. This is actually a really nice house." And the
+[00:05:59.270] actually a really nice house." And the
+[00:05:59.280] actually a really nice house." And the host like, "Well, I can't figure out how
+[00:06:00.469] host like, "Well, I can't figure out how
+[00:06:00.479] host like, "Well, I can't figure out how to get photos onto my computer." And so
+[00:06:03.110] to get photos onto my computer." And so
+[00:06:03.120] to get photos onto my computer." And so I went home with Joe and we borrowed a
+[00:06:05.270] I went home with Joe and we borrowed a
+[00:06:05.280] I went home with Joe and we borrowed a camera from one of our friends and we
+[00:06:06.870] camera from one of our friends and we
+[00:06:06.880] camera from one of our friends and we knocked on the door. I'm here, the
+[00:06:08.150] knocked on the door. I'm here, the
+[00:06:08.160] knocked on the door. I'm here, the photographer. and they're like, "Wow,
+[00:06:09.350] photographer. and they're like, "Wow,
+[00:06:09.360] photographer. and they're like, "Wow, this is a small company. The founders
+[00:06:10.710] this is a small company. The founders
+[00:06:10.720] this is a small company. The founders also photographing my home."
+[00:06:12.150] also photographing my home."
+[00:06:12.160] also photographing my home." &gt;&gt; Now, the founders of Airbnb knocking
+[00:06:15.110] &gt;&gt; Now, the founders of Airbnb knocking
+[00:06:15.120] &gt;&gt; Now, the founders of Airbnb knocking doortodoor is not scalable. You're not
+[00:06:17.749] doortodoor is not scalable. You're not
+[00:06:17.759] doortodoor is not scalable. You're not going to be able to do that with the
+[00:06:19.350] going to be able to do that with the
+[00:06:19.360] going to be able to do that with the hundreds of millions of users that they
+[00:06:21.270] hundreds of millions of users that they
+[00:06:21.280] hundreds of millions of users that they now have. At the start, it wasn't
+[00:06:23.909] now have. At the start, it wasn't
+[00:06:23.919] now have. At the start, it wasn't scalable. It was so unbelievably
+[00:06:25.749] scalable. It was so unbelievably
+[00:06:25.759] scalable. It was so unbelievably important that they did something that
+[00:06:27.590] important that they did something that
+[00:06:27.600] important that they did something that wasn't scalable and later they could
+[00:06:29.830] wasn't scalable and later they could
+[00:06:29.840] wasn't scalable and later they could figure out how to make it scalable. But
+[00:06:31.430] figure out how to make it scalable. But
+[00:06:31.440] figure out how to make it scalable. But if they had obsessed over it being
+[00:06:32.790] if they had obsessed over it being
+[00:06:32.800] if they had obsessed over it being scalable from day one, they never would
+[00:06:34.550] scalable from day one, they never would
+[00:06:34.560] scalable from day one, they never would have done it. They never would have then
+[00:06:35.670] have done it. They never would have then
+[00:06:35.680] have done it. They never would have then got the feedback from doing it and they
+[00:06:38.230] got the feedback from doing it and they
+[00:06:38.240] got the feedback from doing it and they never would have had the hundred billion
+[00:06:40.070] never would have had the hundred billion
+[00:06:40.080] never would have had the hundred billion dollar success that was Airbnb. Mark
+[00:06:42.230] dollar success that was Airbnb. Mark
+[00:06:42.240] dollar success that was Airbnb. Mark Zuckerberg at Facebook manually pitched
+[00:06:44.390] Zuckerberg at Facebook manually pitched
+[00:06:44.400] Zuckerberg at Facebook manually pitched users at Harvard to join Facebook in the
+[00:06:46.550] users at Harvard to join Facebook in the
+[00:06:46.560] users at Harvard to join Facebook in the early days. It wasn't scalable. You
+[00:06:48.550] early days. It wasn't scalable. You
+[00:06:48.560] early days. It wasn't scalable. You can't scale that. And when I say scale,
+[00:06:50.550] can't scale that. And when I say scale,
+[00:06:50.560] can't scale that. And when I say scale, I mean you can't automate that process
+[00:06:53.029] I mean you can't automate that process
+[00:06:53.039] I mean you can't automate that process of Mark Zuckerberg manually pitching the
+[00:06:55.909] of Mark Zuckerberg manually pitching the
+[00:06:55.919] of Mark Zuckerberg manually pitching the three billion users that Facebook now
+[00:06:57.590] three billion users that Facebook now
+[00:06:57.600] three billion users that Facebook now has. But in doing so, he got from zero
+[00:07:00.390] has. But in doing so, he got from zero
+[00:07:00.400] has. But in doing so, he got from zero to one. He learned what he needed to
+[00:07:02.070] to one. He learned what he needed to
+[00:07:02.080] to one. He learned what he needed to learn and then he figured out how to
+[00:07:03.510] learn and then he figured out how to
+[00:07:03.520] learn and then he figured out how to scale. And another example is one of the
+[00:07:05.029] scale. And another example is one of the
+[00:07:05.039] scale. And another example is one of the most famous companies in the world
+[00:07:06.150] most famous companies in the world
+[00:07:06.160] most famous companies in the world called Stripe, which is probably worth
+[00:07:07.589] called Stripe, which is probably worth
+[00:07:07.599] called Stripe, which is probably worth hundreds of billions of dollars now.
+[00:07:08.790] hundreds of billions of dollars now.
+[00:07:08.800] hundreds of billions of dollars now. It's a payment company. And in the early
+[00:07:10.790] It's a payment company. And in the early
+[00:07:10.800] It's a payment company. And in the early days, the founders Patrick and John
+[00:07:12.469] days, the founders Patrick and John
+[00:07:12.479] days, the founders Patrick and John Collinsson would literally go to their
+[00:07:15.270] Collinsson would literally go to their
+[00:07:15.280] Collinsson would literally go to their customers offices onto their computers
+[00:07:17.749] customers offices onto their computers
+[00:07:17.759] customers offices onto their computers and install the software for them.
+[00:07:19.990] and install the software for them.
+[00:07:20.000] and install the software for them. Absolutely didn't scale. You can't do
+[00:07:21.670] Absolutely didn't scale. You can't do
+[00:07:21.680] Absolutely didn't scale. You can't do that for a billion people. And this is
+[00:07:23.270] that for a billion people. And this is
+[00:07:23.280] that for a billion people. And this is really the point because so many
+[00:07:24.390] really the point because so many
+[00:07:24.400] really the point because so many founders, they understand that they want
+[00:07:25.749] founders, they understand that they want
+[00:07:25.759] founders, they understand that they want to reach a billion people. They want to
+[00:07:27.029] to reach a billion people. They want to
+[00:07:27.039] to reach a billion people. They want to be the next Airbnb, the next Meta, the
+[00:07:29.029] be the next Airbnb, the next Meta, the
+[00:07:29.039] be the next Airbnb, the next Meta, the next Stripe. So they think that they
+[00:07:31.350] next Stripe. So they think that they
+[00:07:31.360] next Stripe. So they think that they have to behave like Stripe, Meta and
+[00:07:33.589] have to behave like Stripe, Meta and
+[00:07:33.599] have to behave like Stripe, Meta and Airbnb behave now. They think they have
+[00:07:35.430] Airbnb behave now. They think they have
+[00:07:35.440] Airbnb behave now. They think they have to think in scale. And this is where
+[00:07:37.589] to think in scale. And this is where
+[00:07:37.599] to think in scale. And this is where they make the critical mistake because
+[00:07:38.950] they make the critical mistake because
+[00:07:38.960] they make the critical mistake because all of those companies I just named,
+[00:07:40.469] all of those companies I just named,
+[00:07:40.479] all of those companies I just named, none of them at the start were thinking
+[00:07:41.670] none of them at the start were thinking
+[00:07:41.680] none of them at the start were thinking in terms of scale. Whenever you feel
+[00:07:43.189] in terms of scale. Whenever you feel
+[00:07:43.199] in terms of scale. Whenever you feel like
+[00:07:44.790] like
+[00:07:44.800] like something that is unscalable is going to
+[00:07:47.510] something that is unscalable is going to
+[00:07:47.520] something that is unscalable is going to stand in the way of your team or you
+[00:07:49.189] stand in the way of your team or you
+[00:07:49.199] stand in the way of your team or you figuring out the answer to a very
+[00:07:50.710] figuring out the answer to a very
+[00:07:50.720] figuring out the answer to a very important question. You have to come
+[00:07:52.790] important question. You have to come
+[00:07:52.800] important question. You have to come back to this phrase, which is do things
+[00:07:54.469] back to this phrase, which is do things
+[00:07:54.479] back to this phrase, which is do things that do not scale.
+[00:07:56.390] that do not scale.
+[00:07:56.400] that do not scale. &gt;&gt; Hey guys, it's me, Will. I edit these
+[00:07:58.629] &gt;&gt; Hey guys, it's me, Will. I edit these
+[00:07:58.639] &gt;&gt; Hey guys, it's me, Will. I edit these videos, the one you're watching right
+[00:07:59.909] videos, the one you're watching right
+[00:07:59.919] videos, the one you're watching right now here on Behind the Diary with Alex
+[00:08:02.150] now here on Behind the Diary with Alex
+[00:08:02.160] now here on Behind the Diary with Alex on our team. Now, my goal is to sneak in
+[00:08:05.110] on our team. Now, my goal is to sneak in
+[00:08:05.120] on our team. Now, my goal is to sneak in to every single one of these videos to
+[00:08:08.309] to every single one of these videos to
+[00:08:08.319] to every single one of these videos to ask you guys to subscribe because the
+[00:08:09.830] ask you guys to subscribe because the
+[00:08:09.840] ask you guys to subscribe because the more of you that subscribe, the better
+[00:08:11.510] more of you that subscribe, the better
+[00:08:11.520] more of you that subscribe, the better these videos get, the bigger the channel
+[00:08:13.189] these videos get, the bigger the channel
+[00:08:13.199] these videos get, the bigger the channel gets. But a few weeks ago, he said that
+[00:08:14.629] gets. But a few weeks ago, he said that
+[00:08:14.639] gets. But a few weeks ago, he said that if this gets bigger than the main
+[00:08:16.309] if this gets bigger than the main
+[00:08:16.319] if this gets bigger than the main channel, he will make me a millionaire.
+[00:08:18.710] channel, he will make me a millionaire.
+[00:08:18.720] channel, he will make me a millionaire. So, do me a favor. If you want to see
+[00:08:21.270] So, do me a favor. If you want to see
+[00:08:21.280] So, do me a favor. If you want to see Steve lose a million pounds, click
+[00:08:23.909] Steve lose a million pounds, click
+[00:08:23.919] Steve lose a million pounds, click subscribe. These videos get better. It's
+[00:08:26.550] subscribe. These videos get better. It's
+[00:08:26.560] subscribe. These videos get better. It's currently half 12 at midnight. Please
+[00:08:28.070] currently half 12 at midnight. Please
+[00:08:28.080] currently half 12 at midnight. Please subscribe. I really want to get this
+[00:08:29.189] subscribe. I really want to get this
+[00:08:29.199] subscribe. I really want to get this edit out. So, please, please subscribe.
+[00:08:31.110] edit out. So, please, please subscribe.
+[00:08:31.120] edit out. So, please, please subscribe. Thank you. Thank you so much. Thank you.
+[00:08:32.310] Thank you. Thank you so much. Thank you.
+[00:08:32.320] Thank you. Thank you so much. Thank you. Bye.
+[00:08:35.760] &gt;&gt; LA is now my new home and it's my home
+[00:08:38.640] &gt;&gt; LA is now my new home and it's my home because we want to build the business
+[00:08:40.870] because we want to build the business
+[00:08:40.880] because we want to build the business out here. So, here's the context. Flight
+[00:08:43.350] out here. So, here's the context. Flight
+[00:08:43.360] out here. So, here's the context. Flight Story is expanding into America. Our
+[00:08:46.230] Story is expanding into America. Our
+[00:08:46.240] Story is expanding into America. Our first studio is actually in Boston where
+[00:08:48.710] first studio is actually in Boston where
+[00:08:48.720] first studio is actually in Boston where Kirsten Holmes, who signed to Flight
+[00:08:50.150] Kirsten Holmes, who signed to Flight
+[00:08:50.160] Kirsten Holmes, who signed to Flight Story, records her show. Our next
+[00:08:51.910] Story, records her show. Our next
+[00:08:51.920] Story, records her show. Our next location is here in Los Angeles. And I
+[00:08:54.070] location is here in Los Angeles. And I
+[00:08:54.080] location is here in Los Angeles. And I think our next location will be in New
+[00:08:55.430] think our next location will be in New
+[00:08:55.440] think our next location will be in New York City, which will be our commercial
+[00:08:56.550] York City, which will be our commercial
+[00:08:56.560] York City, which will be our commercial office. Isn't this crazy? Look, I'm
+[00:08:58.070] office. Isn't this crazy? Look, I'm
+[00:08:58.080] office. Isn't this crazy? Look, I'm moving to America. That's the only
+[00:08:59.670] moving to America. That's the only
+[00:08:59.680] moving to America. That's the only suitcase I took. Other than this is why
+[00:09:02.310] suitcase I took. Other than this is why
+[00:09:02.320] suitcase I took. Other than this is why I wear black every day because if you
+[00:09:04.470] I wear black every day because if you
+[00:09:04.480] I wear black every day because if you just wear the same outfit every day, you
+[00:09:06.150] just wear the same outfit every day, you
+[00:09:06.160] just wear the same outfit every day, you can pack super light. People always take
+[00:09:07.829] can pack super light. People always take
+[00:09:07.839] can pack super light. People always take the piss out of me cuz I think they
+[00:09:08.870] the piss out of me cuz I think they
+[00:09:08.880] the piss out of me cuz I think they think I think I'm Steve Jobs. It wasn't
+[00:09:10.150] think I think I'm Steve Jobs. It wasn't
+[00:09:10.160] think I think I'm Steve Jobs. It wasn't a choice I ever made. It's just life
+[00:09:11.670] a choice I ever made. It's just life
+[00:09:11.680] a choice I ever made. It's just life gradually pushed me in the direction of
+[00:09:13.350] gradually pushed me in the direction of
+[00:09:13.360] gradually pushed me in the direction of the path of least resistance. And that
+[00:09:14.949] the path of least resistance. And that
+[00:09:14.959] the path of least resistance. And that ended up being just wearing the same
+[00:09:15.990] ended up being just wearing the same
+[00:09:16.000] ended up being just wearing the same outfit every single day. But we could
+[00:09:17.430] outfit every single day. But we could
+[00:09:17.440] outfit every single day. But we could run the maths on screen. Like if you
+[00:09:19.670] run the maths on screen. Like if you
+[00:09:19.680] run the maths on screen. Like if you just saved 20 minutes a day on choosing
+[00:09:24.710] just saved 20 minutes a day on choosing
+[00:09:24.720] just saved 20 minutes a day on choosing what to wear and then you saved one hour
+[00:09:27.990] what to wear and then you saved one hour
+[00:09:28.000] what to wear and then you saved one hour a week on let's say things like travel
+[00:09:31.190] a week on let's say things like travel
+[00:09:31.200] a week on let's say things like travel and packing.
+[00:09:33.509] and packing.
+[00:09:33.519] and packing. How much of your life would you save?
+[00:09:36.710] How much of your life would you save?
+[00:09:36.720] How much of your life would you save? Will Alex run the numbers? And listen,
+[00:09:39.269] Will Alex run the numbers? And listen,
+[00:09:39.279] Will Alex run the numbers? And listen, some of you get tremendous amount of
+[00:09:40.710] some of you get tremendous amount of
+[00:09:40.720] some of you get tremendous amount of value from picking your outfits and
+[00:09:43.590] value from picking your outfits and
+[00:09:43.600] value from picking your outfits and fashion and all those kinds of things.
+[00:09:44.870] fashion and all those kinds of things.
+[00:09:44.880] fashion and all those kinds of things. So knock yourself out. But if it's not
+[00:09:46.310] So knock yourself out. But if it's not
+[00:09:46.320] So knock yourself out. But if it's not giving you tremendous value, if it's not
+[00:09:47.910] giving you tremendous value, if it's not
+[00:09:47.920] giving you tremendous value, if it's not giving you more value than the time you
+[00:09:49.350] giving you more value than the time you
+[00:09:49.360] giving you more value than the time you would save would give you, then maybe
+[00:09:51.430] would save would give you, then maybe
+[00:09:51.440] would save would give you, then maybe that's a simple optimization, which is
+[00:09:52.949] that's a simple optimization, which is
+[00:09:52.959] that's a simple optimization, which is just simplifying your wardrobe a little
+[00:09:54.310] just simplifying your wardrobe a little
+[00:09:54.320] just simplifying your wardrobe a little bit.
+[00:09:55.670] bit.
+[00:09:55.680] bit. &gt;&gt; Can I here in LA flying out to cans in
+[00:09:58.710] &gt;&gt; Can I here in LA flying out to cans in
+[00:09:58.720] &gt;&gt; Can I here in LA flying out to cans in the south of France for the creativity
+[00:10:00.389] the south of France for the creativity
+[00:10:00.399] the south of France for the creativity festival that takes place every single
+[00:10:01.829] festival that takes place every single
+[00:10:01.839] festival that takes place every single year. Every marketeteer, every big
+[00:10:03.670] year. Every marketeteer, every big
+[00:10:03.680] year. Every marketeteer, every big creator, every media owner flies out
+[00:10:05.350] creator, every media owner flies out
+[00:10:05.360] creator, every media owner flies out there for this one festival. And I'm
+[00:10:07.509] there for this one festival. And I'm
+[00:10:07.519] there for this one festival. And I'm going to show you behind the scenes. And
+[00:10:08.790] going to show you behind the scenes. And
+[00:10:08.800] going to show you behind the scenes. And there's three lessons you're going to
+[00:10:09.910] there's three lessons you're going to
+[00:10:09.920] there's three lessons you're going to learn. The first is about failure and
+[00:10:11.430] learn. The first is about failure and
+[00:10:11.440] learn. The first is about failure and experimentation and why this is my
+[00:10:12.949] experimentation and why this is my
+[00:10:12.959] experimentation and why this is my absolute religion and why it needs to be
+[00:10:14.949] absolute religion and why it needs to be
+[00:10:14.959] absolute religion and why it needs to be yours. The single button which big
+[00:10:17.829] yours. The single button which big
+[00:10:17.839] yours. The single button which big creators press every single day and why
+[00:10:20.949] creators press every single day and why
+[00:10:20.959] creators press every single day and why you need to press that button too. And
+[00:10:23.269] you need to press that button too. And
+[00:10:23.279] you need to press that button too. And lastly, this framework called value for
+[00:10:25.350] lastly, this framework called value for
+[00:10:25.360] lastly, this framework called value for strangers which I preach to everybody,
+[00:10:27.750] strangers which I preach to everybody,
+[00:10:27.760] strangers which I preach to everybody, but it seems that almost nobody
+[00:10:29.670] but it seems that almost nobody
+[00:10:29.680] but it seems that almost nobody understands.
+[00:10:31.090] understands.
+[00:10:31.100] understands. [Music]
+[00:10:32.790] [Music]
+[00:10:32.800] [Music] &gt;&gt; Um, why do I do these things? I do these
+[00:10:34.230] &gt;&gt; Um, why do I do these things? I do these
+[00:10:34.240] &gt;&gt; Um, why do I do these things? I do these things for multitude of reasons. Reason
+[00:10:35.670] things for multitude of reasons. Reason
+[00:10:35.680] things for multitude of reasons. Reason number one is it's a great opportunity
+[00:10:37.190] number one is it's a great opportunity
+[00:10:37.200] number one is it's a great opportunity to meet so many of you guys that listen
+[00:10:39.030] to meet so many of you guys that listen
+[00:10:39.040] to meet so many of you guys that listen to the show. I have moments all the time
+[00:10:40.949] to the show. I have moments all the time
+[00:10:40.959] to the show. I have moments all the time when I meet fans that stay with me
+[00:10:42.470] when I meet fans that stay with me
+[00:10:42.480] when I meet fans that stay with me forever. So I'm hoping to have some of
+[00:10:43.670] forever. So I'm hoping to have some of
+[00:10:43.680] forever. So I'm hoping to have some of those moments today. Reason number two
+[00:10:45.030] those moments today. Reason number two
+[00:10:45.040] those moments today. Reason number two is it helps the business. So we make
+[00:10:46.870] is it helps the business. So we make
+[00:10:46.880] is it helps the business. So we make lots of contacts with platforms and
+[00:10:49.030] lots of contacts with platforms and
+[00:10:49.040] lots of contacts with platforms and partners that can help us build Flight
+[00:10:50.550] partners that can help us build Flight
+[00:10:50.560] partners that can help us build Flight Story. But also again in the sake of
+[00:10:52.949] Story. But also again in the sake of
+[00:10:52.959] Story. But also again in the sake of radical transparency, we get quite big
+[00:10:54.949] radical transparency, we get quite big
+[00:10:54.959] radical transparency, we get quite big fees for coming out here. This trip will
+[00:10:56.550] fees for coming out here. This trip will
+[00:10:56.560] fees for coming out here. This trip will make Flight Story about £200,000 because
+[00:10:58.790] make Flight Story about £200,000 because
+[00:10:58.800] make Flight Story about £200,000 because of coming out here. That money goes into
+[00:11:00.230] of coming out here. That money goes into
+[00:11:00.240] of coming out here. That money goes into the business. I think sometimes when
+[00:11:01.350] the business. I think sometimes when
+[00:11:01.360] the business. I think sometimes when people hear that you're making 200k from
+[00:11:03.030] people hear that you're making 200k from
+[00:11:03.040] people hear that you're making 200k from doing some talks, people think that the
+[00:11:04.550] doing some talks, people think that the
+[00:11:04.560] doing some talks, people think that the money goes straight into your pocket,
+[00:11:05.670] money goes straight into your pocket,
+[00:11:05.680] money goes straight into your pocket, but I'm building a business here. So,
+[00:11:07.750] but I'm building a business here. So,
+[00:11:07.760] but I'm building a business here. So, the money doesn't um come to me.
+[00:11:09.750] the money doesn't um come to me.
+[00:11:09.760] the money doesn't um come to me. Short-term sacrifice for long-term game
+[00:11:11.430] Short-term sacrifice for long-term game
+[00:11:11.440] Short-term sacrifice for long-term game because we're going to try and build a
+[00:11:12.790] because we're going to try and build a
+[00:11:12.800] because we're going to try and build a multi-billion dollar company. So, where
+[00:11:14.630] multi-billion dollar company. So, where
+[00:11:14.640] multi-billion dollar company. So, where is the team?
+[00:11:15.670] is the team?
+[00:11:15.680] is the team? &gt;&gt; Good luck.
+[00:11:17.990] &gt;&gt; Good luck.
+[00:11:18.000] &gt;&gt; Good luck. &gt;&gt; Very good to see you. Big fan of yours
+[00:11:20.310] &gt;&gt; Very good to see you. Big fan of yours
+[00:11:20.320] &gt;&gt; Very good to see you. Big fan of yours and been following your for many years.
+[00:11:22.230] and been following your for many years.
+[00:11:22.240] and been following your for many years. Can I take a selfie with you?
+[00:11:23.910] Can I take a selfie with you?
+[00:11:23.920] Can I take a selfie with you? &gt;&gt; Thank you.
+[00:11:24.949] &gt;&gt; Thank you.
+[00:11:24.959] &gt;&gt; Thank you. &gt;&gt; Thank you so much. My pleas. Nice to
+[00:11:27.670] &gt;&gt; Thank you so much. My pleas. Nice to
+[00:11:27.680] &gt;&gt; Thank you so much. My pleas. Nice to meet you. I want to welcome Steven
+[00:11:29.509] meet you. I want to welcome Steven
+[00:11:29.519] meet you. I want to welcome Steven Bartlett.
+[00:11:30.550] Bartlett.
+[00:11:30.560] Bartlett. &gt;&gt; So the biggest risk in innovation that
+[00:11:33.190] &gt;&gt; So the biggest risk in innovation that
+[00:11:33.200] &gt;&gt; So the biggest risk in innovation that everybody is taking right now is not
+[00:11:35.350] everybody is taking right now is not
+[00:11:35.360] everybody is taking right now is not taking enough risk. What we all know for
+[00:11:37.430] taking enough risk. What we all know for
+[00:11:37.440] taking enough risk. What we all know for sure is that the world is changing. If
+[00:11:39.509] sure is that the world is changing. If
+[00:11:39.519] sure is that the world is changing. If you're 40 years old now, by the age of
+[00:11:41.430] you're 40 years old now, by the age of
+[00:11:41.440] you're 40 years old now, by the age of 60, you'll experience a year's worth of
+[00:11:43.190] 60, you'll experience a year's worth of
+[00:11:43.200] 60, you'll experience a year's worth of today's change in roughly 11 days.
+[00:11:45.670] today's change in roughly 11 days.
+[00:11:45.680] today's change in roughly 11 days. Logically, in order for you to keep up
+[00:11:47.509] Logically, in order for you to keep up
+[00:11:47.519] Logically, in order for you to keep up with that rate of change, your rate of
+[00:11:49.350] with that rate of change, your rate of
+[00:11:49.360] with that rate of change, your rate of experimentation needs to basically match
+[00:11:51.269] experimentation needs to basically match
+[00:11:51.279] experimentation needs to basically match that rate of change. You have to get
+[00:11:53.030] that rate of change. You have to get
+[00:11:53.040] that rate of change. You have to get really, really comfortable as an
+[00:11:54.230] really, really comfortable as an
+[00:11:54.240] really, really comfortable as an organization or as a creator or an
+[00:11:55.750] organization or as a creator or an
+[00:11:55.760] organization or as a creator or an individual with failure. When Jeff Bezos
+[00:11:58.230] individual with failure. When Jeff Bezos
+[00:11:58.240] individual with failure. When Jeff Bezos wrote his shareholder letter in 2015, he
+[00:12:00.069] wrote his shareholder letter in 2015, he
+[00:12:00.079] wrote his shareholder letter in 2015, he said, "In order for us to be successful,
+[00:12:01.910] said, "In order for us to be successful,
+[00:12:01.920] said, "In order for us to be successful, we have to be the best place on earth to
+[00:12:03.670] we have to be the best place on earth to
+[00:12:03.680] we have to be the best place on earth to fail."
+[00:12:04.389] fail."
+[00:12:04.399] fail." &gt;&gt; I've made billions of dollars of
+[00:12:06.150] &gt;&gt; I've made billions of dollars of
+[00:12:06.160] &gt;&gt; I've made billions of dollars of failures at amazon.com. They don't
+[00:12:08.470] failures at amazon.com. They don't
+[00:12:08.480] failures at amazon.com. They don't matter. What really matters is companies
+[00:12:10.550] matter. What really matters is companies
+[00:12:10.560] matter. What really matters is companies that don't continue to experiment,
+[00:12:12.710] that don't continue to experiment,
+[00:12:12.720] that don't continue to experiment, companies that don't embrace failure.
+[00:12:15.030] companies that don't embrace failure.
+[00:12:15.040] companies that don't embrace failure. They eventually get in a desperate
+[00:12:17.110] They eventually get in a desperate
+[00:12:17.120] They eventually get in a desperate position. The only thing they can do is
+[00:12:18.949] position. The only thing they can do is
+[00:12:18.959] position. The only thing they can do is make a kind of hail Mary bat at the very
+[00:12:20.790] make a kind of hail Mary bat at the very
+[00:12:20.800] make a kind of hail Mary bat at the very end of their corporate existence.
+[00:12:22.230] end of their corporate existence.
+[00:12:22.240] end of their corporate existence. &gt;&gt; So in our company, how do we do that
+[00:12:23.670] &gt;&gt; So in our company, how do we do that
+[00:12:23.680] &gt;&gt; So in our company, how do we do that practically? We have a failure and
+[00:12:25.509] practically? We have a failure and
+[00:12:25.519] practically? We have a failure and experimentation team whose KPI as they
+[00:12:28.470] experimentation team whose KPI as they
+[00:12:28.480] experimentation team whose KPI as they report to me every single week is the
+[00:12:30.310] report to me every single week is the
+[00:12:30.320] report to me every single week is the amount of experiments we've ran. Notice
+[00:12:32.150] amount of experiments we've ran. Notice
+[00:12:32.160] amount of experiments we've ran. Notice I'm not saying how many of them went
+[00:12:33.430] I'm not saying how many of them went
+[00:12:33.440] I'm not saying how many of them went well or really how many of them failed.
+[00:12:35.269] well or really how many of them failed.
+[00:12:35.279] well or really how many of them failed. It's purely the input which is the
+[00:12:37.110] It's purely the input which is the
+[00:12:37.120] It's purely the input which is the controllable which is how many
+[00:12:38.870] controllable which is how many
+[00:12:38.880] controllable which is how many experiments have we ran. And our job is
+[00:12:41.190] experiments have we ran. And our job is
+[00:12:41.200] experiments have we ran. And our job is to ramp up the amount of experiments
+[00:12:42.629] to ramp up the amount of experiments
+[00:12:42.639] to ramp up the amount of experiments we're running because the very nature of
+[00:12:44.069] we're running because the very nature of
+[00:12:44.079] we're running because the very nature of it being an experiment means we don't
+[00:12:45.509] it being an experiment means we don't
+[00:12:45.519] it being an experiment means we don't know how it's going to go. Every success
+[00:12:47.350] know how it's going to go. Every success
+[00:12:47.360] know how it's going to go. Every success we've had, every breakthrough that we've
+[00:12:49.350] we've had, every breakthrough that we've
+[00:12:49.360] we've had, every breakthrough that we've had that's completely changed our
+[00:12:50.870] had that's completely changed our
+[00:12:50.880] had that's completely changed our trajectory as a as a business, as a
+[00:12:52.949] trajectory as a as a business, as a
+[00:12:52.959] trajectory as a as a business, as a podcast, as a media company, has come at
+[00:12:55.030] podcast, as a media company, has come at
+[00:12:55.040] podcast, as a media company, has come at the expense of nine things that went
+[00:12:57.269] the expense of nine things that went
+[00:12:57.279] the expense of nine things that went really badly. And Amazon, again, they
+[00:12:59.430] really badly. And Amazon, again, they
+[00:12:59.440] really badly. And Amazon, again, they said it's the one in 10 that pays for
+[00:13:01.269] said it's the one in 10 that pays for
+[00:13:01.279] said it's the one in 10 that pays for the graveyard. None of you know about
+[00:13:02.710] the graveyard. None of you know about
+[00:13:02.720] the graveyard. None of you know about Firef. You probably don't know about
+[00:13:04.310] Firef. You probably don't know about
+[00:13:04.320] Firef. You probably don't know about Endless.com. All of these things cost
+[00:13:06.069] Endless.com. All of these things cost
+[00:13:06.079] Endless.com. All of these things cost Amazon hundreds of millions of dollars,
+[00:13:07.670] Amazon hundreds of millions of dollars,
+[00:13:07.680] Amazon hundreds of millions of dollars, but you probably know AWS, which will
+[00:13:09.590] but you probably know AWS, which will
+[00:13:09.600] but you probably know AWS, which will make them hundred billion this year. the
+[00:13:11.829] make them hundred billion this year. the
+[00:13:11.839] make them hundred billion this year. the game here to find the correct answer
+[00:13:13.590] game here to find the correct answer
+[00:13:13.600] game here to find the correct answer before your competitors, no matter what
+[00:13:14.949] before your competitors, no matter what
+[00:13:14.959] before your competitors, no matter what industry you're in, is to fail quicker
+[00:13:16.790] industry you're in, is to fail quicker
+[00:13:16.800] industry you're in, is to fail quicker than them because failure is feedback.
+[00:13:18.629] than them because failure is feedback.
+[00:13:18.639] than them because failure is feedback. Feedback is knowledge and knowledge is
+[00:13:19.990] Feedback is knowledge and knowledge is
+[00:13:20.000] Feedback is knowledge and knowledge is power.
+[00:13:20.550] power.
+[00:13:20.560] power. &gt;&gt; Thank you very much.
+[00:13:21.990] &gt;&gt; Thank you very much.
+[00:13:22.000] &gt;&gt; Thank you very much. &gt;&gt; Thank you.
+[00:13:23.269] &gt;&gt; Thank you.
+[00:13:23.279] &gt;&gt; Thank you. &gt;&gt; What you're about to see is something I
+[00:13:24.870] &gt;&gt; What you're about to see is something I
+[00:13:24.880] &gt;&gt; What you're about to see is something I encounter all the time. A girl comes up
+[00:13:27.110] encounter all the time. A girl comes up
+[00:13:27.120] encounter all the time. A girl comes up to me and says she wants to start a
+[00:13:28.550] to me and says she wants to start a
+[00:13:28.560] to me and says she wants to start a podcast because people told her to. That
+[00:13:30.389] podcast because people told her to. That
+[00:13:30.399] podcast because people told her to. That is not a good enough reason. If you're
+[00:13:32.310] is not a good enough reason. If you're
+[00:13:32.320] is not a good enough reason. If you're thinking from first principles, you'd
+[00:13:34.550] thinking from first principles, you'd
+[00:13:34.560] thinking from first principles, you'd start with questions, not conclusions.
+[00:13:37.110] start with questions, not conclusions.
+[00:13:37.120] start with questions, not conclusions. You'd ask yourself, "What do I have to
+[00:13:39.030] You'd ask yourself, "What do I have to
+[00:13:39.040] You'd ask yourself, "What do I have to say? Who is it for? Why does it matter?
+[00:13:41.750] say? Who is it for? Why does it matter?
+[00:13:41.760] say? Who is it for? Why does it matter? And what's the best platform to
+[00:13:43.590] And what's the best platform to
+[00:13:43.600] And what's the best platform to communicate it? Only once you've
+[00:13:45.190] communicate it? Only once you've
+[00:13:45.200] communicate it? Only once you've answered those questions can you
+[00:13:46.470] answered those questions can you
+[00:13:46.480] answered those questions can you reasonably arrive at the conclusion that
+[00:13:48.790] reasonably arrive at the conclusion that
+[00:13:48.800] reasonably arrive at the conclusion that a podcast is the answer. That's what we
+[00:13:50.949] a podcast is the answer. That's what we
+[00:13:50.959] a podcast is the answer. That's what we mean by reasoning upwards from first
+[00:13:52.949] mean by reasoning upwards from first
+[00:13:52.959] mean by reasoning upwards from first principles. But too many people do the
+[00:13:54.949] principles. But too many people do the
+[00:13:54.959] principles. But too many people do the opposite. They reason downwards from a
+[00:13:57.750] opposite. They reason downwards from a
+[00:13:57.760] opposite. They reason downwards from a trend or a suggestion. They start with
+[00:14:00.470] trend or a suggestion. They start with
+[00:14:00.480] trend or a suggestion. They start with an answer like I'm going to start a
+[00:14:02.150] an answer like I'm going to start a
+[00:14:02.160] an answer like I'm going to start a podcast and then they scramble to figure
+[00:14:04.150] podcast and then they scramble to figure
+[00:14:04.160] podcast and then they scramble to figure out what they're going to say, who it's
+[00:14:05.670] out what they're going to say, who it's
+[00:14:05.680] out what they're going to say, who it's for, and why it matters. That is
+[00:14:07.910] for, and why it matters. That is
+[00:14:07.920] for, and why it matters. That is backwards. If you start with the wrong
+[00:14:10.150] backwards. If you start with the wrong
+[00:14:10.160] backwards. If you start with the wrong answer, even the best execution won't
+[00:14:12.629] answer, even the best execution won't
+[00:14:12.639] answer, even the best execution won't save you.
+[00:14:13.509] save you.
+[00:14:13.519] save you. &gt;&gt; All my comments are like, "You should
+[00:14:14.870] &gt;&gt; All my comments are like, "You should
+[00:14:14.880] &gt;&gt; All my comments are like, "You should make a podcast." And like now I feel
+[00:14:16.629] make a podcast." And like now I feel
+[00:14:16.639] make a podcast." And like now I feel inspired to. I just don't know like how
+[00:14:18.470] inspired to. I just don't know like how
+[00:14:18.480] inspired to. I just don't know like how to take the first step.
+[00:14:19.509] to take the first step.
+[00:14:19.519] to take the first step. &gt;&gt; Give yourself one year where you say to
+[00:14:22.230] &gt;&gt; Give yourself one year where you say to
+[00:14:22.240] &gt;&gt; Give yourself one year where you say to yourself, "I'm going to be really,
+[00:14:23.430] yourself, "I'm going to be really,
+[00:14:23.440] yourself, "I'm going to be really, really bad at this." And this is my
+[00:14:24.629] really bad at this." And this is my
+[00:14:24.639] really bad at this." And this is my testing year. And what that will do is
+[00:14:25.910] testing year. And what that will do is
+[00:14:25.920] testing year. And what that will do is it will take all the performance
+[00:14:27.269] it will take all the performance
+[00:14:27.279] it will take all the performance pressure off you, which will mean you'll
+[00:14:29.030] pressure off you, which will mean you'll
+[00:14:29.040] pressure off you, which will mean you'll do the necessary thing of trying enough
+[00:14:32.310] do the necessary thing of trying enough
+[00:14:32.320] do the necessary thing of trying enough [&nbsp;__&nbsp;] to figure out what works. What ends
+[00:14:33.750] [&nbsp;__&nbsp;] to figure out what works. What ends
+[00:14:33.760] [&nbsp;__&nbsp;] to figure out what works. What ends up happening a lot of the time is you
+[00:14:35.350] up happening a lot of the time is you
+[00:14:35.360] up happening a lot of the time is you think that podcasting is two people sat
+[00:14:36.790] think that podcasting is two people sat
+[00:14:36.800] think that podcasting is two people sat at a table. If you just sort of relieve
+[00:14:38.710] at a table. If you just sort of relieve
+[00:14:38.720] at a table. If you just sort of relieve yourself of any preconceptions about
+[00:14:40.150] yourself of any preconceptions about
+[00:14:40.160] yourself of any preconceptions about what a podcast is, you'll probably end
+[00:14:41.430] what a podcast is, you'll probably end
+[00:14:41.440] what a podcast is, you'll probably end up making something really interesting.
+[00:14:42.870] up making something really interesting.
+[00:14:42.880] up making something really interesting. But don't even get rid of the word
+[00:14:44.150] But don't even get rid of the word
+[00:14:44.160] But don't even get rid of the word podcasting. Say, I'm going to start a
+[00:14:45.350] podcasting. Say, I'm going to start a
+[00:14:45.360] podcasting. Say, I'm going to start a YouTube channel and I'm going to do I'm
+[00:14:46.870] YouTube channel and I'm going to do I'm
+[00:14:46.880] YouTube channel and I'm going to do I'm going to I'm going to give there's
+[00:14:47.910] going to I'm going to give there's
+[00:14:47.920] going to I'm going to give there's something that my audience like that I
+[00:14:49.189] something that my audience like that I
+[00:14:49.199] something that my audience like that I deliver on. I'm going to find the best
+[00:14:50.470] deliver on. I'm going to find the best
+[00:14:50.480] deliver on. I'm going to find the best way to deliver that.
+[00:14:51.590] way to deliver that.
+[00:14:51.600] way to deliver that. &gt;&gt; Okay. Thank you so much.
+[00:14:52.949] &gt;&gt; Okay. Thank you so much.
+[00:14:52.959] &gt;&gt; Okay. Thank you so much. &gt;&gt; Nice to meet you. Of course.
+[00:14:54.310] &gt;&gt; Nice to meet you. Of course.
+[00:14:54.320] &gt;&gt; Nice to meet you. Of course. &gt;&gt; What's your advice to everyone?
+[00:14:55.990] &gt;&gt; What's your advice to everyone?
+[00:14:56.000] &gt;&gt; What's your advice to everyone? &gt;&gt; Um my advice to everyone is to go and
+[00:14:57.509] &gt;&gt; Um my advice to everyone is to go and
+[00:14:57.519] &gt;&gt; Um my advice to everyone is to go and follow you.
+[00:14:58.550] follow you.
+[00:14:58.560] follow you. &gt;&gt; Say uh follow Fizza Speaks. FCA speaks.
+[00:15:01.430] &gt;&gt; Say uh follow Fizza Speaks. FCA speaks.
+[00:15:01.440] &gt;&gt; Say uh follow Fizza Speaks. FCA speaks. &gt;&gt; Follow Speaks. As long as she's doing,
+[00:15:03.750] &gt;&gt; Follow Speaks. As long as she's doing,
+[00:15:03.760] &gt;&gt; Follow Speaks. As long as she's doing, you know, I don't know what content
+[00:15:05.189] you know, I don't know what content
+[00:15:05.199] you know, I don't know what content you're making, but
+[00:15:12.959] I'm doing a quick talk on stage here for
+[00:15:15.120] I'm doing a quick talk on stage here for YouTube/Google, which I'm excited about.
+[00:15:17.189] YouTube/Google, which I'm excited about.
+[00:15:17.199] YouTube/Google, which I'm excited about. On my way there now,
+[00:15:18.230] On my way there now,
+[00:15:18.240] On my way there now, &gt;&gt; ladies and gentlemen, Steven Barber.
+[00:15:20.470] &gt;&gt; ladies and gentlemen, Steven Barber.
+[00:15:20.480] &gt;&gt; ladies and gentlemen, Steven Barber. Thank you. Thank you. Thank you. YouTube
+[00:15:23.350] Thank you. Thank you. Thank you. YouTube
+[00:15:23.360] Thank you. Thank you. Thank you. YouTube has the best data and analytics. And for
+[00:15:25.910] has the best data and analytics. And for
+[00:15:25.920] has the best data and analytics. And for someone like me that wants to be able to
+[00:15:27.269] someone like me that wants to be able to
+[00:15:27.279] someone like me that wants to be able to influence what I'm doing, you need to be
+[00:15:29.670] influence what I'm doing, you need to be
+[00:15:29.680] influence what I'm doing, you need to be informed by data and analytics. Now, in
+[00:15:31.430] informed by data and analytics. Now, in
+[00:15:31.440] informed by data and analytics. Now, in the the back end of YouTube, there's
+[00:15:32.870] the the back end of YouTube, there's
+[00:15:32.880] the the back end of YouTube, there's this like one button and you can click
+[00:15:34.310] this like one button and you can click
+[00:15:34.320] this like one button and you can click into the advanced section and and see
+[00:15:36.230] into the advanced section and and see
+[00:15:36.240] into the advanced section and and see this wonderful graph and it tells you
+[00:15:38.470] this wonderful graph and it tells you
+[00:15:38.480] this wonderful graph and it tells you every single minute how many people
+[00:15:40.949] every single minute how many people
+[00:15:40.959] every single minute how many people dropped off in that exact minute. And so
+[00:15:43.750] dropped off in that exact minute. And so
+[00:15:43.760] dropped off in that exact minute. And so I can go through every single minute of
+[00:15:45.910] I can go through every single minute of
+[00:15:45.920] I can go through every single minute of a 2hour, 3-hour conversation and go, "Oh
+[00:15:48.790] a 2hour, 3-hour conversation and go, "Oh
+[00:15:48.800] a 2hour, 3-hour conversation and go, "Oh my god, yes, I asked a question about
+[00:15:51.350] my god, yes, I asked a question about
+[00:15:51.360] my god, yes, I asked a question about that subject or I spoke for too long."
+[00:15:53.910] that subject or I spoke for too long."
+[00:15:53.920] that subject or I spoke for too long." We've been able to learn exactly what
+[00:15:56.150] We've been able to learn exactly what
+[00:15:56.160] We've been able to learn exactly what our audience want. The game of YouTube
+[00:15:58.150] our audience want. The game of YouTube
+[00:15:58.160] our audience want. The game of YouTube for us became just listening. That
+[00:16:00.310] for us became just listening. That
+[00:16:00.320] for us became just listening. That informs next week's episode. And having
+[00:16:02.470] informs next week's episode. And having
+[00:16:02.480] informs next week's episode. And having that control as a creator means that
+[00:16:03.910] that control as a creator means that
+[00:16:03.920] that control as a creator means that your destiny is in your own hand. And
+[00:16:05.590] your destiny is in your own hand. And
+[00:16:05.600] your destiny is in your own hand. And it's no lie to say I spend two and a
+[00:16:07.269] it's no lie to say I spend two and a
+[00:16:07.279] it's no lie to say I spend two and a half hours still to this day in YouTube
+[00:16:09.030] half hours still to this day in YouTube
+[00:16:09.040] half hours still to this day in YouTube studio looking at the analytics.
+[00:16:10.470] studio looking at the analytics.
+[00:16:10.480] studio looking at the analytics. &gt;&gt; Ladies and gentlemen,
+[00:16:12.470] &gt;&gt; Ladies and gentlemen,
+[00:16:12.480] &gt;&gt; Ladies and gentlemen, &gt;&gt; thank you so much for everything. I've
+[00:16:13.670] &gt;&gt; thank you so much for everything. I've
+[00:16:13.680] &gt;&gt; thank you so much for everything. I've been following you since the social
+[00:16:14.710] been following you since the social
+[00:16:14.720] been following you since the social chain. Right now, marketing and getting
+[00:16:16.949] chain. Right now, marketing and getting
+[00:16:16.959] chain. Right now, marketing and getting out there is a madness. I I when I speak
+[00:16:19.430] out there is a madness. I I when I speak
+[00:16:19.440] out there is a madness. I I when I speak to people oneonone, I get business. What
+[00:16:20.790] to people oneonone, I get business. What
+[00:16:20.800] to people oneonone, I get business. What is the one piece of advice that you can
+[00:16:22.470] is the one piece of advice that you can
+[00:16:22.480] is the one piece of advice that you can give that will blow it away? I know you
+[00:16:24.150] give that will blow it away? I know you
+[00:16:24.160] give that will blow it away? I know you said experiment. I've got that down. But
+[00:16:25.670] said experiment. I've got that down. But
+[00:16:25.680] said experiment. I've got that down. But the one thing you know from experience
+[00:16:27.590] the one thing you know from experience
+[00:16:27.600] the one thing you know from experience &gt;&gt; I always assume people aren't going to
+[00:16:28.629] &gt;&gt; I always assume people aren't going to
+[00:16:28.639] &gt;&gt; I always assume people aren't going to like the answer. It's not simple or sexy
+[00:16:30.790] like the answer. It's not simple or sexy
+[00:16:30.800] like the answer. It's not simple or sexy and it's kind of obvious.
+[00:16:31.590] and it's kind of obvious.
+[00:16:31.600] and it's kind of obvious. &gt;&gt; Okay.
+[00:16:31.829] &gt;&gt; Okay.
+[00:16:31.839] &gt;&gt; Okay. &gt;&gt; So I would only focus on LinkedIn.
+[00:16:33.350] &gt;&gt; So I would only focus on LinkedIn.
+[00:16:33.360] &gt;&gt; So I would only focus on LinkedIn. &gt;&gt; I do. I get only focus. Right. So how
+[00:16:35.670] &gt;&gt; I do. I get only focus. Right. So how
+[00:16:35.680] &gt;&gt; I do. I get only focus. Right. So how many times you post a day?
+[00:16:36.710] many times you post a day?
+[00:16:36.720] many times you post a day? &gt;&gt; Once a day like consistently.
+[00:16:38.150] &gt;&gt; Once a day like consistently.
+[00:16:38.160] &gt;&gt; Once a day like consistently. &gt;&gt; Okay. So you posted every day this week?
+[00:16:39.509] &gt;&gt; Okay. So you posted every day this week?
+[00:16:39.519] &gt;&gt; Okay. So you posted every day this week? &gt;&gt; Yes. I posted um yesterday and got a
+[00:16:41.590] &gt;&gt; Yes. I posted um yesterday and got a
+[00:16:41.600] &gt;&gt; Yes. I posted um yesterday and got a post coming out today.
+[00:16:42.470] post coming out today.
+[00:16:42.480] post coming out today. &gt;&gt; And what type of thing did you post? Did
+[00:16:43.990] &gt;&gt; And what type of thing did you post? Did
+[00:16:44.000] &gt;&gt; And what type of thing did you post? Did you post videos, photos?
+[00:16:45.189] you post videos, photos?
+[00:16:45.199] you post videos, photos? &gt;&gt; So I post I posted a video.
+[00:16:46.870] &gt;&gt; So I post I posted a video.
+[00:16:46.880] &gt;&gt; So I post I posted a video. &gt;&gt; What did you learn about
+[00:16:47.749] &gt;&gt; What did you learn about
+[00:16:47.759] &gt;&gt; What did you learn about &gt;&gt; that video? I learned about how you can
+[00:16:51.189] &gt;&gt; that video? I learned about how you can
+[00:16:51.199] &gt;&gt; that video? I learned about how you can That's a good question.
+[00:16:51.990] That's a good question.
+[00:16:52.000] That's a good question. &gt;&gt; How many comments?
+[00:16:52.710] &gt;&gt; How many comments?
+[00:16:52.720] &gt;&gt; How many comments? &gt;&gt; Wow. It got I think 12 12 comments.
+[00:16:55.990] &gt;&gt; Wow. It got I think 12 12 comments.
+[00:16:56.000] &gt;&gt; Wow. It got I think 12 12 comments. &gt;&gt; Are you sure?
+[00:16:56.710] &gt;&gt; Are you sure?
+[00:16:56.720] &gt;&gt; Are you sure? &gt;&gt; Do I need to know my analytics cuz my
+[00:16:58.069] &gt;&gt; Do I need to know my analytics cuz my
+[00:16:58.079] &gt;&gt; Do I need to know my analytics cuz my head?
+[00:16:58.790] head?
+[00:16:58.800] head? &gt;&gt; It's the most important thing. If you
+[00:17:00.150] &gt;&gt; It's the most important thing. If you
+[00:17:00.160] &gt;&gt; It's the most important thing. If you don't have a feedback loop, you it's
+[00:17:02.069] don't have a feedback loop, you it's
+[00:17:02.079] don't have a feedback loop, you it's you're going to feel like you're not
+[00:17:03.269] you're going to feel like you're not
+[00:17:03.279] you're going to feel like you're not making any progress. I spend 2 and 1
+[00:17:04.710] making any progress. I spend 2 and 1
+[00:17:04.720] making any progress. I spend 2 and 1 half hours a day looking at the back end
+[00:17:06.870] half hours a day looking at the back end
+[00:17:06.880] half hours a day looking at the back end of my YouTube videos.
+[00:17:07.669] of my YouTube videos.
+[00:17:07.679] of my YouTube videos. &gt;&gt; 2 hours a day a day.
+[00:17:09.110] &gt;&gt; 2 hours a day a day.
+[00:17:09.120] &gt;&gt; 2 hours a day a day. &gt;&gt; Okay.
+[00:17:09.590] &gt;&gt; Okay.
+[00:17:09.600] &gt;&gt; Okay. &gt;&gt; And this is how you improve.
+[00:17:12.309] &gt;&gt; And this is how you improve.
+[00:17:12.319] &gt;&gt; And this is how you improve. &gt;&gt; Every single post is data and the
+[00:17:14.870] &gt;&gt; Every single post is data and the
+[00:17:14.880] &gt;&gt; Every single post is data and the information exists in the back end of
+[00:17:16.630] information exists in the back end of
+[00:17:16.640] information exists in the back end of every single platform. And that
+[00:17:18.230] every single platform. And that
+[00:17:18.240] every single platform. And that information tells you why people
+[00:17:19.990] information tells you why people
+[00:17:20.000] information tells you why people watched, what they clicked, when they
+[00:17:21.750] watched, what they clicked, when they
+[00:17:21.760] watched, what they clicked, when they stopped watching, what they said. All of
+[00:17:24.390] stopped watching, what they said. All of
+[00:17:24.400] stopped watching, what they said. All of that is information that can feed into
+[00:17:26.630] that is information that can feed into
+[00:17:26.640] that is information that can feed into your next post. So you have to produce,
+[00:17:29.110] your next post. So you have to produce,
+[00:17:29.120] your next post. So you have to produce, publish, and then pay attention and
+[00:17:31.430] publish, and then pay attention and
+[00:17:31.440] publish, and then pay attention and repeat that cycle. We spent pretty much
+[00:17:33.990] repeat that cycle. We spent pretty much
+[00:17:34.000] repeat that cycle. We spent pretty much all last I mean last night, the night
+[00:17:35.590] all last I mean last night, the night
+[00:17:35.600] all last I mean last night, the night before in our WhatsApp group talking
+[00:17:37.510] before in our WhatsApp group talking
+[00:17:37.520] before in our WhatsApp group talking about the analytics like we are at war
+[00:17:39.909] about the analytics like we are at war
+[00:17:39.919] about the analytics like we are at war with each other about these [&nbsp;__&nbsp;]
+[00:17:40.789] with each other about these [&nbsp;__&nbsp;]
+[00:17:40.799] with each other about these [&nbsp;__&nbsp;] analytics
+[00:17:41.669] analytics
+[00:17:41.679] analytics &gt;&gt; and this is how you improve. And so if
+[00:17:43.909] &gt;&gt; and this is how you improve. And so if
+[00:17:43.919] &gt;&gt; and this is how you improve. And so if you have the consistency, which you say
+[00:17:45.110] you have the consistency, which you say
+[00:17:45.120] you have the consistency, which you say you do, that the the end of your
+[00:17:46.710] you do, that the the end of your
+[00:17:46.720] you do, that the the end of your feedback loop where where the where
+[00:17:48.070] feedback loop where where the where
+[00:17:48.080] feedback loop where where the where there's a gap is are you learning from
+[00:17:49.590] there's a gap is are you learning from
+[00:17:49.600] there's a gap is are you learning from what you're posting, every single thing
+[00:17:51.029] what you're posting, every single thing
+[00:17:51.039] what you're posting, every single thing you post is not about you and your
+[00:17:52.630] you post is not about you and your
+[00:17:52.640] you post is not about you and your business. It is value for strangers.
+[00:17:54.390] business. It is value for strangers.
+[00:17:54.400] business. It is value for strangers. What's your mom called?
+[00:17:55.270] What's your mom called?
+[00:17:55.280] What's your mom called? &gt;&gt; Alison.
+[00:17:55.909] &gt;&gt; Alison.
+[00:17:55.919] &gt;&gt; Alison. &gt;&gt; Okay. Alison. So Allison will think
+[00:17:58.230] &gt;&gt; Okay. Alison. So Allison will think
+[00:17:58.240] &gt;&gt; Okay. Alison. So Allison will think everything you do is valuable.
+[00:17:59.430] everything you do is valuable.
+[00:17:59.440] everything you do is valuable. &gt;&gt; Okay?
+[00:17:59.830] &gt;&gt; Okay?
+[00:17:59.840] &gt;&gt; Okay? &gt;&gt; Cuz you can post what you eat for
+[00:18:01.110] &gt;&gt; Cuz you can post what you eat for
+[00:18:01.120] &gt;&gt; Cuz you can post what you eat for dinner. You go, "Oh, thank God." Right?
+[00:18:02.630] dinner. You go, "Oh, thank God." Right?
+[00:18:02.640] dinner. You go, "Oh, thank God." Right? But
+[00:18:04.390] But
+[00:18:04.400] But &gt;&gt; I need to understand him first. I feel
+[00:18:05.830] &gt;&gt; I need to understand him first. I feel
+[00:18:05.840] &gt;&gt; I need to understand him first. I feel like I need to know him first. I need to
+[00:18:06.950] like I need to know him first. I need to
+[00:18:06.960] like I need to know him first. I need to know what he
+[00:18:07.510] know what he
+[00:18:07.520] know what he &gt;&gt; So that's who you establish your
+[00:18:08.549] &gt;&gt; So that's who you establish your
+[00:18:08.559] &gt;&gt; So that's who you establish your personas, which is what we do. So we
+[00:18:09.750] personas, which is what we do. So we
+[00:18:09.760] personas, which is what we do. So we have our four personas. And every single
+[00:18:11.510] have our four personas. And every single
+[00:18:11.520] have our four personas. And every single time we write a post, we say, "Which one
+[00:18:12.870] time we write a post, we say, "Which one
+[00:18:12.880] time we write a post, we say, "Which one of our personas are we serving?" But
+[00:18:14.310] of our personas are we serving?" But
+[00:18:14.320] of our personas are we serving?" But every single thing you post from now and
+[00:18:15.590] every single thing you post from now and
+[00:18:15.600] every single thing you post from now and forever, you need to ask yourself before
+[00:18:17.029] forever, you need to ask yourself before
+[00:18:17.039] forever, you need to ask yourself before you hit the post button, is this
+[00:18:18.470] you hit the post button, is this
+[00:18:18.480] you hit the post button, is this valuable to people? Do not give a [&nbsp;__&nbsp;]
+[00:18:20.549] valuable to people? Do not give a [&nbsp;__&nbsp;]
+[00:18:20.559] valuable to people? Do not give a [&nbsp;__&nbsp;] about me.
+[00:18:21.190] about me.
+[00:18:21.200] about me. &gt;&gt; Okay. And a couple times every day.
+[00:18:23.590] &gt;&gt; Okay. And a couple times every day.
+[00:18:23.600] &gt;&gt; Okay. And a couple times every day. &gt;&gt; Yeah. Steven, can I do are you okay with
+[00:18:25.590] &gt;&gt; Yeah. Steven, can I do are you okay with
+[00:18:25.600] &gt;&gt; Yeah. Steven, can I do are you okay with hugs? Is that is that uncomfortable?
+[00:18:28.070] hugs? Is that is that uncomfortable?
+[00:18:28.080] hugs? Is that is that uncomfortable? &gt;&gt; My team was telling me that you you ran
+[00:18:30.310] &gt;&gt; My team was telling me that you you ran
+[00:18:30.320] &gt;&gt; My team was telling me that you you ran a master class on YouTube.
+[00:18:31.669] a master class on YouTube.
+[00:18:31.679] a master class on YouTube. &gt;&gt; Oh, really?
+[00:18:32.230] &gt;&gt; Oh, really?
+[00:18:32.240] &gt;&gt; Oh, really? &gt;&gt; Yeah. Because you know how you can tell
+[00:18:33.990] &gt;&gt; Yeah. Because you know how you can tell
+[00:18:34.000] &gt;&gt; Yeah. Because you know how you can tell like they were all saying to me is like,
+[00:18:35.669] like they were all saying to me is like,
+[00:18:35.679] like they were all saying to me is like, "Oh my god, the number of people taking
+[00:18:37.270] "Oh my god, the number of people taking
+[00:18:37.280] "Oh my god, the number of people taking notes when Steven was talking." But
+[00:18:39.750] notes when Steven was talking." But
+[00:18:39.760] notes when Steven was talking." But that's what people leave with something.
+[00:18:41.990] that's what people leave with something.
+[00:18:42.000] that's what people leave with something. &gt;&gt; Well, I'm so passionate about it. I
+[00:18:43.350] &gt;&gt; Well, I'm so passionate about it. I
+[00:18:43.360] &gt;&gt; Well, I'm so passionate about it. I talked to everybody about why I'm so
+[00:18:45.510] talked to everybody about why I'm so
+[00:18:45.520] talked to everybody about why I'm so engaged with YouTube as a creator. I
+[00:18:47.350] engaged with YouTube as a creator. I
+[00:18:47.360] engaged with YouTube as a creator. I talked to everybody about the disruption
+[00:18:48.870] talked to everybody about the disruption
+[00:18:48.880] talked to everybody about the disruption of TV. Um the percentage of my audience,
+[00:18:51.830] of TV. Um the percentage of my audience,
+[00:18:51.840] of TV. Um the percentage of my audience, about 33 35% that are now watching on TV
+[00:18:54.549] about 33 35% that are now watching on TV
+[00:18:54.559] about 33 35% that are now watching on TV and how it's disrupting multiple
+[00:18:56.310] and how it's disrupting multiple
+[00:18:56.320] and how it's disrupting multiple industries at once. So, I'm super
+[00:18:57.909] industries at once. So, I'm super
+[00:18:57.919] industries at once. So, I'm super passionate about it.
+[00:18:58.789] passionate about it.
+[00:18:58.799] passionate about it. &gt;&gt; Yeah. Examples like you are are really
+[00:19:01.110] &gt;&gt; Yeah. Examples like you are are really
+[00:19:01.120] &gt;&gt; Yeah. Examples like you are are really the inspiration of why we go to work.
+[00:19:03.029] the inspiration of why we go to work.
+[00:19:03.039] the inspiration of why we go to work. Like our mission statement is to make it
+[00:19:04.789] Like our mission statement is to make it
+[00:19:04.799] Like our mission statement is to make it so that you're successful because you're
+[00:19:06.630] so that you're successful because you're
+[00:19:06.640] so that you're successful because you're doing something important and getting
+[00:19:09.510] doing something important and getting
+[00:19:09.520] doing something important and getting your ideas out there to an audience. A
+[00:19:12.070] your ideas out there to an audience. A
+[00:19:12.080] your ideas out there to an audience. A about finding that audience, but b it's
+[00:19:13.750] about finding that audience, but b it's
+[00:19:13.760] about finding that audience, but b it's about actually creating the economic
+[00:19:15.430] about actually creating the economic
+[00:19:15.440] about actually creating the economic opportunity for you so you can keep
+[00:19:17.110] opportunity for you so you can keep
+[00:19:17.120] opportunity for you so you can keep doing it.
+[00:19:18.070] doing it.
+[00:19:18.080] doing it. &gt;&gt; And that's our mission.
+[00:19:27.919] Sh.
+[00:19:30.480] Sh. I have come all the way from South
+[00:19:32.150] I have come all the way from South
+[00:19:32.160] I have come all the way from South Africa. I want to say thank you for
+[00:19:34.630] Africa. I want to say thank you for
+[00:19:34.640] Africa. I want to say thank you for inspiring me. Your book is like a Bible
+[00:19:36.310] inspiring me. Your book is like a Bible
+[00:19:36.320] inspiring me. Your book is like a Bible next to my bed. I don't watch movies on
+[00:19:38.470] next to my bed. I don't watch movies on
+[00:19:38.480] next to my bed. I don't watch movies on planes. I watch your podcasts. You
+[00:19:40.390] planes. I watch your podcasts. You
+[00:19:40.400] planes. I watch your podcasts. You couldn't afford even a ticket to get in
+[00:19:41.669] couldn't afford even a ticket to get in
+[00:19:41.679] couldn't afford even a ticket to get in here and I sat outside and waited.
+[00:19:43.270] here and I sat outside and waited.
+[00:19:43.280] here and I sat outside and waited. &gt;&gt; So sweet. You okay? waited to actually
+[00:19:45.750] &gt;&gt; So sweet. You okay? waited to actually
+[00:19:45.760] &gt;&gt; So sweet. You okay? waited to actually meet someone from Google and just say
+[00:19:47.110] meet someone from Google and just say
+[00:19:47.120] meet someone from Google and just say that this was my dream to meet you in
+[00:19:48.470] that this was my dream to meet you in
+[00:19:48.480] that this was my dream to meet you in person. You're so sweet. I am so
+[00:19:50.230] person. You're so sweet. I am so
+[00:19:50.240] person. You're so sweet. I am so grateful. Your story is incredible and
+[00:19:53.190] grateful. Your story is incredible and
+[00:19:53.200] grateful. Your story is incredible and you have been my mentor without even
+[00:19:55.669] you have been my mentor without even
+[00:19:55.679] you have been my mentor without even realizing it. So just
+[00:19:57.029] realizing it. So just
+[00:19:57.039] realizing it. So just &gt;&gt; are you give me a so
+[00:20:03.679] &gt;&gt; tears and all managed to break in. I
+[00:20:05.679] &gt;&gt; tears and all managed to break in. I love that. I love that feeling.
+[00:20:07.029] love that. I love that feeling.
+[00:20:07.039] love that. I love that feeling. &gt;&gt; Thank you so much. What are you doing
+[00:20:08.070] &gt;&gt; Thank you so much. What are you doing
+[00:20:08.080] &gt;&gt; Thank you so much. What are you doing for the rest of the day?
+[00:20:09.270] for the rest of the day?
+[00:20:09.280] for the rest of the day? &gt;&gt; Uh I could fly home right now. I don't
+[00:20:11.270] &gt;&gt; Uh I could fly home right now. I don't
+[00:20:11.280] &gt;&gt; Uh I could fly home right now. I don't care. So sweet. I wish there was
+[00:20:13.430] care. So sweet. I wish there was
+[00:20:13.440] care. So sweet. I wish there was something I could give you. I don't have
+[00:20:14.549] something I could give you. I don't have
+[00:20:14.559] something I could give you. I don't have anything on me, but I wish there was
+[00:20:15.669] anything on me, but I wish there was
+[00:20:15.679] anything on me, but I wish there was something. I'll give you my hat. You can
+[00:20:16.870] something. I'll give you my hat. You can
+[00:20:16.880] something. I'll give you my hat. You can have my cap. It's a little bit sweaty,
+[00:20:18.230] have my cap. It's a little bit sweaty,
+[00:20:18.240] have my cap. It's a little bit sweaty, so don't put it straight on.
+[00:20:27.220] [Music]
+[00:20:40.320] That is my dog, Pablo. And uh Pablo is
+[00:20:43.200] That is my dog, Pablo. And uh Pablo is very, very sick at the moment. He spent
+[00:20:45.110] very, very sick at the moment. He spent
+[00:20:45.120] very, very sick at the moment. He spent the last 8 weeks going in and out of the
+[00:20:47.270] the last 8 weeks going in and out of the
+[00:20:47.280] the last 8 weeks going in and out of the vet. Um I'm so scared. And I think he's
+[00:20:51.190] vet. Um I'm so scared. And I think he's
+[00:20:51.200] vet. Um I'm so scared. And I think he's going I just tried to feed him and he
+[00:20:54.549] going I just tried to feed him and he
+[00:20:54.559] going I just tried to feed him and he throws up all of his food.
+[00:21:01.280] Oh my god. Since I got him all those
+[00:21:03.520] Oh my god. Since I got him all those years ago, almost 10 years ago, I've
+[00:21:04.870] years ago, almost 10 years ago, I've
+[00:21:04.880] years ago, almost 10 years ago, I've never in my life seen him this skinny
+[00:21:07.110] never in my life seen him this skinny
+[00:21:07.120] never in my life seen him this skinny and this frail. He can't walk properly.
+[00:21:09.430] and this frail. He can't walk properly.
+[00:21:09.440] and this frail. He can't walk properly. He can't hold his food down. He uh can't
+[00:21:13.750] He can't hold his food down. He uh can't
+[00:21:13.760] He can't hold his food down. He uh can't control his bowels. He He's not moving
+[00:21:16.390] control his bowels. He He's not moving
+[00:21:16.400] control his bowels. He He's not moving much anymore. And it's really really
+[00:21:19.029] much anymore. And it's really really
+[00:21:19.039] much anymore. And it's really really sad. He's been with me for the last 10
+[00:21:20.789] sad. He's been with me for the last 10
+[00:21:20.799] sad. He's been with me for the last 10 years and he's been everywhere with me.
+[00:21:22.390] years and he's been everywhere with me.
+[00:21:22.400] years and he's been everywhere with me. And Dragon's Den or the podcast or the
+[00:21:24.470] And Dragon's Den or the podcast or the
+[00:21:24.480] And Dragon's Den or the podcast or the businesses or whatever. It's all
+[00:21:25.590] businesses or whatever. It's all
+[00:21:25.600] businesses or whatever. It's all happened in those 10 years. and it's
+[00:21:27.909] happened in those 10 years. and it's
+[00:21:27.919] happened in those 10 years. and it's it's happened in a variety of different
+[00:21:29.750] it's happened in a variety of different
+[00:21:29.760] it's happened in a variety of different cities and locations and countries and
+[00:21:31.830] cities and locations and countries and
+[00:21:31.840] cities and locations and countries and Pablo's been there with me through it
+[00:21:34.390] Pablo's been there with me through it
+[00:21:34.400] Pablo's been there with me through it all. He's one of my oldest friends in
+[00:21:36.149] all. He's one of my oldest friends in
+[00:21:36.159] all. He's one of my oldest friends in the world and um
+[00:21:39.510] the world and um
+[00:21:39.520] the world and um got him as a baby and now I guess he's
+[00:21:41.350] got him as a baby and now I guess he's
+[00:21:41.360] got him as a baby and now I guess he's an old man. He's helped me in the last
+[00:21:44.070] an old man. He's helped me in the last
+[00:21:44.080] an old man. He's helped me in the last 10 years
+[00:21:46.310] 10 years
+[00:21:46.320] 10 years realize that a lot of the problems I
+[00:21:47.909] realize that a lot of the problems I
+[00:21:47.919] realize that a lot of the problems I faced or the challenges I faced weren't
+[00:21:49.669] faced or the challenges I faced weren't
+[00:21:49.679] faced or the challenges I faced weren't real problems and he's helped me realize
+[00:21:51.590] real problems and he's helped me realize
+[00:21:51.600] real problems and he's helped me realize that life can be so simple. just like
+[00:21:53.190] that life can be so simple. just like
+[00:21:53.200] that life can be so simple. just like watching him mess around with like a
+[00:21:54.710] watching him mess around with like a
+[00:21:54.720] watching him mess around with like a Lucas aid bottle or splash about in the
+[00:21:57.590] Lucas aid bottle or splash about in the
+[00:21:57.600] Lucas aid bottle or splash about in the bathtub and have so much fun with such
+[00:21:59.590] bathtub and have so much fun with such
+[00:21:59.600] bathtub and have so much fun with such simple things has always made me realize
+[00:22:01.510] simple things has always made me realize
+[00:22:01.520] simple things has always made me realize it's been this great reminder that um
+[00:22:04.310] it's been this great reminder that um
+[00:22:04.320] it's been this great reminder that um life can be simple and we can find joy
+[00:22:06.390] life can be simple and we can find joy
+[00:22:06.400] life can be simple and we can find joy in simple things and I'm like contending
+[00:22:09.669] in simple things and I'm like contending
+[00:22:09.679] in simple things and I'm like contending with the realization that
+[00:22:13.350] with the realization that
+[00:22:13.360] with the realization that I'm going to have to say bye and it's
+[00:22:15.990] I'm going to have to say bye and it's
+[00:22:16.000] I'm going to have to say bye and it's not easy. Um, that's a good point.
+[00:22:20.149] not easy. Um, that's a good point.
+[00:22:20.159] not easy. Um, that's a good point. &gt;&gt; And yeah, through the last 10 years, at
+[00:22:21.750] &gt;&gt; And yeah, through the last 10 years, at
+[00:22:21.760] &gt;&gt; And yeah, through the last 10 years, at times it can be very, very lonely. And
+[00:22:23.750] times it can be very, very lonely. And
+[00:22:23.760] times it can be very, very lonely. And actually on many nights, many days, the
+[00:22:25.909] actually on many nights, many days, the
+[00:22:25.919] actually on many nights, many days, the only person that I've had through the
+[00:22:27.430] only person that I've had through the
+[00:22:27.440] only person that I've had through the weekends or late at night has been has
+[00:22:31.190] weekends or late at night has been has
+[00:22:31.200] weekends or late at night has been has been Pablo. You know, to be fair, I
+[00:22:33.270] been Pablo. You know, to be fair, I
+[00:22:33.280] been Pablo. You know, to be fair, I don't have that many friends and my
+[00:22:34.630] don't have that many friends and my
+[00:22:34.640] don't have that many friends and my friends don't live close to me. So,
+[00:22:36.630] friends don't live close to me. So,
+[00:22:36.640] friends don't live close to me. So, especially on weekends, it's mainly just
+[00:22:38.630] especially on weekends, it's mainly just
+[00:22:38.640] especially on weekends, it's mainly just been me and Pablo for the last 10 years
+[00:22:40.149] been me and Pablo for the last 10 years
+[00:22:40.159] been me and Pablo for the last 10 years together.
+[00:22:41.190] together.
+[00:22:41.200] together. &gt;&gt; I am your best friend. You need to start
+[00:22:43.669] &gt;&gt; I am your best friend. You need to start
+[00:22:43.679] &gt;&gt; I am your best friend. You need to start realizing this because I can open
+[00:22:46.950] realizing this because I can open
+[00:22:46.960] realizing this because I can open cupboards. And then when I open the
+[00:22:48.950] cupboards. And then when I open the
+[00:22:48.960] cupboards. And then when I open the cupboards, do you know what I can do? I
+[00:22:50.950] cupboards, do you know what I can do? I
+[00:22:50.960] cupboards, do you know what I can do? I can open packets of 80% beef with
+[00:22:54.870] can open packets of 80% beef with
+[00:22:54.880] can open packets of 80% beef with wholesome fruit and veg.
+[00:22:56.549] wholesome fruit and veg.
+[00:22:56.559] wholesome fruit and veg. &gt;&gt; He's given me um fun. He's given me so
+[00:22:59.270] &gt;&gt; He's given me um fun. He's given me so
+[00:22:59.280] &gt;&gt; He's given me um fun. He's given me so much love. He's given me so much. So,
+[00:23:01.669] much love. He's given me so much. So,
+[00:23:01.679] much love. He's given me so much. So, it's difficult. It's difficult. As I've
+[00:23:04.789] it's difficult. It's difficult. As I've
+[00:23:04.799] it's difficult. It's difficult. As I've come to terms with the fact that I'm
+[00:23:07.510] come to terms with the fact that I'm
+[00:23:07.520] come to terms with the fact that I'm probably going to lose him soon,
+[00:23:10.950] probably going to lose him soon,
+[00:23:10.960] probably going to lose him soon, I um
+[00:23:13.430] I um
+[00:23:13.440] I um I'm really going out of my way to
+[00:23:15.990] I'm really going out of my way to
+[00:23:16.000] I'm really going out of my way to express my appreciation to him in all
+[00:23:17.750] express my appreciation to him in all
+[00:23:17.760] express my appreciation to him in all the ways that I can, you know, like I'll
+[00:23:19.430] the ways that I can, you know, like I'll
+[00:23:19.440] the ways that I can, you know, like I'll never properly be able to say thank you
+[00:23:21.029] never properly be able to say thank you
+[00:23:21.039] never properly be able to say thank you to him.
+[00:23:25.360] And it's funny how like when you're
+[00:23:27.760] And it's funny how like when you're confronted with that realization that
+[00:23:29.750] confronted with that realization that
+[00:23:29.760] confronted with that realization that you like deep down knew was going to
+[00:23:31.750] you like deep down knew was going to
+[00:23:31.760] you like deep down knew was going to happen, how much you wish you could just
+[00:23:33.990] happen, how much you wish you could just
+[00:23:34.000] happen, how much you wish you could just do it all over again. How much you wish
+[00:23:35.990] do it all over again. How much you wish
+[00:23:36.000] do it all over again. How much you wish you could have all that time over again.
+[00:23:37.510] you could have all that time over again.
+[00:23:37.520] you could have all that time over again. And how much you wish you could just you
+[00:23:39.350] And how much you wish you could just you
+[00:23:39.360] And how much you wish you could just you could say thank you over and over again.
+[00:23:42.870] could say thank you over and over again.
+[00:23:42.880] could say thank you over and over again. I guess that's what makes anything
+[00:23:44.230] I guess that's what makes anything
+[00:23:44.240] I guess that's what makes anything valuable in life. It's valuable because
+[00:23:47.029] valuable in life. It's valuable because
+[00:23:47.039] valuable in life. It's valuable because you only have a limited amount of it for
+[00:23:49.590] you only have a limited amount of it for
+[00:23:49.600] you only have a limited amount of it for a limited amount of time.
+[00:23:55.280] It's all right, man.
+[00:23:59.760] I love you. Thank you. And I'll see you
+[00:24:02.080] I love you. Thank you. And I'll see you next week.
+[00:24:03.820] next week.
+[00:24:03.830] next week. [Music]

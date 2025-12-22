@@ -1,0 +1,1386 @@
+[00:00:00.080] Welcome back to another episode of
+[00:00:01.439] Welcome back to another episode of Behind the Diary. There are three things
+[00:00:03.590] Behind the Diary. There are three things
+[00:00:03.600] Behind the Diary. There are three things this episode that I think you're going
+[00:00:05.510] this episode that I think you're going
+[00:00:05.520] this episode that I think you're going to learn. Number one is this crazy thing
+[00:00:08.790] to learn. Number one is this crazy thing
+[00:00:08.800] to learn. Number one is this crazy thing happening in AI that I learned from the
+[00:00:10.709] happening in AI that I learned from the
+[00:00:10.719] happening in AI that I learned from the CEO of a company called Fiverr, but
+[00:00:12.950] CEO of a company called Fiverr, but
+[00:00:12.960] CEO of a company called Fiverr, but gives all of us a glimpse into what the
+[00:00:14.549] gives all of us a glimpse into what the
+[00:00:14.559] gives all of us a glimpse into what the future of AI looks like, especially if
+[00:00:16.470] future of AI looks like, especially if
+[00:00:16.480] future of AI looks like, especially if you're a freelancer, a contractor, a
+[00:00:18.230] you're a freelancer, a contractor, a
+[00:00:18.240] you're a freelancer, a contractor, a creative. The second thing you're going
+[00:00:20.070] creative. The second thing you're going
+[00:00:20.080] creative. The second thing you're going to learn is about hiring. People are
+[00:00:22.230] to learn is about hiring. People are
+[00:00:22.240] to learn is about hiring. People are motivated and manipulated by a framework
+[00:00:25.349] motivated and manipulated by a framework
+[00:00:25.359] motivated and manipulated by a framework called Rice. And I've built a
+[00:00:28.269] called Rice. And I've built a
+[00:00:28.279] called Rice. And I've built a tool which is my secret weapon which I'm
+[00:00:30.950] tool which is my secret weapon which I'm
+[00:00:30.960] tool which is my secret weapon which I'm going to give you the link for a survey.
+[00:00:32.470] going to give you the link for a survey.
+[00:00:32.480] going to give you the link for a survey. I've built to send to candidates when
+[00:00:34.310] I've built to send to candidates when
+[00:00:34.320] I've built to send to candidates when you hire them. Lastly in this episode,
+[00:00:36.709] you hire them. Lastly in this episode,
+[00:00:36.719] you hire them. Lastly in this episode, there's something that I learned from
+[00:00:37.990] there's something that I learned from
+[00:00:38.000] there's something that I learned from Mr. Beast which I didn't say in last
+[00:00:40.069] Mr. Beast which I didn't say in last
+[00:00:40.079] Mr. Beast which I didn't say in last week's episode which I believe is maybe
+[00:00:43.030] week's episode which I believe is maybe
+[00:00:43.040] week's episode which I believe is maybe the most unappreciated thing for anyone
+[00:00:44.869] the most unappreciated thing for anyone
+[00:00:44.879] the most unappreciated thing for anyone that's trying to build an audience. This
+[00:00:46.709] that's trying to build an audience. This
+[00:00:46.719] that's trying to build an audience. This is like an amazing insight that that
+[00:00:48.389] is like an amazing insight that that
+[00:00:48.399] is like an amazing insight that that would ultimately change 100 shows
+[00:00:49.590] would ultimately change 100 shows
+[00:00:49.600] would ultimately change 100 shows potentially and we're going to talk
+[00:00:50.869] potentially and we're going to talk
+[00:00:50.879] potentially and we're going to talk about that as well today. So lots to
+[00:00:52.229] about that as well today. So lots to
+[00:00:52.239] about that as well today. So lots to learn in this episode today. Hope you
+[00:00:54.150] learn in this episode today. Hope you
+[00:00:54.160] learn in this episode today. Hope you enjoy it. Let's do it.
+[00:00:56.790] enjoy it. Let's do it.
+[00:00:56.800] enjoy it. Let's do it. Think about your favorite company. And
+[00:00:59.270] Think about your favorite company. And
+[00:00:59.280] Think about your favorite company. And now imagine that they let you see in
+[00:01:01.910] now imagine that they let you see in
+[00:01:01.920] now imagine that they let you see in every meeting in every room from day
+[00:01:04.710] every meeting in every room from day
+[00:01:04.720] every meeting in every room from day one. Boy, I've forgotten how much work
+[00:01:06.789] one. Boy, I've forgotten how much work
+[00:01:06.799] one. Boy, I've forgotten how much work it actually is to start a company. It's
+[00:01:08.469] it actually is to start a company. It's
+[00:01:08.479] it actually is to start a company. It's a lot of work. We're building a media
+[00:01:10.789] a lot of work. We're building a media
+[00:01:10.799] a lot of work. We're building a media company and an investment fund. So what
+[00:01:14.789] company and an investment fund. So what
+[00:01:14.799] company and an investment fund. So what does that mean? In our studio, we create
+[00:01:17.830] does that mean? In our studio, we create
+[00:01:17.840] does that mean? In our studio, we create and scale new shows. You might have seen
+[00:01:20.310] and scale new shows. You might have seen
+[00:01:20.320] and scale new shows. You might have seen these flight studio shows, but they're
+[00:01:22.070] these flight studio shows, but they're
+[00:01:22.080] these flight studio shows, but they're really taking off. I mean top 10. We're
+[00:01:24.950] really taking off. I mean top 10. We're
+[00:01:24.960] really taking off. I mean top 10. We're live. We're all here at V studio.
+[00:01:28.070] live. We're all here at V studio.
+[00:01:28.080] live. We're all here at V studio. Use that audience to accelerate some of
+[00:01:29.910] Use that audience to accelerate some of
+[00:01:29.920] Use that audience to accelerate some of the most exciting companies in the world
+[00:01:31.590] the most exciting companies in the world
+[00:01:31.600] the most exciting companies in the world that I have invested in.
+[00:01:34.950] that I have invested in.
+[00:01:34.960] that I have invested in. This is life
+[00:01:45.290] [Music]
+[00:01:49.560] story. Amazing.
+[00:01:52.240] story. Amazing. As a content creator, um, uploading
+[00:01:54.789] As a content creator, um, uploading
+[00:01:54.799] As a content creator, um, uploading content to the internet, whether you're
+[00:01:55.990] content to the internet, whether you're
+[00:01:56.000] content to the internet, whether you're building a podcast, a Tik Tok, an
+[00:01:57.190] building a podcast, a Tik Tok, an
+[00:01:57.200] building a podcast, a Tik Tok, an Instagram, whatever it might be, it can
+[00:01:59.270] Instagram, whatever it might be, it can
+[00:01:59.280] Instagram, whatever it might be, it can feel a little bit like roulette because
+[00:02:01.030] feel a little bit like roulette because
+[00:02:01.040] feel a little bit like roulette because you you upload something, you get a lot
+[00:02:03.030] you you upload something, you get a lot
+[00:02:03.040] you you upload something, you get a lot of views, and that it's all very, very
+[00:02:04.310] of views, and that it's all very, very
+[00:02:04.320] of views, and that it's all very, very random. But that is not true. And this
+[00:02:06.789] random. But that is not true. And this
+[00:02:06.799] random. But that is not true. And this is something that I think elite content
+[00:02:08.389] is something that I think elite content
+[00:02:08.399] is something that I think elite content creators know and new content creators
+[00:02:11.270] creators know and new content creators
+[00:02:11.280] creators know and new content creators don't yet quite understand. At Flight
+[00:02:13.350] don't yet quite understand. At Flight
+[00:02:13.360] don't yet quite understand. At Flight Story, we've hired a guy called Austin
+[00:02:15.110] Story, we've hired a guy called Austin
+[00:02:15.120] Story, we've hired a guy called Austin Go, who is now director of business
+[00:02:17.750] Go, who is now director of business
+[00:02:17.760] Go, who is now director of business intelligence and operations. One of his
+[00:02:19.589] intelligence and operations. One of his
+[00:02:19.599] intelligence and operations. One of his key responsibilities is to create what
+[00:02:21.990] key responsibilities is to create what
+[00:02:22.000] key responsibilities is to create what we call a feedback loop with us as
+[00:02:25.030] we call a feedback loop with us as
+[00:02:25.040] we call a feedback loop with us as creators at Flight Story. We have all of
+[00:02:26.630] creators at Flight Story. We have all of
+[00:02:26.640] creators at Flight Story. We have all of these talents, all of these shows that
+[00:02:28.150] these talents, all of these shows that
+[00:02:28.160] these talents, all of these shows that we're producing. And as talent, what I
+[00:02:30.869] we're producing. And as talent, what I
+[00:02:30.879] we're producing. And as talent, what I want is I want feedback on the content
+[00:02:33.030] want is I want feedback on the content
+[00:02:33.040] want is I want feedback on the content I'm putting out there so I can make it
+[00:02:34.630] I'm putting out there so I can make it
+[00:02:34.640] I'm putting out there so I can make it better in the future. So, what Austin
+[00:02:36.550] better in the future. So, what Austin
+[00:02:36.560] better in the future. So, what Austin does is he's built loads of dashboards
+[00:02:38.790] does is he's built loads of dashboards
+[00:02:38.800] does is he's built loads of dashboards using artificial intelligence and a
+[00:02:40.869] using artificial intelligence and a
+[00:02:40.879] using artificial intelligence and a variety of other tools to pull in the
+[00:02:43.670] variety of other tools to pull in the
+[00:02:43.680] variety of other tools to pull in the data after every single upload that I
+[00:02:45.750] data after every single upload that I
+[00:02:45.760] data after every single upload that I do, whether it's on the podcast or on
+[00:02:47.190] do, whether it's on the podcast or on
+[00:02:47.200] do, whether it's on the podcast or on other channels, and then give me
+[00:02:49.030] other channels, and then give me
+[00:02:49.040] other channels, and then give me insights on how I can be better in the
+[00:02:51.190] insights on how I can be better in the
+[00:02:51.200] insights on how I can be better in the future. And I know this sounds very
+[00:02:52.710] future. And I know this sounds very
+[00:02:52.720] future. And I know this sounds very complicated, especially if you're just a
+[00:02:54.390] complicated, especially if you're just a
+[00:02:54.400] complicated, especially if you're just a oneperson band, but this is something
+[00:02:57.110] oneperson band, but this is something
+[00:02:57.120] oneperson band, but this is something that every single person can do. Um, and
+[00:02:59.990] that every single person can do. Um, and
+[00:03:00.000] that every single person can do. Um, and it's very, very simple. Here's a simple
+[00:03:02.229] it's very, very simple. Here's a simple
+[00:03:02.239] it's very, very simple. Here's a simple way to do it. Regardless of what stage
+[00:03:03.910] way to do it. Regardless of what stage
+[00:03:03.920] way to do it. Regardless of what stage you're at in your journey, regardless of
+[00:03:05.270] you're at in your journey, regardless of
+[00:03:05.280] you're at in your journey, regardless of what resources you have, and if you do
+[00:03:07.190] what resources you have, and if you do
+[00:03:07.200] what resources you have, and if you do what I'm about to say, I promise you,
+[00:03:09.670] what I'm about to say, I promise you,
+[00:03:09.680] what I'm about to say, I promise you, you have an advantage on 99.9% of
+[00:03:12.229] you have an advantage on 99.9% of
+[00:03:12.239] you have an advantage on 99.9% of creators. Very, very simple. Look at
+[00:03:15.110] creators. Very, very simple. Look at
+[00:03:15.120] creators. Very, very simple. Look at your analytics. Look at your analytics.
+[00:03:17.990] your analytics. Look at your analytics.
+[00:03:18.000] your analytics. Look at your analytics. And don't look at them once. Look at
+[00:03:19.670] And don't look at them once. Look at
+[00:03:19.680] And don't look at them once. Look at them every single time. I started doing
+[00:03:21.910] them every single time. I started doing
+[00:03:21.920] them every single time. I started doing this about six or seven years ago, and
+[00:03:23.509] this about six or seven years ago, and
+[00:03:23.519] this about six or seven years ago, and it was probably the single most
+[00:03:24.790] it was probably the single most
+[00:03:24.800] it was probably the single most important thing I've ever done as a
+[00:03:25.990] important thing I've ever done as a
+[00:03:26.000] important thing I've ever done as a content creator. So, I've got a call
+[00:03:27.270] content creator. So, I've got a call
+[00:03:27.280] content creator. So, I've got a call downstairs with Austin right now, and
+[00:03:28.470] downstairs with Austin right now, and
+[00:03:28.480] downstairs with Austin right now, and he's going to talk to me about some of
+[00:03:29.910] he's going to talk to me about some of
+[00:03:29.920] he's going to talk to me about some of the things that he's noticing on the
+[00:03:31.830] the things that he's noticing on the
+[00:03:31.840] the things that he's noticing on the back end of our shows. Much of my
+[00:03:34.070] back end of our shows. Much of my
+[00:03:34.080] back end of our shows. Much of my objective with Flight Story is I think
+[00:03:35.670] objective with Flight Story is I think
+[00:03:35.680] objective with Flight Story is I think we can build an astonishingly good media
+[00:03:37.509] we can build an astonishingly good media
+[00:03:37.519] we can build an astonishingly good media company if we have one of the best
+[00:03:39.430] company if we have one of the best
+[00:03:39.440] company if we have one of the best feedback loops in the entirety of media
+[00:03:41.910] feedback loops in the entirety of media
+[00:03:41.920] feedback loops in the entirety of media and podcasting. So, yeah, I was going to
+[00:03:43.670] and podcasting. So, yeah, I was going to
+[00:03:43.680] and podcasting. So, yeah, I was going to say the key thing for me is after the
+[00:03:46.149] say the key thing for me is after the
+[00:03:46.159] say the key thing for me is after the episode comes out, so after a podcast
+[00:03:47.990] episode comes out, so after a podcast
+[00:03:48.000] episode comes out, so after a podcast comes out, is what information are are
+[00:03:50.869] comes out, is what information are are
+[00:03:50.879] comes out, is what information are are we able to give the team that will make
+[00:03:53.750] we able to give the team that will make
+[00:03:53.760] we able to give the team that will make them make better decisions in the
+[00:03:55.430] them make better decisions in the
+[00:03:55.440] them make better decisions in the future? Some things I think about is how
+[00:03:57.110] future? Some things I think about is how
+[00:03:57.120] future? Some things I think about is how many people were listening at 90 seconds
+[00:03:59.030] many people were listening at 90 seconds
+[00:03:59.040] many people were listening at 90 seconds because that tells me the impact of the
+[00:04:00.710] because that tells me the impact of the
+[00:04:00.720] because that tells me the impact of the trailer for example and I want to be
+[00:04:02.309] trailer for example and I want to be
+[00:04:02.319] trailer for example and I want to be able to go to the production team and
+[00:04:03.429] able to go to the production team and
+[00:04:03.439] able to go to the production team and say we saw the biggest drop off at 5
+[00:04:06.070] say we saw the biggest drop off at 5
+[00:04:06.080] say we saw the biggest drop off at 5 minutes when the person explained their
+[00:04:08.390] minutes when the person explained their
+[00:04:08.400] minutes when the person explained their professional CV and education. So then
+[00:04:11.589] professional CV and education. So then
+[00:04:11.599] professional CV and education. So then for me as the host I go okay probably
+[00:04:13.670] for me as the host I go okay probably
+[00:04:13.680] for me as the host I go okay probably don't dwell on that too much. There's
+[00:04:15.110] don't dwell on that too much. There's
+[00:04:15.120] don't dwell on that too much. There's really specific things that I'm looking
+[00:04:16.710] really specific things that I'm looking
+[00:04:16.720] really specific things that I'm looking for cuz right now like the difference
+[00:04:18.229] for cuz right now like the difference
+[00:04:18.239] for cuz right now like the difference between us and Mr. least is in many
+[00:04:20.229] between us and Mr. least is in many
+[00:04:20.239] between us and Mr. least is in many respects is after every single thing
+[00:04:22.150] respects is after every single thing
+[00:04:22.160] respects is after every single thing that they publish there's a post wrap
+[00:04:24.629] that they publish there's a post wrap
+[00:04:24.639] that they publish there's a post wrap document that says this is how we could
+[00:04:26.469] document that says this is how we could
+[00:04:26.479] document that says this is how we could have been better as a team. What we do
+[00:04:27.749] have been better as a team. What we do
+[00:04:27.759] have been better as a team. What we do is we call them after action reports. So
+[00:04:29.189] is we call them after action reports. So
+[00:04:29.199] is we call them after action reports. So I get all the smartest people in my
+[00:04:30.390] I get all the smartest people in my
+[00:04:30.400] I get all the smartest people in my company just do a very in-depth
+[00:04:31.670] company just do a very in-depth
+[00:04:31.680] company just do a very in-depth breakdown of like here's the retention
+[00:04:33.030] breakdown of like here's the retention
+[00:04:33.040] breakdown of like here's the retention chart, here's every time someone clicked
+[00:04:34.310] chart, here's every time someone clicked
+[00:04:34.320] chart, here's every time someone clicked away, here's where it was the flattest,
+[00:04:35.670] away, here's where it was the flattest,
+[00:04:35.680] away, here's where it was the flattest, here's where it was the worst. you know,
+[00:04:37.350] here's where it was the worst. you know,
+[00:04:37.360] here's where it was the worst. you know, we'll take like so if I upload a video
+[00:04:38.870] we'll take like so if I upload a video
+[00:04:38.880] we'll take like so if I upload a video that's 20 minutes, we'll take our last
+[00:04:40.230] that's 20 minutes, we'll take our last
+[00:04:40.240] that's 20 minutes, we'll take our last 10 20-minute videos and we'll go, you
+[00:04:42.390] 10 20-minute videos and we'll go, you
+[00:04:42.400] 10 20-minute videos and we'll go, you know, uh the median retention on the
+[00:04:44.230] know, uh the median retention on the
+[00:04:44.240] know, uh the median retention on the last 10 20 minute videos was 10 minutes
+[00:04:46.670] last 10 20 minute videos was 10 minutes
+[00:04:46.680] last 10 20 minute videos was 10 minutes and 60 or 55 seconds is the median. So,
+[00:04:50.150] and 60 or 55 seconds is the median. So,
+[00:04:50.160] and 60 or 55 seconds is the median. So, if the retention on this new video is 11
+[00:04:51.909] if the retention on this new video is 11
+[00:04:51.919] if the retention on this new video is 11 minutes or above, we did a good job. If
+[00:04:53.670] minutes or above, we did a good job. If
+[00:04:53.680] minutes or above, we did a good job. If it's below that, then we did below
+[00:04:55.030] it's below that, then we did below
+[00:04:55.040] it's below that, then we did below average. And so, usually after 2 weeks
+[00:04:56.870] average. And so, usually after 2 weeks
+[00:04:56.880] average. And so, usually after 2 weeks after we upload, we'll we'll look at
+[00:04:58.550] after we upload, we'll we'll look at
+[00:04:58.560] after we upload, we'll we'll look at that with all my top people and then
+[00:04:59.749] that with all my top people and then
+[00:04:59.759] that with all my top people and then we'll just be like, what did we [&nbsp;__&nbsp;] up?
+[00:05:01.030] we'll just be like, what did we [&nbsp;__&nbsp;] up?
+[00:05:01.040] we'll just be like, what did we [&nbsp;__&nbsp;] up? What did we do? Well, cool. Move on.
+[00:05:02.550] What did we do? Well, cool. Move on.
+[00:05:02.560] What did we do? Well, cool. Move on. Austin, what have you been working on? I
+[00:05:04.070] Austin, what have you been working on? I
+[00:05:04.080] Austin, what have you been working on? I saw that you had submitted this um
+[00:05:05.670] saw that you had submitted this um
+[00:05:05.680] saw that you had submitted this um dashboard. Shall I share my screen? I
+[00:05:07.350] dashboard. Shall I share my screen? I
+[00:05:07.360] dashboard. Shall I share my screen? I can show you a few things of where what
+[00:05:09.189] can show you a few things of where what
+[00:05:09.199] can show you a few things of where what I've noticed is that there's quite a lot
+[00:05:10.710] I've noticed is that there's quite a lot
+[00:05:10.720] I've noticed is that there's quite a lot of inconsistency in terms of how
+[00:05:12.310] of inconsistency in terms of how
+[00:05:12.320] of inconsistency in terms of how information is shared across the likes
+[00:05:14.070] information is shared across the likes
+[00:05:14.080] information is shared across the likes of Slack or in email and so forth. So
+[00:05:17.430] of Slack or in email and so forth. So
+[00:05:17.440] of Slack or in email and so forth. So what I've actually been building out is
+[00:05:20.150] what I've actually been building out is
+[00:05:20.160] what I've actually been building out is this framework. What we want to do is
+[00:05:21.909] this framework. What we want to do is
+[00:05:21.919] this framework. What we want to do is basically understand the fundamentals of
+[00:05:24.710] basically understand the fundamentals of
+[00:05:24.720] basically understand the fundamentals of what happens and why. If we look at
+[00:05:27.350] what happens and why. If we look at
+[00:05:27.360] what happens and why. If we look at people who are incredibly unique or have
+[00:05:29.990] people who are incredibly unique or have
+[00:05:30.000] people who are incredibly unique or have a certain aesthetic that is very
+[00:05:31.510] a certain aesthetic that is very
+[00:05:31.520] a certain aesthetic that is very different that hasn't been seen on the
+[00:05:32.629] different that hasn't been seen on the
+[00:05:32.639] different that hasn't been seen on the show, you typically see really good subs
+[00:05:35.110] show, you typically see really good subs
+[00:05:35.120] show, you typically see really good subs to view ratios, which is really great.
+[00:05:37.350] to view ratios, which is really great.
+[00:05:37.360] to view ratios, which is really great. What we also see as well is that there
+[00:05:39.110] What we also see as well is that there
+[00:05:39.120] What we also see as well is that there are diminishing returns when you have
+[00:05:40.469] are diminishing returns when you have
+[00:05:40.479] are diminishing returns when you have repeat guests. But we can actually see
+[00:05:42.629] repeat guests. But we can actually see
+[00:05:42.639] repeat guests. But we can actually see that as a science now to turn around and
+[00:05:44.310] that as a science now to turn around and
+[00:05:44.320] that as a science now to turn around and go fine, if they're coming on again, we
+[00:05:45.830] go fine, if they're coming on again, we
+[00:05:45.840] go fine, if they're coming on again, we would expect a x% drop off in subs. So
+[00:05:49.590] would expect a x% drop off in subs. So
+[00:05:49.600] would expect a x% drop off in subs. So that could come quite quickly. We're
+[00:05:51.270] that could come quite quickly. We're
+[00:05:51.280] that could come quite quickly. We're just trying to put it in a
+[00:05:53.830] just trying to put it in a
+[00:05:53.840] just trying to put it in a This is This is like an amazing insight
+[00:05:55.830] This is This is like an amazing insight
+[00:05:55.840] This is This is like an amazing insight that that would ultimately change a 100
+[00:05:57.270] that that would ultimately change a 100
+[00:05:57.280] that that would ultimately change a 100 shows potentially. It would have such a
+[00:05:58.710] shows potentially. It would have such a
+[00:05:58.720] shows potentially. It would have such a profound impact. I have got an idea and
+[00:06:01.110] profound impact. I have got an idea and
+[00:06:01.120] profound impact. I have got an idea and I've been thinking about this for a long
+[00:06:02.950] I've been thinking about this for a long
+[00:06:02.960] I've been thinking about this for a long time. Over the last decade, I've hired
+[00:06:05.270] time. Over the last decade, I've hired
+[00:06:05.280] time. Over the last decade, I've hired thousands of people and I've come to
+[00:06:06.629] thousands of people and I've come to
+[00:06:06.639] thousands of people and I've come to learn that when we think about company
+[00:06:08.469] learn that when we think about company
+[00:06:08.479] learn that when we think about company culture, like the culture of a team, we
+[00:06:10.870] culture, like the culture of a team, we
+[00:06:10.880] culture, like the culture of a team, we often think in terms of like values and
+[00:06:13.270] often think in terms of like values and
+[00:06:13.280] often think in terms of like values and these other sort of fluffy words like
+[00:06:15.029] these other sort of fluffy words like
+[00:06:15.039] these other sort of fluffy words like are they empathetic or are they um
+[00:06:18.870] are they empathetic or are they um
+[00:06:18.880] are they empathetic or are they um resilient? Are they kind? Are they
+[00:06:21.790] resilient? Are they kind? Are they
+[00:06:21.800] resilient? Are they kind? Are they ambitious? But
+[00:06:23.629] ambitious? But
+[00:06:23.639] ambitious? But actually, the revelation that I had a
+[00:06:25.990] actually, the revelation that I had a
+[00:06:26.000] actually, the revelation that I had a couple of weeks ago is that culture
+[00:06:27.909] couple of weeks ago is that culture
+[00:06:27.919] couple of weeks ago is that culture isn't any of these fluffy words. Culture
+[00:06:29.909] isn't any of these fluffy words. Culture
+[00:06:29.919] isn't any of these fluffy words. Culture isn't the thing you write on the wall.
+[00:06:32.189] isn't the thing you write on the wall.
+[00:06:32.199] isn't the thing you write on the wall. Culture is how a team member behaves in
+[00:06:38.070] Culture is how a team member behaves in
+[00:06:38.080] Culture is how a team member behaves in a certain situation. My question
+[00:06:40.150] a certain situation. My question
+[00:06:40.160] a certain situation. My question becomes, can I build a survey based on
+[00:06:42.790] becomes, can I build a survey based on
+[00:06:42.800] becomes, can I build a survey based on everything I know about organizational
+[00:06:44.550] everything I know about organizational
+[00:06:44.560] everything I know about organizational psychology and great teams and high
+[00:06:46.790] psychology and great teams and high
+[00:06:46.800] psychology and great teams and high performance from all the interviews that
+[00:06:48.309] performance from all the interviews that
+[00:06:48.319] performance from all the interviews that I've done? And can it put people in
+[00:06:51.309] I've done? And can it put people in
+[00:06:51.319] I've done? And can it put people in scenarios and can it ask them what
+[00:06:54.510] scenarios and can it ask them what
+[00:06:54.520] scenarios and can it ask them what behavior they would take in those
+[00:06:57.110] behavior they would take in those
+[00:06:57.120] behavior they would take in those scenarios? Going to put it at
+[00:06:59.309] scenarios? Going to put it at
+[00:06:59.319] scenarios? Going to put it at cultureest.com. And I'm building this
+[00:07:01.270] cultureest.com. And I'm building this
+[00:07:01.280] cultureest.com. And I'm building this for me, my companies. I'm building it
+[00:07:03.830] for me, my companies. I'm building it
+[00:07:03.840] for me, my companies. I'm building it for my founders in my portfolio at
+[00:07:05.350] for my founders in my portfolio at
+[00:07:05.360] for my founders in my portfolio at flightstory fund. But I'm also building
+[00:07:07.670] flightstory fund. But I'm also building
+[00:07:07.680] flightstory fund. But I'm also building it for you because I know from the
+[00:07:10.230] it for you because I know from the
+[00:07:10.240] it for you because I know from the conversations we've had in the comment
+[00:07:11.510] conversations we've had in the comment
+[00:07:11.520] conversations we've had in the comment section and the DMs that you've sent me
+[00:07:12.870] section and the DMs that you've sent me
+[00:07:12.880] section and the DMs that you've sent me that one of the hardest things you find
+[00:07:14.309] that one of the hardest things you find
+[00:07:14.319] that one of the hardest things you find in business is hiring people. So, we
+[00:07:16.790] in business is hiring people. So, we
+[00:07:16.800] in business is hiring people. So, we must be able to build a
+[00:07:18.990] must be able to build a
+[00:07:19.000] must be able to build a scenario-based culture test that says
+[00:07:21.029] scenario-based culture test that says
+[00:07:21.039] scenario-based culture test that says things like, "Your colleague is working
+[00:07:23.510] things like, "Your colleague is working
+[00:07:23.520] things like, "Your colleague is working late in the office
+[00:07:24.990] late in the office
+[00:07:25.000] late in the office at 7 p.m. on a Friday. They're
+[00:07:28.070] at 7 p.m. on a Friday. They're
+[00:07:28.080] at 7 p.m. on a Friday. They're struggling to get their work done for
+[00:07:29.430] struggling to get their work done for
+[00:07:29.440] struggling to get their work done for their deadline. Your work is complete.
+[00:07:32.070] their deadline. Your work is complete.
+[00:07:32.080] their deadline. Your work is complete. What do you do?" How you behave is
+[00:07:36.150] What do you do?" How you behave is
+[00:07:36.160] What do you do?" How you behave is culture. Culture isn't personality.
+[00:07:38.870] culture. Culture isn't personality.
+[00:07:38.880] culture. Culture isn't personality. Culture isn't the values you write on
+[00:07:40.629] Culture isn't the values you write on
+[00:07:40.639] Culture isn't the values you write on the work wall. Culture is behavior. And
+[00:07:43.749] the work wall. Culture is behavior. And
+[00:07:43.759] the work wall. Culture is behavior. And I remember I think a couple of years ago
+[00:07:46.070] I remember I think a couple of years ago
+[00:07:46.080] I remember I think a couple of years ago hearing I think it was Ben Horowitz one
+[00:07:47.909] hearing I think it was Ben Horowitz one
+[00:07:47.919] hearing I think it was Ben Horowitz one of the great investors entrepreneurs of
+[00:07:49.350] of the great investors entrepreneurs of
+[00:07:49.360] of the great investors entrepreneurs of our time also say something very similar
+[00:07:51.430] our time also say something very similar
+[00:07:51.440] our time also say something very similar to this that culture is behavior. It is
+[00:07:53.749] to this that culture is behavior. It is
+[00:07:53.759] to this that culture is behavior. It is how you behave. It's a very difficult
+[00:07:56.950] how you behave. It's a very difficult
+[00:07:56.960] how you behave. It's a very difficult but important thing in that you have an
+[00:08:00.390] but important thing in that you have an
+[00:08:00.400] but important thing in that you have an organization, you've got a mission
+[00:08:02.230] organization, you've got a mission
+[00:08:02.240] organization, you've got a mission statement, you have all the management
+[00:08:03.510] statement, you have all the management
+[00:08:03.520] statement, you have all the management techniques, you have KPIs, OKRs,
+[00:08:05.830] techniques, you have KPIs, OKRs,
+[00:08:05.840] techniques, you have KPIs, OKRs, whatever you're using, you know, goals
+[00:08:07.749] whatever you're using, you know, goals
+[00:08:07.759] whatever you're using, you know, goals and objectives, but none of that is what
+[00:08:11.029] and objectives, but none of that is what
+[00:08:11.039] and objectives, but none of that is what the culture is. And none of that really
+[00:08:12.790] the culture is. And none of that really
+[00:08:12.800] the culture is. And none of that really drives the real kind of day-to-day
+[00:08:15.909] drives the real kind of day-to-day
+[00:08:15.919] drives the real kind of day-to-day behaviors that define you. Like, do you
+[00:08:18.790] behaviors that define you. Like, do you
+[00:08:18.800] behaviors that define you. Like, do you return that phone call like immediately,
+[00:08:21.830] return that phone call like immediately,
+[00:08:21.840] return that phone call like immediately, tomorrow, next week, never? you know, do
+[00:08:24.629] tomorrow, next week, never? you know, do
+[00:08:24.639] tomorrow, next week, never? you know, do you show up to the meeting on time? Are
+[00:08:25.909] you show up to the meeting on time? Are
+[00:08:25.919] you show up to the meeting on time? Are you late? Do you go home at 5:'? Do you
+[00:08:27.909] you late? Do you go home at 5:'? Do you
+[00:08:27.919] you late? Do you go home at 5:'? Do you go home at 8:00? Do you stay at the Four
+[00:08:30.550] go home at 8:00? Do you stay at the Four
+[00:08:30.560] go home at 8:00? Do you stay at the Four Seasons? Do you stay at the Red Roof in?
+[00:08:32.389] Seasons? Do you stay at the Red Roof in?
+[00:08:32.399] Seasons? Do you stay at the Red Roof in? Like all these things are your culture.
+[00:08:35.190] Like all these things are your culture.
+[00:08:35.200] Like all these things are your culture. And anybody's worked in a company knows
+[00:08:37.110] And anybody's worked in a company knows
+[00:08:37.120] And anybody's worked in a company knows you're either this way or you're that
+[00:08:38.469] you're either this way or you're that
+[00:08:38.479] you're either this way or you're that way or you're, you know, you're on time
+[00:08:40.149] way or you're, you know, you're on time
+[00:08:40.159] way or you're, you know, you're on time or you're not. the kind of advice that
+[00:08:42.870] or you're not. the kind of advice that
+[00:08:42.880] or you're not. the kind of advice that you get when you're a CEO is all wrong
+[00:08:44.550] you get when you're a CEO is all wrong
+[00:08:44.560] you get when you're a CEO is all wrong on it because it's like, oh well, what
+[00:08:46.389] on it because it's like, oh well, what
+[00:08:46.399] on it because it's like, oh well, what you do is you go and you have an offsite
+[00:08:48.310] you do is you go and you have an offsite
+[00:08:48.320] you do is you go and you have an offsite and then you kind of have everybody say
+[00:08:50.470] and then you kind of have everybody say
+[00:08:50.480] and then you kind of have everybody say what they think the cultural values are
+[00:08:52.070] what they think the cultural values are
+[00:08:52.080] what they think the cultural values are and then you put them on like a nice,
+[00:08:54.150] and then you put them on like a nice,
+[00:08:54.160] and then you put them on like a nice, you know, plaque. I love the the quote
+[00:08:56.949] you know, plaque. I love the the quote
+[00:08:56.959] you know, plaque. I love the the quote from the way of the samurai, which is
+[00:08:59.110] from the way of the samurai, which is
+[00:08:59.120] from the way of the samurai, which is like a culture is not a set of beliefs.
+[00:09:02.550] like a culture is not a set of beliefs.
+[00:09:02.560] like a culture is not a set of beliefs. It's a set of actions. What you do is
+[00:09:04.870] It's a set of actions. What you do is
+[00:09:04.880] It's a set of actions. What you do is who you are. It's not what you believe.
+[00:09:06.070] who you are. It's not what you believe.
+[00:09:06.080] who you are. It's not what you believe. It's not what you think. It's not what
+[00:09:07.190] It's not what you think. It's not what
+[00:09:07.200] It's not what you think. It's not what you tweet. It's what you do. It's not
+[00:09:09.430] you tweet. It's what you do. It's not
+[00:09:09.440] you tweet. It's what you do. It's not the values you that you have. That's not
+[00:09:11.430] the values you that you have. That's not
+[00:09:11.440] the values you that you have. That's not who you are. Who you are is what you do.
+[00:09:13.670] who you are. Who you are is what you do.
+[00:09:13.680] who you are. Who you are is what you do. And in the samurai, they call them
+[00:09:15.430] And in the samurai, they call them
+[00:09:15.440] And in the samurai, they call them virtues because it's the behaviors. The
+[00:09:18.470] virtues because it's the behaviors. The
+[00:09:18.480] virtues because it's the behaviors. The behaviors are the culture, not the
+[00:09:20.230] behaviors are the culture, not the
+[00:09:20.240] behaviors are the culture, not the values. And that's why when people have
+[00:09:21.670] values. And that's why when people have
+[00:09:21.680] values. And that's why when people have 20 values, I'm like, well, how many of
+[00:09:23.910] 20 values, I'm like, well, how many of
+[00:09:23.920] 20 values, I'm like, well, how many of those behaviors do you have? Like none.
+[00:09:26.389] those behaviors do you have? Like none.
+[00:09:26.399] those behaviors do you have? Like none. So, your culture is hypocrisy. And that
+[00:09:28.710] So, your culture is hypocrisy. And that
+[00:09:28.720] So, your culture is hypocrisy. And that is what I'm working on this week. Um,
+[00:09:30.630] is what I'm working on this week. Um,
+[00:09:30.640] is what I'm working on this week. Um, while I'm traveling around the world,
+[00:09:31.990] while I'm traveling around the world,
+[00:09:32.000] while I'm traveling around the world, I'm going to try and build this culture
+[00:09:33.829] I'm going to try and build this culture
+[00:09:33.839] I'm going to try and build this culture test, this survey to send to um new
+[00:09:36.550] test, this survey to send to um new
+[00:09:36.560] test, this survey to send to um new hires. Right. Got to go.
+[00:09:39.580] hires. Right. Got to go.
+[00:09:39.590] hires. Right. Got to go. [Music]
+[00:09:47.829] [Music]
+[00:09:47.839] [Music] I'm so tired.
+[00:09:50.710] I'm so tired.
+[00:09:50.720] I'm so tired. So, where are we going? Exactly.
+[00:09:53.670] So, where are we going? Exactly.
+[00:09:53.680] So, where are we going? Exactly. Stockholm,
+[00:09:55.949] Stockholm,
+[00:09:55.959] Stockholm, baby. Do you know what this means? When
+[00:09:58.389] baby. Do you know what this means? When
+[00:09:58.399] baby. Do you know what this means? When I change my background to red on my
+[00:10:00.389] I change my background to red on my
+[00:10:00.399] I change my background to red on my phone, it means get your [&nbsp;__&nbsp;] together.
+[00:10:04.470] phone, it means get your [&nbsp;__&nbsp;] together.
+[00:10:04.480] phone, it means get your [&nbsp;__&nbsp;] together. It means that there's been several days
+[00:10:05.750] It means that there's been several days
+[00:10:05.760] It means that there's been several days in a row where I'm not proud of myself.
+[00:10:07.350] in a row where I'm not proud of myself.
+[00:10:07.360] in a row where I'm not proud of myself. And it's just a reminder to focus on
+[00:10:09.590] And it's just a reminder to focus on
+[00:10:09.600] And it's just a reminder to focus on working out, what I'm eating, how I'm
+[00:10:12.230] working out, what I'm eating, how I'm
+[00:10:12.240] working out, what I'm eating, how I'm sleeping, etc. And that's actually
+[00:10:13.910] sleeping, etc. And that's actually
+[00:10:13.920] sleeping, etc. And that's actually really what I'm thinking about. The
+[00:10:14.949] really what I'm thinking about. The
+[00:10:14.959] really what I'm thinking about. The reason I'm in code red, again, this is
+[00:10:16.710] reason I'm in code red, again, this is
+[00:10:16.720] reason I'm in code red, again, this is not an excuse. I don't like excuses. I
+[00:10:18.069] not an excuse. I don't like excuses. I
+[00:10:18.079] not an excuse. I don't like excuses. I don't like making them. I don't like
+[00:10:19.030] don't like making them. I don't like
+[00:10:19.040] don't like making them. I don't like accepting them. I don't like receiving
+[00:10:20.230] accepting them. I don't like receiving
+[00:10:20.240] accepting them. I don't like receiving them. Um, is because we've flown from LA
+[00:10:23.590] them. Um, is because we've flown from LA
+[00:10:23.600] them. Um, is because we've flown from LA to New York to Egypt to Dubai to New
+[00:10:25.910] to New York to Egypt to Dubai to New
+[00:10:25.920] to New York to Egypt to Dubai to New York to London to Sweden in 7 days. So,
+[00:10:28.949] York to London to Sweden in 7 days. So,
+[00:10:28.959] York to London to Sweden in 7 days. So, my body clock is all over the [&nbsp;__&nbsp;]
+[00:10:30.750] my body clock is all over the [&nbsp;__&nbsp;]
+[00:10:30.760] my body clock is all over the [&nbsp;__&nbsp;] place. It's really a mess. That's my
+[00:10:33.269] place. It's really a mess. That's my
+[00:10:33.279] place. It's really a mess. That's my excuse if I'm allowed one. But there's
+[00:10:35.030] excuse if I'm allowed one. But there's
+[00:10:35.040] excuse if I'm allowed one. But there's no excuses. And it's time to get my [&nbsp;__&nbsp;]
+[00:10:36.710] no excuses. And it's time to get my [&nbsp;__&nbsp;]
+[00:10:36.720] no excuses. And it's time to get my [&nbsp;__&nbsp;] together. Clearly, I'm not going to make
+[00:10:38.310] together. Clearly, I'm not going to make
+[00:10:38.320] together. Clearly, I'm not going to make the right decision myself. So, I need
+[00:10:39.990] the right decision myself. So, I need
+[00:10:40.000] the right decision myself. So, I need like a third party to be my mediator.
+[00:10:43.190] like a third party to be my mediator.
+[00:10:43.200] like a third party to be my mediator. And that's what that's what my phone is
+[00:10:44.710] And that's what that's what my phone is
+[00:10:44.720] And that's what that's what my phone is being for me
+[00:10:46.829] being for me
+[00:10:46.839] being for me now. Okay. I've got a meeting downstairs
+[00:10:49.030] now. Okay. I've got a meeting downstairs
+[00:10:49.040] now. Okay. I've got a meeting downstairs right now with Will to talk about behind
+[00:10:50.470] right now with Will to talk about behind
+[00:10:50.480] right now with Will to talk about behind the diary. Funnily enough, the most
+[00:10:51.910] the diary. Funnily enough, the most
+[00:10:51.920] the diary. Funnily enough, the most important thing I'm thinking about for
+[00:10:53.350] important thing I'm thinking about for
+[00:10:53.360] important thing I'm thinking about for behind the diary is context. I watch a
+[00:10:55.670] behind the diary is context. I watch a
+[00:10:55.680] behind the diary is context. I watch a lot of YouTube vlogs and the thing that
+[00:10:57.590] lot of YouTube vlogs and the thing that
+[00:10:57.600] lot of YouTube vlogs and the thing that annoys me the most about YouTube vlogs
+[00:10:59.030] annoys me the most about YouTube vlogs
+[00:10:59.040] annoys me the most about YouTube vlogs is they don't give you context on what
+[00:11:00.550] is they don't give you context on what
+[00:11:00.560] is they don't give you context on what you're actually seeing because they kind
+[00:11:01.990] you're actually seeing because they kind
+[00:11:02.000] you're actually seeing because they kind of assume that you know. So, they'll
+[00:11:03.430] of assume that you know. So, they'll
+[00:11:03.440] of assume that you know. So, they'll introduce people and characters and
+[00:11:05.590] introduce people and characters and
+[00:11:05.600] introduce people and characters and situations and inside jokes, but you
+[00:11:08.230] situations and inside jokes, but you
+[00:11:08.240] situations and inside jokes, but you don't have context. So, one of the
+[00:11:09.590] don't have context. So, one of the
+[00:11:09.600] don't have context. So, one of the things we're going to try and do on
+[00:11:10.470] things we're going to try and do on
+[00:11:10.480] things we're going to try and do on Behind the Diary to make sure that you
+[00:11:12.470] Behind the Diary to make sure that you
+[00:11:12.480] Behind the Diary to make sure that you guys always know what is going on and
+[00:11:14.630] guys always know what is going on and
+[00:11:14.640] guys always know what is going on and who these people are and how all of this
+[00:11:16.310] who these people are and how all of this
+[00:11:16.320] who these people are and how all of this links back to us building this company
+[00:11:17.670] links back to us building this company
+[00:11:17.680] links back to us building this company called Flight Story and where I am and
+[00:11:19.670] called Flight Story and where I am and
+[00:11:19.680] called Flight Story and where I am and what I'm doing and what I'm talking
+[00:11:20.870] what I'm doing and what I'm talking
+[00:11:20.880] what I'm doing and what I'm talking about is constantly give you context,
+[00:11:23.590] about is constantly give you context,
+[00:11:23.600] about is constantly give you context, which is very hard to do because the way
+[00:11:25.509] which is very hard to do because the way
+[00:11:25.519] which is very hard to do because the way I would describe it is if I gave you the
+[00:11:27.750] I would describe it is if I gave you the
+[00:11:27.760] I would describe it is if I gave you the Harry Potter book and I told you to
+[00:11:29.829] Harry Potter book and I told you to
+[00:11:29.839] Harry Potter book and I told you to start reading from page
+[00:11:31.790] start reading from page
+[00:11:31.800] start reading from page 140, you wouldn't enjoy it. you would
+[00:11:34.310] 140, you wouldn't enjoy it. you would
+[00:11:34.320] 140, you wouldn't enjoy it. you would you would wonder who this person
+[00:11:35.430] you would wonder who this person
+[00:11:35.440] you would wonder who this person Hermione Granger is and who is Ron
+[00:11:37.030] Hermione Granger is and who is Ron
+[00:11:37.040] Hermione Granger is and who is Ron Weasley and what's the backstory and
+[00:11:38.470] Weasley and what's the backstory and
+[00:11:38.480] Weasley and what's the backstory and what's the context and so you would
+[00:11:40.230] what's the context and so you would
+[00:11:40.240] what's the context and so you would churn out and I hope that on this
+[00:11:43.030] churn out and I hope that on this
+[00:11:43.040] churn out and I hope that on this channel with this series we can give you
+[00:11:45.590] channel with this series we can give you
+[00:11:45.600] channel with this series we can give you more context on everything you're seeing
+[00:11:47.590] more context on everything you're seeing
+[00:11:47.600] more context on everything you're seeing so that you can come on this journey
+[00:11:48.949] so that you can come on this journey
+[00:11:48.959] so that you can come on this journey with us regardless of what episode you
+[00:11:50.790] with us regardless of what episode you
+[00:11:50.800] with us regardless of what episode you start on. As you hopefully have noticed
+[00:11:52.470] start on. As you hopefully have noticed
+[00:11:52.480] start on. As you hopefully have noticed by now we're trying to build this vlog
+[00:11:53.990] by now we're trying to build this vlog
+[00:11:54.000] by now we're trying to build this vlog with you in mind and with your feedback
+[00:11:55.990] with you in mind and with your feedback
+[00:11:56.000] with you in mind and with your feedback in mind which has been really helpful by
+[00:11:57.670] in mind which has been really helpful by
+[00:11:57.680] in mind which has been really helpful by the way. Um and it's going to be
+[00:11:59.750] the way. Um and it's going to be
+[00:11:59.760] the way. Um and it's going to be interesting to see what it becomes. So,
+[00:12:02.069] interesting to see what it becomes. So,
+[00:12:02.079] interesting to see what it becomes. So, the first episode I watched, my feeling
+[00:12:04.069] the first episode I watched, my feeling
+[00:12:04.079] the first episode I watched, my feeling was context. I'm happy for these videos
+[00:12:05.990] was context. I'm happy for these videos
+[00:12:06.000] was context. I'm happy for these videos to to not do big like big view numbers,
+[00:12:07.990] to to not do big like big view numbers,
+[00:12:08.000] to to not do big like big view numbers, but I'm not happy for them to be low
+[00:12:09.870] but I'm not happy for them to be low
+[00:12:09.880] but I'm not happy for them to be low context. And in fact, the higher the
+[00:12:11.829] context. And in fact, the higher the
+[00:12:11.839] context. And in fact, the higher the context, the higher the views, the
+[00:12:12.949] context, the higher the views, the
+[00:12:12.959] context, the higher the views, the higher the context, the more new people
+[00:12:14.230] higher the context, the more new people
+[00:12:14.240] higher the context, the more new people can join at any moment. We should we
+[00:12:16.230] can join at any moment. We should we
+[00:12:16.240] can join at any moment. We should we should take an extreme context approach.
+[00:12:17.829] should take an extreme context approach.
+[00:12:17.839] should take an extreme context approach. It's not going to be easy because it's
+[00:12:19.430] It's not going to be easy because it's
+[00:12:19.440] It's not going to be easy because it's never been done before. Well, so you
+[00:12:21.269] never been done before. Well, so you
+[00:12:21.279] never been done before. Well, so you really have to think in terms of first
+[00:12:22.389] really have to think in terms of first
+[00:12:22.399] really have to think in terms of first principles. I'm trying to make the world
+[00:12:24.069] principles. I'm trying to make the world
+[00:12:24.079] principles. I'm trying to make the world three-dimensional to the viewer. And
+[00:12:26.310] three-dimensional to the viewer. And
+[00:12:26.320] three-dimensional to the viewer. And when I watched the like guy in Dubai in
+[00:12:28.470] when I watched the like guy in Dubai in
+[00:12:28.480] when I watched the like guy in Dubai in the car and I saw him driving somewhere,
+[00:12:32.069] the car and I saw him driving somewhere,
+[00:12:32.079] the car and I saw him driving somewhere, my brain goes, where is he going and why
+[00:12:34.150] my brain goes, where is he going and why
+[00:12:34.160] my brain goes, where is he going and why is he going there? And the story has
+[00:12:35.910] is he going there? And the story has
+[00:12:35.920] is he going there? And the story has these layers. The story is like he's in
+[00:12:38.069] these layers. The story is like he's in
+[00:12:38.079] these layers. The story is like he's in the car because he's in Dubai. He's in
+[00:12:41.990] the car because he's in Dubai. He's in
+[00:12:42.000] the car because he's in Dubai. He's in Dubai and this is obviously not we're
+[00:12:43.750] Dubai and this is obviously not we're
+[00:12:43.760] Dubai and this is obviously not we're not going to include all these layers,
+[00:12:44.550] not going to include all these layers,
+[00:12:44.560] not going to include all these layers, but this is the broader story. And the
+[00:12:45.750] but this is the broader story. And the
+[00:12:45.760] but this is the broader story. And the Middle East are like very keen to bring
+[00:12:47.269] Middle East are like very keen to bring
+[00:12:47.279] Middle East are like very keen to bring business to the region. So they book
+[00:12:48.870] business to the region. So they book
+[00:12:48.880] business to the region. So they book Steven, which goes to the studio that's
+[00:12:51.829] Steven, which goes to the studio that's
+[00:12:51.839] Steven, which goes to the studio that's going to drive revenue to the business,
+[00:12:53.509] going to drive revenue to the business,
+[00:12:53.519] going to drive revenue to the business, that's going to drive revenue to Flight
+[00:12:54.870] that's going to drive revenue to Flight
+[00:12:54.880] that's going to drive revenue to Flight Story. And the more revenue flows
+[00:12:56.790] Story. And the more revenue flows
+[00:12:56.800] Story. And the more revenue flows through it gets, the more investments it
+[00:12:57.670] through it gets, the more investments it
+[00:12:57.680] through it gets, the more investments it can make, the more shows are concerned,
+[00:12:58.790] can make, the more shows are concerned,
+[00:12:58.800] can make, the more shows are concerned, the bigger it gets, the more it can
+[00:12:59.829] the bigger it gets, the more it can
+[00:12:59.839] the bigger it gets, the more it can manage its investments. So that's why
+[00:13:01.910] manage its investments. So that's why
+[00:13:01.920] manage its investments. So that's why the the guys in Dubai. This is obviously
+[00:13:03.670] the the guys in Dubai. This is obviously
+[00:13:03.680] the the guys in Dubai. This is obviously extreme. And I I don't think many people
+[00:13:05.430] extreme. And I I don't think many people
+[00:13:05.440] extreme. And I I don't think many people that made these kind of videos ever
+[00:13:07.590] that made these kind of videos ever
+[00:13:07.600] that made these kind of videos ever consider these things. Yeah. Because
+[00:13:09.509] consider these things. Yeah. Because
+[00:13:09.519] consider these things. Yeah. Because it's hard. There's a few ways I think we
+[00:13:11.190] it's hard. There's a few ways I think we
+[00:13:11.200] it's hard. There's a few ways I think we can do that. Okay. Have a really strong
+[00:13:13.590] can do that. Okay. Have a really strong
+[00:13:13.600] can do that. Okay. Have a really strong first 2 minutes that outlines the
+[00:13:15.910] first 2 minutes that outlines the
+[00:13:15.920] first 2 minutes that outlines the mission really clearly. First two
+[00:13:17.269] mission really clearly. First two
+[00:13:17.279] mission really clearly. First two minutes you understand what you just
+[00:13:18.389] minutes you understand what you just
+[00:13:18.399] minutes you understand what you just said about the mission and then you also
+[00:13:20.310] said about the mission and then you also
+[00:13:20.320] said about the mission and then you also get an insight to keep progress. Marcus,
+[00:13:22.389] get an insight to keep progress. Marcus,
+[00:13:22.399] get an insight to keep progress. Marcus, this is how far we are. I've got a story
+[00:13:23.829] this is how far we are. I've got a story
+[00:13:23.839] this is how far we are. I've got a story board I can show you. Oh, sure. The
+[00:13:25.509] board I can show you. Oh, sure. The
+[00:13:25.519] board I can show you. Oh, sure. The episode opens. Big overarching hug.
+[00:13:28.710] episode opens. Big overarching hug.
+[00:13:28.720] episode opens. Big overarching hug. Yeah. Think about your favorite company.
+[00:13:31.990] Yeah. Think about your favorite company.
+[00:13:32.000] Yeah. Think about your favorite company. And now imagine that they let you see in
+[00:13:34.790] And now imagine that they let you see in
+[00:13:34.800] And now imagine that they let you see in every meeting in every room from day
+[00:13:37.590] every meeting in every room from day
+[00:13:37.600] every meeting in every room from day one. That's a big hook, right? And then
+[00:13:40.230] one. That's a big hook, right? And then
+[00:13:40.240] one. That's a big hook, right? And then you've afforded the right to go a little
+[00:13:41.670] you've afforded the right to go a little
+[00:13:41.680] you've afforded the right to go a little bit deeper. So we go into here's who we
+[00:13:43.590] bit deeper. So we go into here's who we
+[00:13:43.600] bit deeper. So we go into here's who we are. So the the flight story. We're
+[00:13:45.670] are. So the the flight story. We're
+[00:13:45.680] are. So the the flight story. We're building a media company and an
+[00:13:48.230] building a media company and an
+[00:13:48.240] building a media company and an investment fund. And then what we're
+[00:13:49.750] investment fund. And then what we're
+[00:13:49.760] investment fund. And then what we're going to accomplish in this episode.
+[00:13:51.190] going to accomplish in this episode.
+[00:13:51.200] going to accomplish in this episode. Yeah. Fine. Yeah. Cool. We've got time
+[00:13:53.350] Yeah. Fine. Yeah. Cool. We've got time
+[00:13:53.360] Yeah. Fine. Yeah. Cool. We've got time on Tuesday to film that and we'll do it
+[00:13:55.030] on Tuesday to film that and we'll do it
+[00:13:55.040] on Tuesday to film that and we'll do it in the office. Okay. But you're happy
+[00:13:56.230] in the office. Okay. But you're happy
+[00:13:56.240] in the office. Okay. But you're happy with this kind of flow? Yeah. Great.
+[00:14:01.279] So, the survey is just to see how
+[00:14:04.480] So, the survey is just to see how aligned decisions are across flight
+[00:14:06.470] aligned decisions are across flight
+[00:14:06.480] aligned decisions are across flight story. So, would X person that fills out
+[00:14:09.750] story. So, would X person that fills out
+[00:14:09.760] story. So, would X person that fills out the survey respond in certain situations
+[00:14:11.590] the survey respond in certain situations
+[00:14:11.600] the survey respond in certain situations in the same way that the leadership
+[00:14:13.030] in the same way that the leadership
+[00:14:13.040] in the same way that the leadership would respond? It's really been
+[00:14:14.150] would respond? It's really been
+[00:14:14.160] would respond? It's really been informative to me because I think people
+[00:14:16.550] informative to me because I think people
+[00:14:16.560] informative to me because I think people are trainable. Again, there's no right
+[00:14:18.790] are trainable. Again, there's no right
+[00:14:18.800] are trainable. Again, there's no right decision, but there's the way that
+[00:14:20.150] decision, but there's the way that
+[00:14:20.160] decision, but there's the way that flight stories does things and it's it's
+[00:14:22.710] flight stories does things and it's it's
+[00:14:22.720] flight stories does things and it's it's attitude. So, for example, on the AI
+[00:14:24.150] attitude. So, for example, on the AI
+[00:14:24.160] attitude. So, for example, on the AI thing, maybe in a nursing practice, like
+[00:14:26.470] thing, maybe in a nursing practice, like
+[00:14:26.480] thing, maybe in a nursing practice, like they don't give a [&nbsp;__&nbsp;] about that, but
+[00:14:27.829] they don't give a [&nbsp;__&nbsp;] about that, but
+[00:14:27.839] they don't give a [&nbsp;__&nbsp;] about that, but in our business, we really care about
+[00:14:29.030] in our business, we really care about
+[00:14:29.040] in our business, we really care about that. And alignment is so key to company
+[00:14:31.110] that. And alignment is so key to company
+[00:14:31.120] that. And alignment is so key to company culture because misalignment is all the
+[00:14:34.150] culture because misalignment is all the
+[00:14:34.160] culture because misalignment is all the all the worst things that occur. You end
+[00:14:35.990] all the worst things that occur. You end
+[00:14:36.000] all the worst things that occur. You end up creating lots of little subculture,
+[00:14:37.509] up creating lots of little subculture,
+[00:14:37.519] up creating lots of little subculture, sub mentalities and stuff. So
+[00:14:41.670] sub mentalities and stuff. So
+[00:14:41.680] sub mentalities and stuff. So he was a university dropout. Yet today
+[00:14:45.590] he was a university dropout. Yet today
+[00:14:45.600] he was a university dropout. Yet today he has created a huge media empire
+[00:14:49.189] he has created a huge media empire
+[00:14:49.199] he has created a huge media empire hosting one of the world's fastest
+[00:14:51.269] hosting one of the world's fastest
+[00:14:51.279] hosting one of the world's fastest growing podcast. We think we know him.
+[00:14:54.949] growing podcast. We think we know him.
+[00:14:54.959] growing podcast. We think we know him. But who is the person really behind all
+[00:14:57.509] But who is the person really behind all
+[00:14:57.519] But who is the person really behind all of this success? That's what we're going
+[00:14:59.910] of this success? That's what we're going
+[00:14:59.920] of this success? That's what we're going to find out today. Ladies and gentlemen,
+[00:15:02.069] to find out today. Ladies and gentlemen,
+[00:15:02.079] to find out today. Ladies and gentlemen, please put your hands together for
+[00:15:03.910] please put your hands together for
+[00:15:03.920] please put your hands together for Steven Bartlet.
+[00:15:05.630] Steven Bartlet.
+[00:15:05.640] Steven Bartlet. [Applause]
+[00:15:13.509] [Applause]
+[00:15:13.519] [Applause] I would say that the single most
+[00:15:14.949] I would say that the single most
+[00:15:14.959] I would say that the single most important thing that anybody in this
+[00:15:16.230] important thing that anybody in this
+[00:15:16.240] important thing that anybody in this room is going to do in the next 5 years,
+[00:15:19.350] room is going to do in the next 5 years,
+[00:15:19.360] room is going to do in the next 5 years, every single person, I don't even need
+[00:15:20.629] every single person, I don't even need
+[00:15:20.639] every single person, I don't even need to know who you are, is you're going to
+[00:15:22.710] to know who you are, is you're going to
+[00:15:22.720] to know who you are, is you're going to make a decision how important hiring is
+[00:15:25.590] make a decision how important hiring is
+[00:15:25.600] make a decision how important hiring is personally and professionally. And it's
+[00:15:27.430] personally and professionally. And it's
+[00:15:27.440] personally and professionally. And it's it's fascinating to me because when I
+[00:15:29.030] it's fascinating to me because when I
+[00:15:29.040] it's fascinating to me because when I look at my investment portfolio, which
+[00:15:31.269] look at my investment portfolio, which
+[00:15:31.279] look at my investment portfolio, which is about 40 companies in, I I feel like
+[00:15:33.670] is about 40 companies in, I I feel like
+[00:15:33.680] is about 40 companies in, I I feel like I can literally predict the long-term
+[00:15:35.509] I can literally predict the long-term
+[00:15:35.519] I can literally predict the long-term success of any of those companies by how
+[00:15:37.910] success of any of those companies by how
+[00:15:37.920] success of any of those companies by how many hours in the founders's calendar
+[00:15:40.710] many hours in the founders's calendar
+[00:15:40.720] many hours in the founders's calendar they are personally spending on
+[00:15:42.350] they are personally spending on
+[00:15:42.360] they are personally spending on recruitment. And the critical issue that
+[00:15:44.949] recruitment. And the critical issue that
+[00:15:44.959] recruitment. And the critical issue that you will make and maybe you have already
+[00:15:46.550] you will make and maybe you have already
+[00:15:46.560] you will make and maybe you have already made is that you didn't you didn't go
+[00:15:48.710] made is that you didn't you didn't go
+[00:15:48.720] made is that you didn't you didn't go through the the extreme difficulties,
+[00:15:51.670] through the the extreme difficulties,
+[00:15:51.680] through the the extreme difficulties, the extreme fight to get extraordinary
+[00:15:54.069] the extreme fight to get extraordinary
+[00:15:54.079] the extreme fight to get extraordinary people to join you personally.
+[00:15:57.110] people to join you personally.
+[00:15:57.120] people to join you personally. thinking about your partner here, your
+[00:15:58.310] thinking about your partner here, your
+[00:15:58.320] thinking about your partner here, your friends or professionally. Back there, I
+[00:16:00.389] friends or professionally. Back there, I
+[00:16:00.399] friends or professionally. Back there, I was building a survey form for new
+[00:16:02.230] was building a survey form for new
+[00:16:02.240] was building a survey form for new hires. I'm head of recruitment in my
+[00:16:04.389] hires. I'm head of recruitment in my
+[00:16:04.399] hires. I'm head of recruitment in my personal and professional life. If
+[00:16:05.990] personal and professional life. If
+[00:16:06.000] personal and professional life. If you're building a business or you work
+[00:16:07.430] you're building a business or you work
+[00:16:07.440] you're building a business or you work in a company now, your biggest problems
+[00:16:09.829] in a company now, your biggest problems
+[00:16:09.839] in a company now, your biggest problems probably came from bad hires. So, what's
+[00:16:12.310] probably came from bad hires. So, what's
+[00:16:12.320] probably came from bad hires. So, what's the opposite of that? Your best
+[00:16:14.470] the opposite of that? Your best
+[00:16:14.480] the opposite of that? Your best decisions will come from good hires. I'm
+[00:16:16.550] decisions will come from good hires. I'm
+[00:16:16.560] decisions will come from good hires. I'm saying this with great passion because
+[00:16:18.310] saying this with great passion because
+[00:16:18.320] saying this with great passion because I'm so annoyed that nobody said this to
+[00:16:20.150] I'm so annoyed that nobody said this to
+[00:16:20.160] I'm so annoyed that nobody said this to me when I was 20 years old starting my
+[00:16:22.470] me when I was 20 years old starting my
+[00:16:22.480] me when I was 20 years old starting my business. I interviewed a spy called
+[00:16:24.389] business. I interviewed a spy called
+[00:16:24.399] business. I interviewed a spy called Andrew Bustamante. And his job was to go
+[00:16:26.990] Andrew Bustamante. And his job was to go
+[00:16:27.000] Andrew Bustamante. And his job was to go undercover for America, fly to places
+[00:16:30.470] undercover for America, fly to places
+[00:16:30.480] undercover for America, fly to places like this, act undercover, figure out
+[00:16:33.269] like this, act undercover, figure out
+[00:16:33.279] like this, act undercover, figure out who he needed to get information from,
+[00:16:35.829] who he needed to get information from,
+[00:16:35.839] who he needed to get information from, and then get into their secret life. I
+[00:16:38.389] and then get into their secret life. I
+[00:16:38.399] and then get into their secret life. I said to him, "How'd you do that?" And he
+[00:16:39.910] said to him, "How'd you do that?" And he
+[00:16:39.920] said to him, "How'd you do that?" And he says, "Well, people are motivated and
+[00:16:42.430] says, "Well, people are motivated and
+[00:16:42.440] says, "Well, people are motivated and manipulated by a framework in the CIA
+[00:16:45.670] manipulated by a framework in the CIA
+[00:16:45.680] manipulated by a framework in the CIA they call rice, reward, ideology,
+[00:16:49.030] they call rice, reward, ideology,
+[00:16:49.040] they call rice, reward, ideology, coercion, and ego." He said the most
+[00:16:51.030] coercion, and ego." He said the most
+[00:16:51.040] coercion, and ego." He said the most powerful way to motivate someone is
+[00:16:53.949] powerful way to motivate someone is
+[00:16:53.959] powerful way to motivate someone is ideology which is doing this is good for
+[00:16:56.870] ideology which is doing this is good for
+[00:16:56.880] ideology which is doing this is good for your country. Understanding what matters
+[00:16:58.949] your country. Understanding what matters
+[00:16:58.959] your country. Understanding what matters to them at a really deep fundamental
+[00:17:00.710] to them at a really deep fundamental
+[00:17:00.720] to them at a really deep fundamental level. Doing this is good for your
+[00:17:02.389] level. Doing this is good for your
+[00:17:02.399] level. Doing this is good for your family. And that's what he would do.
+[00:17:04.230] family. And that's what he would do.
+[00:17:04.240] family. And that's what he would do. He'd listen to them and this is what you
+[00:17:05.909] He'd listen to them and this is what you
+[00:17:05.919] He'd listen to them and this is what you do when these exceptional people to work
+[00:17:07.750] do when these exceptional people to work
+[00:17:07.760] do when these exceptional people to work for you. You listen to them. You
+[00:17:09.909] for you. You listen to them. You
+[00:17:09.919] for you. You listen to them. You understand their
+[00:17:11.230] understand their
+[00:17:11.240] understand their ideology. He said the second most
+[00:17:13.270] ideology. He said the second most
+[00:17:13.280] ideology. He said the second most powerful is ego. A lot of people think
+[00:17:15.990] powerful is ego. A lot of people think
+[00:17:16.000] powerful is ego. A lot of people think it's reward or money but actually he
+[00:17:17.669] it's reward or money but actually he
+[00:17:17.679] it's reward or money but actually he said we all have an ego. So you speak to
+[00:17:19.829] said we all have an ego. So you speak to
+[00:17:19.839] said we all have an ego. So you speak to their egos. Number three, he said, is
+[00:17:21.829] their egos. Number three, he said, is
+[00:17:21.839] their egos. Number three, he said, is reward, which is the money and all those
+[00:17:23.590] reward, which is the money and all those
+[00:17:23.600] reward, which is the money and all those kinds of things. And number four is
+[00:17:25.189] kinds of things. And number four is
+[00:17:25.199] kinds of things. And number four is coercion, which is pressure. And he
+[00:17:26.870] coercion, which is pressure. And he
+[00:17:26.880] coercion, which is pressure. And he said, you want to ease off pressure
+[00:17:28.470] said, you want to ease off pressure
+[00:17:28.480] said, you want to ease off pressure because once you hold a gun to someone's
+[00:17:30.310] because once you hold a gun to someone's
+[00:17:30.320] because once you hold a gun to someone's head as a spy, they never trust you
+[00:17:31.669] head as a spy, they never trust you
+[00:17:31.679] head as a spy, they never trust you again. So one of the big things I do
+[00:17:33.350] again. So one of the big things I do
+[00:17:33.360] again. So one of the big things I do when I when I meet an extraordinary
+[00:17:34.870] when I when I meet an extraordinary
+[00:17:34.880] when I when I meet an extraordinary candidate like an Amy Golding, the
+[00:17:37.110] candidate like an Amy Golding, the
+[00:17:37.120] candidate like an Amy Golding, the youngest woman to build a nine figure
+[00:17:38.390] youngest woman to build a nine figure
+[00:17:38.400] youngest woman to build a nine figure business, she could do anything with her
+[00:17:39.669] business, she could do anything with her
+[00:17:39.679] business, she could do anything with her life and her time, is I listen for a
+[00:17:41.669] life and her time, is I listen for a
+[00:17:41.679] life and her time, is I listen for a long, long time. And I try and step out
+[00:17:43.830] long, long time. And I try and step out
+[00:17:43.840] long, long time. And I try and step out of this is something else he taught me.
+[00:17:45.430] of this is something else he taught me.
+[00:17:45.440] of this is something else he taught me. I try and step out of my perspective and
+[00:17:48.470] I try and step out of my perspective and
+[00:17:48.480] I try and step out of my perspective and into her perception. And this is one of
+[00:17:51.270] into her perception. And this is one of
+[00:17:51.280] into her perception. And this is one of the things he says if you want to be a
+[00:17:52.549] the things he says if you want to be a
+[00:17:52.559] the things he says if you want to be a great salesperson or leader, you have to
+[00:17:54.870] great salesperson or leader, you have to
+[00:17:54.880] great salesperson or leader, you have to almost practice the art of pausing when
+[00:17:57.510] almost practice the art of pausing when
+[00:17:57.520] almost practice the art of pausing when someone's speaking to you and stepping
+[00:17:59.350] someone's speaking to you and stepping
+[00:17:59.360] someone's speaking to you and stepping into their perspect perception. All of
+[00:18:01.590] into their perspect perception. All of
+[00:18:01.600] into their perspect perception. All of you are looking at me and this is what
+[00:18:03.350] you are looking at me and this is what
+[00:18:03.360] you are looking at me and this is what you see. I had no idea this was here.
+[00:18:05.029] you see. I had no idea this was here.
+[00:18:05.039] you see. I had no idea this was here. Now, if you're able to sit in my seat
+[00:18:07.270] Now, if you're able to sit in my seat
+[00:18:07.280] Now, if you're able to sit in my seat when you're talking to me and look this
+[00:18:08.789] when you're talking to me and look this
+[00:18:08.799] when you're talking to me and look this way, you will be able to motivate and
+[00:18:11.590] way, you will be able to motivate and
+[00:18:11.600] way, you will be able to motivate and manipulate me. And that is what he
+[00:18:13.510] manipulate me. And that is what he
+[00:18:13.520] manipulate me. And that is what he taught me the spies are trained to do.
+[00:18:15.590] taught me the spies are trained to do.
+[00:18:15.600] taught me the spies are trained to do. And it's the same with hiring
+[00:18:17.029] And it's the same with hiring
+[00:18:17.039] And it's the same with hiring exceptional people. Please give me
+[00:18:22.840] a minute.
+[00:18:29.440] I've received a WhatsApp text from a
+[00:18:31.039] I've received a WhatsApp text from a founder in my portfolio expressing that
+[00:18:32.789] founder in my portfolio expressing that
+[00:18:32.799] founder in my portfolio expressing that he's got a bunch of issues with his team
+[00:18:34.470] he's got a bunch of issues with his team
+[00:18:34.480] he's got a bunch of issues with his team and it's so clear to me that the cause
+[00:18:36.630] and it's so clear to me that the cause
+[00:18:36.640] and it's so clear to me that the cause of these issues is that he doesn't have
+[00:18:38.390] of these issues is that he doesn't have
+[00:18:38.400] of these issues is that he doesn't have a rigorous enough hiring process. The
+[00:18:40.870] a rigorous enough hiring process. The
+[00:18:40.880] a rigorous enough hiring process. The way to recruit exceptional people is to
+[00:18:42.870] way to recruit exceptional people is to
+[00:18:42.880] way to recruit exceptional people is to have an exceptional process. I'm going
+[00:18:44.950] have an exceptional process. I'm going
+[00:18:44.960] have an exceptional process. I'm going to call him after my workout and explain
+[00:18:46.710] to call him after my workout and explain
+[00:18:46.720] to call him after my workout and explain to him exactly how we hire and how we've
+[00:18:49.669] to him exactly how we hire and how we've
+[00:18:49.679] to him exactly how we hire and how we've introduced rigor into our process to
+[00:18:51.430] introduced rigor into our process to
+[00:18:51.440] introduced rigor into our process to ensure that we bring worldclass people
+[00:18:52.950] ensure that we bring worldclass people
+[00:18:52.960] ensure that we bring worldclass people into our team.
+[00:18:55.190] into our team.
+[00:18:55.200] into our team. I just read your message and I thought
+[00:18:56.310] I just read your message and I thought
+[00:18:56.320] I just read your message and I thought I'd just give you a call cuz it's
+[00:18:57.430] I'd just give you a call cuz it's
+[00:18:57.440] I'd just give you a call cuz it's faster. by reading your message made me
+[00:18:59.430] faster. by reading your message made me
+[00:18:59.440] faster. by reading your message made me think that maybe your recruitment
+[00:19:02.470] think that maybe your recruitment
+[00:19:02.480] think that maybe your recruitment process isn't robust enough. Like when
+[00:19:03.990] process isn't robust enough. Like when
+[00:19:04.000] process isn't robust enough. Like when we interview someone, the the base
+[00:19:05.510] we interview someone, the the base
+[00:19:05.520] we interview someone, the the base assumption is that every single person
+[00:19:07.029] assumption is that every single person
+[00:19:07.039] assumption is that every single person in my company including me is bad at
+[00:19:08.470] in my company including me is bad at
+[00:19:08.480] in my company including me is bad at hiring. So if you start with that base
+[00:19:10.669] hiring. So if you start with that base
+[00:19:10.679] hiring. So if you start with that base assumption Yeah. Like so and you you
+[00:19:13.029] assumption Yeah. Like so and you you
+[00:19:13.039] assumption Yeah. Like so and you you probably have seen this in the past like
+[00:19:14.230] probably have seen this in the past like
+[00:19:14.240] probably have seen this in the past like we all have biases towards hiring,
+[00:19:15.590] we all have biases towards hiring,
+[00:19:15.600] we all have biases towards hiring, right? So if I let one person in my team
+[00:19:17.430] right? So if I let one person in my team
+[00:19:17.440] right? So if I let one person in my team hire, I can tell you the exact
+[00:19:19.190] hire, I can tell you the exact
+[00:19:19.200] hire, I can tell you the exact demographic and age of person that they
+[00:19:21.270] demographic and age of person that they
+[00:19:21.280] demographic and age of person that they will hire. When you like accept the fact
+[00:19:23.029] will hire. When you like accept the fact
+[00:19:23.039] will hire. When you like accept the fact that everyone's bad at hiring, you
+[00:19:24.470] that everyone's bad at hiring, you
+[00:19:24.480] that everyone's bad at hiring, you construct a recruitment process which is
+[00:19:26.070] construct a recruitment process which is
+[00:19:26.080] construct a recruitment process which is absolutely free from bias. Five
+[00:19:27.990] absolutely free from bias. Five
+[00:19:28.000] absolutely free from bias. Five different people should interview the
+[00:19:29.830] different people should interview the
+[00:19:29.840] different people should interview the person and every single not one of them
+[00:19:31.590] person and every single not one of them
+[00:19:31.600] person and every single not one of them should be allowed to um confer until
+[00:19:34.470] should be allowed to um confer until
+[00:19:34.480] should be allowed to um confer until they felt filled out a feedback form for
+[00:19:35.990] they felt filled out a feedback form for
+[00:19:36.000] they felt filled out a feedback form for you. And this is it's been such a game
+[00:19:38.070] you. And this is it's been such a game
+[00:19:38.080] you. And this is it's been such a game changer and something that I learned
+[00:19:39.590] changer and something that I learned
+[00:19:39.600] changer and something that I learned from Amazon is at the end of the survey
+[00:19:41.830] from Amazon is at the end of the survey
+[00:19:41.840] from Amazon is at the end of the survey there's four options. Really inclined to
+[00:19:43.830] there's four options. Really inclined to
+[00:19:43.840] there's four options. Really inclined to hire, inclined to hire, not inclined to
+[00:19:45.990] hire, inclined to hire, not inclined to
+[00:19:46.000] hire, inclined to hire, not inclined to hire, really not inclined to hire. Um no
+[00:19:48.710] hire, really not inclined to hire. Um no
+[00:19:48.720] hire, really not inclined to hire. Um no no sitting on the fence and you've got
+[00:19:50.070] no sitting on the fence and you've got
+[00:19:50.080] no sitting on the fence and you've got to make a decision. and I'll send you a
+[00:19:52.070] to make a decision. and I'll send you a
+[00:19:52.080] to make a decision. and I'll send you a document which shows our recruitment
+[00:19:53.270] document which shows our recruitment
+[00:19:53.280] document which shows our recruitment process end to end. It's been an
+[00:19:54.710] process end to end. It's been an
+[00:19:54.720] process end to end. It's been an absolute game changer because all the
+[00:19:56.310] absolute game changer because all the
+[00:19:56.320] absolute game changer because all the best decisions you'll ever make are
+[00:19:57.669] best decisions you'll ever make are
+[00:19:57.679] best decisions you'll ever make are people and all the worst decisions
+[00:19:58.870] people and all the worst decisions
+[00:19:58.880] people and all the worst decisions you'll ever make are people. Thanks
+[00:20:00.310] you'll ever make are people. Thanks
+[00:20:00.320] you'll ever make are people. Thanks mate. Thank you. Bye-bye. Bye-bye.
+[00:20:02.390] mate. Thank you. Bye-bye. Bye-bye.
+[00:20:02.400] mate. Thank you. Bye-bye. Bye-bye. Cheers. Bye. Bye. One of the most
+[00:20:04.310] Cheers. Bye. Bye. One of the most
+[00:20:04.320] Cheers. Bye. Bye. One of the most important things I've come to learn is
+[00:20:06.070] important things I've come to learn is
+[00:20:06.080] important things I've come to learn is that humans are so susceptible to group
+[00:20:08.230] that humans are so susceptible to group
+[00:20:08.240] that humans are so susceptible to group think. So, we don't allow anyone who
+[00:20:10.470] think. So, we don't allow anyone who
+[00:20:10.480] think. So, we don't allow anyone who interviews a candidate to speak until
+[00:20:12.789] interviews a candidate to speak until
+[00:20:12.799] interviews a candidate to speak until they've filled out their feedback form
+[00:20:14.150] they've filled out their feedback form
+[00:20:14.160] they've filled out their feedback form in their surveys. And this is because of
+[00:20:16.070] in their surveys. And this is because of
+[00:20:16.080] in their surveys. And this is because of something I learned at 16 years old in
+[00:20:18.150] something I learned at 16 years old in
+[00:20:18.160] something I learned at 16 years old in my psychology classes called the Ash
+[00:20:20.630] my psychology classes called the Ash
+[00:20:20.640] my psychology classes called the Ash paradigm.
+[00:20:22.630] paradigm.
+[00:20:22.640] paradigm. The Ash experiment is one of
+[00:20:24.390] The Ash experiment is one of
+[00:20:24.400] The Ash experiment is one of psychologyy's oldest and most popular
+[00:20:26.710] psychologyy's oldest and most popular
+[00:20:26.720] psychologyy's oldest and most popular pieces of
+[00:20:27.789] pieces of
+[00:20:27.799] pieces of research. A volunteer is told that he's
+[00:20:30.470] research. A volunteer is told that he's
+[00:20:30.480] research. A volunteer is told that he's taking part in a visual perception
+[00:20:32.750] taking part in a visual perception
+[00:20:32.760] taking part in a visual perception test. What he doesn't know is that the
+[00:20:35.430] test. What he doesn't know is that the
+[00:20:35.440] test. What he doesn't know is that the other participants are actors and he's
+[00:20:37.430] other participants are actors and he's
+[00:20:37.440] other participants are actors and he's the only person taking part in the real
+[00:20:39.430] the only person taking part in the real
+[00:20:39.440] the only person taking part in the real test, which is actually about group
+[00:20:41.430] test, which is actually about group
+[00:20:41.440] test, which is actually about group conformity. Please begin the experiment.
+[00:20:44.710] conformity. Please begin the experiment.
+[00:20:44.720] conformity. Please begin the experiment. you will be taking part in today
+[00:20:45.990] you will be taking part in today
+[00:20:46.000] you will be taking part in today involves the perception of line length.
+[00:20:48.070] involves the perception of line length.
+[00:20:48.080] involves the perception of line length. Your task will be simply to look at the
+[00:20:49.830] Your task will be simply to look at the
+[00:20:49.840] Your task will be simply to look at the line here on the left and indicate which
+[00:20:51.990] line here on the left and indicate which
+[00:20:52.000] line here on the left and indicate which of the three lines on the right is equal
+[00:20:53.990] of the three lines on the right is equal
+[00:20:54.000] of the three lines on the right is equal to it in length. So for example, the
+[00:20:56.549] to it in length. So for example, the
+[00:20:56.559] to it in length. So for example, the actors have been told to match the wrong
+[00:20:58.310] actors have been told to match the wrong
+[00:20:58.320] actors have been told to match the wrong lines.
+[00:21:00.230] lines.
+[00:21:00.240] lines. The volunteer will be monitored to see
+[00:21:02.390] The volunteer will be monitored to see
+[00:21:02.400] The volunteer will be monitored to see if he gives the correct answer or if he
+[00:21:04.390] if he gives the correct answer or if he
+[00:21:04.400] if he gives the correct answer or if he goes along with the opinion of the group
+[00:21:06.230] goes along with the opinion of the group
+[00:21:06.240] goes along with the opinion of the group and gives the wrong
+[00:21:08.590] and gives the wrong
+[00:21:08.600] and gives the wrong answer. In the first test, the correct
+[00:21:11.270] answer. In the first test, the correct
+[00:21:11.280] answer. In the first test, the correct answer is two.
+[00:21:13.750] answer is two.
+[00:21:13.760] answer is two. Uh,
+[00:21:14.909] Uh,
+[00:21:14.919] Uh, one one
+[00:21:17.750] one one
+[00:21:17.760] one one one
+[00:21:24.159] two
+[00:21:25.679] two one.
+[00:21:28.470] one.
+[00:21:28.480] one. Once again, the correct answer is two.
+[00:21:31.110] Once again, the correct answer is two.
+[00:21:31.120] Once again, the correct answer is two. Three. Three.
+[00:21:34.390] Three. Three.
+[00:21:34.400] Three. Three. Three.
+[00:21:40.640] Three. Three.
+[00:21:43.440] Three. Three. The ash experiment has been repeated
+[00:21:45.669] The ash experiment has been repeated
+[00:21:45.679] The ash experiment has been repeated many times and the results have been uh
+[00:21:47.990] many times and the results have been uh
+[00:21:48.000] many times and the results have been uh supported again and again. We will
+[00:21:50.470] supported again and again. We will
+[00:21:50.480] supported again and again. We will conform to the group. Again, we're very
+[00:21:52.549] conform to the group. Again, we're very
+[00:21:52.559] conform to the group. Again, we're very social creatures. We're very much aware
+[00:21:55.190] social creatures. We're very much aware
+[00:21:55.200] social creatures. We're very much aware of what the people around us think. Uh
+[00:21:58.710] of what the people around us think. Uh
+[00:21:58.720] of what the people around us think. Uh we want to be liked. We don't want to be
+[00:22:00.870] we want to be liked. We don't want to be
+[00:22:00.880] we want to be liked. We don't want to be seen to rock the boat. So, we will go
+[00:22:02.630] seen to rock the boat. So, we will go
+[00:22:02.640] seen to rock the boat. So, we will go along with the group. Even if we don't
+[00:22:04.870] along with the group. Even if we don't
+[00:22:04.880] along with the group. Even if we don't believe what people are saying, we'll
+[00:22:07.909] believe what people are saying, we'll
+[00:22:07.919] believe what people are saying, we'll still go along. One, one, one, one.
+[00:22:11.990] still go along. One, one, one, one.
+[00:22:12.000] still go along. One, one, one, one. Group dynamics is one of the most
+[00:22:13.590] Group dynamics is one of the most
+[00:22:13.600] Group dynamics is one of the most powerful forces in human psychology. In
+[00:22:16.310] powerful forces in human psychology. In
+[00:22:16.320] powerful forces in human psychology. In most companies, because of the power of
+[00:22:18.070] most companies, because of the power of
+[00:22:18.080] most companies, because of the power of group think, if you confer, group think
+[00:22:20.870] group think, if you confer, group think
+[00:22:20.880] group think, if you confer, group think will take hold. And the person with the
+[00:22:23.110] will take hold. And the person with the
+[00:22:23.120] will take hold. And the person with the most authority, the most senior person
+[00:22:25.430] most authority, the most senior person
+[00:22:25.440] most authority, the most senior person will ultimately just end up making the
+[00:22:27.029] will ultimately just end up making the
+[00:22:27.039] will ultimately just end up making the decision on their own. This is why we
+[00:22:28.789] decision on their own. This is why we
+[00:22:28.799] decision on their own. This is why we have five to seven people interviewing
+[00:22:30.470] have five to seven people interviewing
+[00:22:30.480] have five to seven people interviewing every single candidate. And we do not
+[00:22:32.390] every single candidate. And we do not
+[00:22:32.400] every single candidate. And we do not let our team talk to each other after
+[00:22:34.710] let our team talk to each other after
+[00:22:34.720] let our team talk to each other after they've interviewed somebody. So now our
+[00:22:36.710] they've interviewed somebody. So now our
+[00:22:36.720] they've interviewed somebody. So now our hiring process looks like this.
+[00:22:38.789] hiring process looks like this.
+[00:22:38.799] hiring process looks like this. Candidates do the
+[00:22:40.270] Candidates do the
+[00:22:40.280] Candidates do the cultureest.com survey before they even
+[00:22:42.789] cultureest.com survey before they even
+[00:22:42.799] cultureest.com survey before they even get a chance to interview. Then they
+[00:22:44.470] get a chance to interview. Then they
+[00:22:44.480] get a chance to interview. Then they meet with five to seven of our team
+[00:22:45.830] meet with five to seven of our team
+[00:22:45.840] meet with five to seven of our team members, none of which are able to speak
+[00:22:47.750] members, none of which are able to speak
+[00:22:47.760] members, none of which are able to speak to each other or confer about what they
+[00:22:49.470] to each other or confer about what they
+[00:22:49.480] to each other or confer about what they think. All of them fill out a survey
+[00:22:52.070] think. All of them fill out a survey
+[00:22:52.080] think. All of them fill out a survey which tests the candidate on 10 points
+[00:22:54.390] which tests the candidate on 10 points
+[00:22:54.400] which tests the candidate on 10 points of culture fit and 10 points of
+[00:22:56.390] of culture fit and 10 points of
+[00:22:56.400] of culture fit and 10 points of competence for the job. Every
+[00:22:58.230] competence for the job. Every
+[00:22:58.240] competence for the job. Every interviewer has to then vote on whether
+[00:23:00.310] interviewer has to then vote on whether
+[00:23:00.320] interviewer has to then vote on whether they are inclined to hire, strongly
+[00:23:02.230] they are inclined to hire, strongly
+[00:23:02.240] they are inclined to hire, strongly inclined to hire, not inclined to hire,
+[00:23:04.230] inclined to hire, not inclined to hire,
+[00:23:04.240] inclined to hire, not inclined to hire, strongly not inclined to hire. They
+[00:23:06.630] strongly not inclined to hire. They
+[00:23:06.640] strongly not inclined to hire. They submit their answers and then we meet up
+[00:23:08.789] submit their answers and then we meet up
+[00:23:08.799] submit their answers and then we meet up as a group to talk about it which we
+[00:23:10.950] as a group to talk about it which we
+[00:23:10.960] as a group to talk about it which we call the debrief. And in this debrief
+[00:23:12.789] call the debrief. And in this debrief
+[00:23:12.799] call the debrief. And in this debrief session, we get to see what every other
+[00:23:14.230] session, we get to see what every other
+[00:23:14.240] session, we get to see what every other one of our colleagues has said about the
+[00:23:15.669] one of our colleagues has said about the
+[00:23:15.679] one of our colleagues has said about the person, how they voted. We talk, we
+[00:23:18.310] person, how they voted. We talk, we
+[00:23:18.320] person, how they voted. We talk, we discuss, we debate, and we make a
+[00:23:24.919] decision. I want this channel to be more
+[00:23:27.280] decision. I want this channel to be more than just me making videos and
+[00:23:29.350] than just me making videos and
+[00:23:29.360] than just me making videos and broadcasting them. So, we will be doing
+[00:23:31.029] broadcasting them. So, we will be doing
+[00:23:31.039] broadcasting them. So, we will be doing community meetups. We will be hanging
+[00:23:32.549] community meetups. We will be hanging
+[00:23:32.559] community meetups. We will be hanging out together. We will be putting events
+[00:23:33.909] out together. We will be putting events
+[00:23:33.919] out together. We will be putting events on. but also in the comments section, I
+[00:23:36.630] on. but also in the comments section, I
+[00:23:36.640] on. but also in the comments section, I would love all of you to start engaging
+[00:23:38.950] would love all of you to start engaging
+[00:23:38.960] would love all of you to start engaging with each other. So, here's what I'm
+[00:23:40.070] with each other. So, here's what I'm
+[00:23:40.080] with each other. So, here's what I'm going to say. Can you share the single
+[00:23:42.870] going to say. Can you share the single
+[00:23:42.880] going to say. Can you share the single biggest professional issue that you
+[00:23:44.789] biggest professional issue that you
+[00:23:44.799] biggest professional issue that you currently have with your career, with
+[00:23:46.149] currently have with your career, with
+[00:23:46.159] currently have with your career, with your ambitions, whatever it might be
+[00:23:48.669] your ambitions, whatever it might be
+[00:23:48.679] your ambitions, whatever it might be professionally, and everyone in the
+[00:23:50.549] professionally, and everyone in the
+[00:23:50.559] professionally, and everyone in the community, pile in and offer some advice
+[00:23:52.470] community, pile in and offer some advice
+[00:23:52.480] community, pile in and offer some advice and some words and some thoughts and
+[00:23:53.909] and some words and some thoughts and
+[00:23:53.919] and some words and some thoughts and your experience to anybody that shares
+[00:23:56.070] your experience to anybody that shares
+[00:23:56.080] your experience to anybody that shares the biggest challenge they have at the
+[00:23:57.669] the biggest challenge they have at the
+[00:23:57.679] the biggest challenge they have at the moment. Give context to who you are and
+[00:23:59.750] moment. Give context to who you are and
+[00:23:59.760] moment. Give context to who you are and explain the challenge. And together,
+[00:24:01.669] explain the challenge. And together,
+[00:24:01.679] explain the challenge. And together, including me, I'll be in the comment
+[00:24:03.029] including me, I'll be in the comment
+[00:24:03.039] including me, I'll be in the comment section, too. We're going to try and
+[00:24:04.310] section, too. We're going to try and
+[00:24:04.320] section, too. We're going to try and solve some of your problems. Thank you,
+[00:24:06.149] solve some of your problems. Thank you,
+[00:24:06.159] solve some of your problems. Thank you, ladies and gentlemen. And I guess this
+[00:24:07.830] ladies and gentlemen. And I guess this
+[00:24:07.840] ladies and gentlemen. And I guess this is time for the
+[00:24:09.470] is time for the
+[00:24:09.480] is time for the bloopers. I wonder what the bloopers are
+[00:24:11.430] bloopers. I wonder what the bloopers are
+[00:24:11.440] bloopers. I wonder what the bloopers are this week. I never get to see them. I
+[00:24:12.549] this week. I never get to see them. I
+[00:24:12.559] this week. I never get to see them. I just see them when you guys see them.
+[00:24:13.909] just see them when you guys see them.
+[00:24:13.919] just see them when you guys see them. Let's do the bloopers.
+[00:24:16.950] Let's do the bloopers.
+[00:24:16.960] Let's do the bloopers. Looks great though. It's like crispy.
+[00:24:19.190] Looks great though. It's like crispy.
+[00:24:19.200] Looks great though. It's like crispy. Oh, it's got like a Oh, that looks so
+[00:24:21.269] Oh, it's got like a Oh, that looks so
+[00:24:21.279] Oh, it's got like a Oh, that looks so good. It's got Oh, I love these. Imagine
+[00:24:23.990] good. It's got Oh, I love these. Imagine
+[00:24:24.000] good. It's got Oh, I love these. Imagine if I went [&nbsp;__&nbsp;] it and just
+[00:24:26.190] if I went [&nbsp;__&nbsp;] it and just
+[00:24:26.200] if I went [&nbsp;__&nbsp;] it and just went and then finish off with and they
+[00:24:29.830] went and then finish off with and they
+[00:24:29.840] went and then finish off with and they come they grab me. You want to come
+[00:24:31.110] come they grab me. You want to come
+[00:24:31.120] come they grab me. You want to come talk? I'm like [&nbsp;__&nbsp;] off. That that is
+[00:24:33.190] talk? I'm like [&nbsp;__&nbsp;] off. That that is
+[00:24:33.200] talk? I'm like [&nbsp;__&nbsp;] off. That that is [&nbsp;__&nbsp;] banging. What? That is so good.
+[00:24:35.430] [&nbsp;__&nbsp;] banging. What? That is so good.
+[00:24:35.440] [&nbsp;__&nbsp;] banging. What? That is so good. I know. It's so good. The way that they
+[00:24:37.430] I know. It's so good. The way that they
+[00:24:37.440] I know. It's so good. The way that they choices they make, the smell plus the
+[00:24:39.430] choices they make, the smell plus the
+[00:24:39.440] choices they make, the smell plus the look, the crisp level. How good is that?
+[00:24:42.230] look, the crisp level. How good is that?
+[00:24:42.240] look, the crisp level. How good is that? Texture, the raspberry levels. Oh my
+[00:24:44.070] Texture, the raspberry levels. Oh my
+[00:24:44.080] Texture, the raspberry levels. Oh my god.
