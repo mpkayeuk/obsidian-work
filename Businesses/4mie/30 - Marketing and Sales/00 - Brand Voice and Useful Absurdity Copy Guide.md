@@ -93,13 +93,15 @@ We are NOT:
 **Pro — £399** ⭐ **MOST POPULAR**
 "For real life, where divorces are messy and numbers change."
 - Everything in Basic
-- **Solicitor Simulator Audit**: Finds contradictions *before* the other side does (e.g. "You spend £500 more than you earn—explain this or they will attack you.")
+- **Forensic Audit Shield**: Finds contradictions *before* the other side does (e.g. "You spend £500 more than you earn—explain this or they will attack you.")
 - AI writes your responses properly (truthful, but persuasive)
 - ES2 auto-generated from your Form E
 - Evidence bundle (organized, indexed, court-compliant)
 - **Unlimited updates until Final Order** (because life happens)
 
 **Best for**: Anyone who wants to be bulletproof in court.
+
+*Note: The Forensic Audit Shield provides logical and mathematical consistency checks. It is not a substitute for legal advice.*
 
 ---
 
@@ -396,11 +398,13 @@ A client genuinely forgot to list a buy-to-let property. They'd owned it for 12 
 
 **Q: Is 4mie as good as hiring a solicitor?**
 
-A: No. We're better at some things (speed, cost, explaining jargon) and worse at others (legal strategy, court representation, arguing your case).
+A: No. We're better at some things (speed, cost, explaining jargon, mathematical auditing) and worse at others (legal strategy, court representation, arguing your case).
 
-**For Form E completion?** We're excellent. Our AI has reviewed 10,000+ forms. Most solicitors hand Form E prep to paralegals anyway.
+**For Form E completion?** We're excellent. Our AI has reviewed 10,000+ forms and our **Forensic Audit Shield** catches math errors that human paralegals often miss.
 
 **For complex legal advice?** Add our Solicitor Review (£299) or hire a solicitor for full representation.
+
+**The regulatory bit**: 4mie is a technology platform. We provide tools for document preparation and logical consistency. We do not provide legal advice, and our AI does not act as a solicitor. Think of us as a very smart calculator for your divorce.
 
 **The honest answer:** 4mie + Solicitor Review (£698 total) is better value than most solicitors charging £2,400+ for the same work.
 
@@ -408,7 +412,7 @@ A: No. We're better at some things (speed, cost, explaining jargon) and worse at
 
 **Q: What if I make a mistake?**
 
-A: You'll fix it. That's why Pro tier includes unlimited updates.
+A: You'll fix it. That's why Pro tier includes unlimited updates and the **Forensic Audit Shield** to catch errors before you file.
 
 **Reality check:** Almost everyone updates their Form E at least once. Asset values change. You find documents you missed. Your ex's solicitor asks follow-up questions.
 

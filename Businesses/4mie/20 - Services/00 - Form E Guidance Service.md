@@ -2,7 +2,7 @@
 
 ## What We Do
 1. **Conversational Interview**: Answer questions in your own words – AI handles the Form E structure.
-2. **Forensic Audit (The "Solicitor Simulator")**: Before you download, our AI acts as the opposing solicitor, aggressively checking for:
+2. **Forensic Audit Shield**: Before you download, our AI cross-references your data for contradictions, checking:
     - **Math Errors**: Does your income actually cover your stated expenses?
     - **Hidden Assets**: Did you mention a crypto transfer but forget to list the crypto?
     - **Narrative Gaps**: Did you claim health issues but forget the medical evidence?
