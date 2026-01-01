@@ -93,19 +93,20 @@ We are NOT:
 **Pro — £399** ⭐ **MOST POPULAR**
 "For real life, where divorces are messy and numbers change."
 - Everything in Basic
+- **Solicitor Simulator Audit**: Finds contradictions *before* the other side does (e.g. "You spend £500 more than you earn—explain this or they will attack you.")
 - AI writes your responses properly (truthful, but persuasive)
 - ES2 auto-generated from your Form E
 - Evidence bundle (organized, indexed, court-compliant)
 - **Unlimited updates until Final Order** (because life happens)
 
-**Best for**: Anyone who wants this done right the first time.
+**Best for**: Anyone who wants to be bulletproof in court.
 
 ---
 
 **Solicitor Review — +£299**
 "An actual human solicitor checks everything."
 - Add to Basic or Pro
-- Partner solicitor reviews your Form E + ES2
+- Partner solicitor reviews your **Audited** Form E + ES2
 - Written feedback + 30-minute call
 - Fixed fee (no hourly billing horror stories)
 
@@ -119,14 +120,14 @@ We are NOT:
 
 | Service | Cost | What You Get |
 |---------|------|--------------|
-| **4mie Pro** | **£399** | Complete Form E, AI narratives, ES2, evidence bundle, unlimited updates |
+| **4mie Pro** | **£399** | **Forensic Audit Shield**, Complete Form E, ES2, evidence bundle, unlimited updates |
 | London solicitor | £510+ | 47 minutes of their time. Maybe a Form E draft. Hourly billing continues. |
 | Regional solicitor | £300-420 | 1-2 hours. Basic Form E. Updates cost more. |
-| DIY with Forms Online | £199-299 | Templates. You fill everything. No AI help. Pay per update. |
-| **4mie Pro + Solicitor** | **£698** | Everything above + professional review |
+| DIY with Forms Online | £199-299 | Templates. You fill everything. No AI audit. Pay per update. |
+| **4mie Pro + Solicitor** | **£698** | Everything above + professional review of an **already audited** form |
 | Full-service solicitor | £2,400-4,500 | Same Form E. Much higher bill. |
 
-**The absurd truth**: You're paying less for better AI assistance than 1 hour of a solicitor's time.
+**The absurd truth**: You're paying less for better forensic protection than 1 hour of a solicitor's time.
 
 ---
 

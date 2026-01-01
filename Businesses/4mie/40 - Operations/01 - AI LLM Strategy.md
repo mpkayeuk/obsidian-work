@@ -58,9 +58,13 @@ JSON: {narrative, questions[], fact_updates}
 ### Phases (15-25 turns)
 1. Intake (overview).
 2. Section Group (3-5; Q→Draft→Review).
-3. Final Compile (50k call).
+3. **Red Team / Forensic Audit (Crucial Step)**:
+    - **Model**: Claude Opus 4
+    - **Prompt**: "You are opposing counsel. Find every inconsistency between Income (S2) and Budget (S3). Find missing evidence for Assets (S2). Create a Schedule of Deficiencies."
+    - **Output**: User-facing "Fix This" list.
+4. Final Compile (50k call).
 
-**Benefits**: 20% cheaper, iterative UX, consistency.
+**Benefits**: 20% cheaper, iterative UX, **Audit Shield** protects credibility.
 **Impl**: Vercel AI SDK + Zod. Total ~45k tok.
 
 **Next**: Prompt templates, A/B tests.

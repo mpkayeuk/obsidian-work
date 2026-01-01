@@ -2,17 +2,20 @@
 
 ## What We Do
 1. **Conversational Interview**: Answer questions in your own words – AI handles the Form E structure.
-2. **AI-Optimized Responses**: Crafts clear, persuasive (truthful) narratives for all sections (income, assets, needs, etc.).
-3. **Completed Form**: Downloadable PDF Form E + any needed supplements.
-4. **Evidence Bundle**: Upload docs, get organized folder/zip with index.
-5. **Solicitor Ready**: Formatted for easy review.
+2. **Forensic Audit (The "Solicitor Simulator")**: Before you download, our AI acts as the opposing solicitor, aggressively checking for:
+    - **Math Errors**: Does your income actually cover your stated expenses?
+    - **Hidden Assets**: Did you mention a crypto transfer but forget to list the crypto?
+    - **Narrative Gaps**: Did you claim health issues but forget the medical evidence?
+3. **AI-Optimized Responses**: Crafts clear, persuasive (truthful) narratives for all sections.
+4. **Completed Form**: Downloadable PDF Form E + any needed supplements.
+5. **Evidence Bundle**: Upload docs, get organized folder/zip with index.
 
 ## Pricing Tiers (MVP)
 - **Basic (£99)**: Draft Form E PDF. Updates £49 each. ES2 add-on £79.
-- **Pro (£399)**: AI-optimised narratives + evidence bundle + ES2 + **unlimited updates until Final Order**.
+- **Pro (£399)**: **Forensic Audit Shield** + AI-optimised narratives + evidence bundle + ES2 + unlimited updates until Final Order.
 
 ## Add-ons
-- **Solicitor Review (+£299)**: Partner solicitor reviews your Form E and ES2. Can add to any tier. Fixed fee, no hourly billing surprises.
+- **Solicitor Review (+£299)**: Partner solicitor reviews your **Audited** Form E and ES2. Can add to any tier. Fixed fee.
 - **ES2 (Basic tier only) (+£79)**: Add ES2 generation for Basic users who need court documents.
 
 ## Update Pricing Rationale

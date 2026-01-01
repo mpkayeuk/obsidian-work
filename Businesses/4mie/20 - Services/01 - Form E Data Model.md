@@ -438,7 +438,15 @@ Same structure as 2.1, repeated for each additional property
 - Section 5
 - What outcome are you hoping for
 
-**Phase 12: Review & Documents**
+**Phase 12: Forensic Audit & Validation (The "Solicitor Simulator")**
+- **Internal Step**: AI analyzes full JSON state
+- **Checks**:
+    - Income vs. Expense deficit check
+    - Asset listing vs. Bank Statement transfers
+    - Narrative vs. Evidence consistency
+- **Output**: Mandatory "Fix List" before finalization
+
+**Phase 13: Review & Documents**
 - Summary review
 - Document checklist
 
