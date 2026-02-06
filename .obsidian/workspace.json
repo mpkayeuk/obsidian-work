@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Businesses/4mie/10 - Business Plan/00 - Mission and Vision.md",
+                "file": "Businesses/00 - Inbox/Business Focus Recommendation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Mission and Vision"
+              "title": "Business Focus Recommendation"
+            }
+          },
+          {
+            "id": "09bc65f0d81fbca5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ],
@@ -175,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -186,6 +199,7 @@
   },
   "active": "b61be454d6259220",
   "lastOpenFiles": [
+    "Businesses/4mie/10 - Business Plan/00 - Mission and Vision.md",
     "Businesses/4mie/80 - Resources/01 - Form E Comprehensive Guidance.md",
     "Businesses/4mie/00 - Inbox/4mie Branding Analysis - Gemini and Claude.md",
     "Common/30 - Marketing and Sales/DOAC Behind The Diary Transcripts/DOAC Behind The Diary Transcripts_Video_Analysis.md",
@@ -220,7 +234,6 @@
     "Businesses/4mie/50 - Legal and Finance/00 - Disclaimers and Terms.md",
     "Businesses/4mie/60 - Pitches/00 - Investor Pitch Outline.md",
     "Businesses/4mie/70 - Website/00 - Landing Page Content.md",
-    "Businesses/4mie/10 - Business Plan/01 - MVP Roadmap and Financials.md",
-    "Businesses/4mie/20 - Services/00 - Form E Guidance Service.md"
+    "Businesses/4mie/10 - Business Plan/01 - MVP Roadmap and Financials.md"
   ]
 }
