@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Businesses/4mie/00 - Inbox/4mie Branding Analysis - Gemini and Claude.md",
+                "file": "Businesses/Casulogica/10 - Business Plan/00 - Mission and Vision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4mie Branding Analysis - Gemini and Claude"
+              "title": "00 - Mission and Vision"
             }
           },
           {
@@ -199,12 +199,19 @@
   },
   "active": "b61be454d6259220",
   "lastOpenFiles": [
+    "Businesses/BikeFuel Pro/10 - Business Plan/00 - Mission and Vision.md",
+    "Businesses/4mie/70 - Website/00 - Landing Page Content.md",
+    "Businesses/4mie/70 - Website/01 - UI Design Specification.md",
+    "Businesses/4mie/10 - Business Plan/01 - Market Research.md",
+    "Businesses/4mie/10 - Business Plan/00 - Mission and Vision.md",
+    "Businesses/4mie/00 - Inbox/Practice Direction 27A - Bundle Presentation.md",
+    "Businesses/4mie/00 - Inbox/Divorce Settlement Idea.md",
+    "Businesses/4mie/00 - Inbox/Bootstrapped Growth Strategy - Competitive Moat Building.md",
+    "Businesses/4mie/00 - Inbox/4mie Branding Analysis - Gemini and Claude.md",
     "Businesses/Casulogica/10 - Business Plan/00 - Mission and Vision.md",
     "README.md",
     "Businesses/00 - Inbox/Business Focus Recommendation.md",
-    "Businesses/4mie/10 - Business Plan/00 - Mission and Vision.md",
     "Businesses/4mie/80 - Resources/01 - Form E Comprehensive Guidance.md",
-    "Businesses/4mie/00 - Inbox/4mie Branding Analysis - Gemini and Claude.md",
     "Common/30 - Marketing and Sales/DOAC Behind The Diary Transcripts/DOAC Behind The Diary Transcripts_Video_Analysis.md",
     "Businesses/4mie/30 - Marketing and Sales/00 - Brand Voice and Useful Absurdity Copy Guide.md",
     "Common/30 - Marketing and Sales/Daniel Priestley Transcripts/Daniel_Priestley_Video_Analysis.md",
@@ -219,21 +226,14 @@
     "Common/30 - Marketing and Sales/DOAC Behind The Diary Transcripts/I went to the most HEARTBREAKING Earthquake in 20 Years.json",
     "Common/30 - Marketing and Sales/DOAC Behind The Diary Transcripts/I went to the most HEARTBREAKING Earthquake in 20 Years.en.vtt",
     "Businesses/4mie/00 - Inbox/Steven Bartlett Content Strategy - Applied to 4mie.md",
-    "Businesses/4mie/70 - Website/01 - UI Design Specification.md",
     "Businesses/4mie/00 - Inbox/Scale Opportunity and Ambitious Exit Scenario.md",
     "Businesses/4mie/_index.md",
-    "Businesses/4mie/00 - Inbox/Bootstrapped Growth Strategy - Competitive Moat Building.md",
-    "Businesses/4mie/00 - Inbox/Practice Direction 27A - Bundle Presentation.md",
     "Businesses/4mie/40 - Operations/02 - Prompt Engineering Guide.md",
     "Businesses/4mie/20 - Services/01 - Form E Data Model.md",
     "Businesses/4mie/80 - Resources/00 - Form E Template and Links.md",
-    "Businesses/4mie/10 - Business Plan/01 - Market Research.md",
     "Businesses/4mie/10 - Business Plan/02 - Financial Projections.md",
     "Businesses/4mie/00 - Inbox/Comprehensive Market Research.md",
     "Businesses/4mie/40 - Operations/01 - AI LLM Strategy.md",
-    "Businesses/4mie/40 - Operations/00 - Tech Stack and MVP Build Plan.md",
-    "Businesses/4mie/30 - Marketing and Sales/00 - Launch Strategy.md",
-    "Businesses/4mie/50 - Legal and Finance/00 - Disclaimers and Terms.md",
-    "Businesses/4mie/60 - Pitches/00 - Investor Pitch Outline.md"
+    "Businesses/4mie/40 - Operations/00 - Tech Stack and MVP Build Plan.md"
   ]
 }
