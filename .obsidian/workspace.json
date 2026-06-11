@@ -39,12 +39,14 @@
             "id": "316f2f132bbdff10",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Businesses/Casulogica/10 - Business Plan/00 - Mission and Vision.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "00 - Mission and Vision"
             }
           },
           {
