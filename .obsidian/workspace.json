@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "316f2f132bbdff10",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "09bc65f0d81fbca5",
             "type": "leaf",
             "state": {
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +209,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "b61be454d6259220",
+  "active": "316f2f132bbdff10",
   "lastOpenFiles": [
     "Businesses/CIOJoy/10 - Business Plan/03 - Business Model.md",
     "Businesses/CIOJoy/10 - Business Plan/02 - Value Proposition and Differentiators.md",
