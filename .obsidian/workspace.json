@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Businesses/4mie/10 - Business Plan/00 - Mission and Vision.md",
+                "file": "Businesses/OpsForge/10 - Business Plan/00 - Mission and Vision.md",
                 "mode": "source",
                 "source": false
               },
@@ -211,8 +211,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "525fc7e74f26b50b",
+  "active": "316f2f132bbdff10",
   "lastOpenFiles": [
+    "Businesses/4mie/10 - Business Plan/00 - Mission and Vision.md",
     "Businesses/OpsForge/00 - Inbox/Initial Concept Validation Notes.md",
     "Businesses/OpsForge/10 - Business Plan/03 - Business Model.md",
     "Businesses/OpsForge/30 - Marketing and Sales/01 - Go-to-Market Strategy.md",
@@ -247,7 +248,6 @@
     "Businesses/CIOJoy/10 - Business Plan/02 - Value Proposition and Differentiators.md",
     "Businesses/CIOJoy/10 - Business Plan/01 - Concept Overview.md",
     "Businesses/CIOJoy/10 - Business Plan/00 - Mission and Vision.md",
-    "Businesses/BikeFuel Pro/10 - Business Plan/00 - Mission and Vision.md",
-    "Businesses/4mie/70 - Website/00 - Landing Page Content.md"
+    "Businesses/BikeFuel Pro/10 - Business Plan/00 - Mission and Vision.md"
   ]
 }
